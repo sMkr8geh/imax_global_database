@@ -1,1 +1,0 @@
-# imax_global_database
