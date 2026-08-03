@@ -1049,7 +1049,7 @@ CineplexX Apollo Vienna & IMAX,cineplexx-apollo-vienna-imax,,Gumpendorferstrasse
 CineplexX Westfield SCS & IMAX,cineplexx-westfield-scs-and-imax,,Westfield Shopping City Süd,2351,Wiener Neudorf,,AT,Austria,EMEA,TRUE,FALSE,FALSE,48.10440,16.31830
 Azercell & IMAX,azercell-imax,,"Mehdi Huseyn 1A, Sabail Region",AZ1006,Baku,,AZ,Azerbaijan,EMEA,FALSE,FALSE,FALSE,40.36127,49.82643
 Kinepolis Mega NV Antwerpen & IMAX,kinepolis-mega-nv-antwerpen-imax,,Groenendaallaan 394,2030,Antwerpen,,BE,Belgium,EMEA,TRUE,FALSE,FALSE,51.24445,4.41753
-Kinepolis Brussels & IMAX,kinepolis-brussels-imax,,Boulevard du Centenaire 20,1020,Brussels,,BE,Belgium,EMEA,TRUE,FALSE,FALSE,50.89562,4.33823
+Kinepolis Brussels & IMAX,kinepolis-brussels-imax,,Boulevard du Centenaire 20,1020,Brussels,,BE,Belgium,EMEA,TRUE,FALSE,TRUE,50.89562,4.33823
 Pathé Charleroi & IMAX,pathé-charleroi-imax,,Grand'Rue 141-143,6000,Charleroi,,BE,Belgium,EMEA,TRUE,FALSE,FALSE,50.42126,4.45893
 Kinepolis Hasselt & IMAX,kinepolis-hasselt-and-imax,,Via Media 1/4A,3500,Hasselt,,BE,Belgium,EMEA,TRUE,FALSE,FALSE,50.93050,5.36880
 Kinepolis Liege & IMAX,kinepolis-liege-and-imax,,Chaussée de Tongres 200,4000,Liege,,BE,Belgium,EMEA,TRUE,FALSE,FALSE,50.66817,5.55411
@@ -1113,7 +1113,8 @@ Cinema Pathe Quai d'Ivry & IMAX,cinema-pathe-quai-divry-imax,PATHE,5 rue Franço
 Pathe La Valette & IMAX,pathe-la-valette-imax,PATHE,300 avenue de l’Université,86130,La Valette-Du-Var,,FR,France,EMEA,TRUE,FALSE,FALSE,43.13707,6.00662
 Pathe Plan de Campagne & IMAX,pathe-plan-de-campagne-imax,PATHE, Chemin des Pennes aux Pins,13170,Les Pennes Mirabeau,,FR,France,EMEA,FALSE,FALSE,FALSE,43.41304,5.36238
 Megarama Les Ulis & IMAX,megarama-les-ulis-and-imax,,5 Avenue de l'Aubrac,91940,Les Ulis,Issonne / ile de France,FR,France,EMEA,TRUE,FALSE,FALSE,48.67711,2.17071
-Pathé Carré Sénart  & IMAX,pathé-carré-sénart-imax,,"3, allée du préambule",77566,Lieusaint,,FR,France,EMEA,TRUE,FALSE,FALSE,48.61584,2.54596
+Pathé Carré Sénart & IMAX,pathé-carré-sénart-imax,,"3, allée du préambule",77566,Lieusaint,,FR,France,EMEA,TRUE,FALSE,FALSE,48.61584,2.54596
+Pathé Île Seguin & IMAX,pathe-ile-seguin-and-imax,Pathé,"2 Île Seguin",92100,Boulogne-Billancourt,,Fr,France,EMEA,TRUE,FALSE,FALSE,48.81359,2.39484
 Kinepolis Lomme & IMAX,kinepolis-lomme-and-imax,,1 Rue du Chateau D'Isenghien,59160,Lille,,FR,France,EMEA,TRUE,FALSE,FALSE,50.65106,2.98232
 Cinema Pathe Carre de Soie & IMAX,cinema-pathe-carre-de-soie-imax,PATHE,2 rue Jacquard,69120,Lyon (Vaulx-en-Velin),,FR,France,EMEA,TRUE,FALSE,FALSE,45.76377,4.92629
 Pathe Montataire & IMAX,pathe-montataire-and-imax,,91 Rue Louis Blanc,60160,Montataire,,FR,France,EMEA,TRUE,FALSE,FALSE,49.26027,2.45104
