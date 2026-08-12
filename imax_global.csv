@@ -1,14 +1,14 @@
 ﻿name,slug,operator,address,zip,city,state,country,countryName,region,Laser,Dome,70mm,_geoloc.lat,_geoloc.lng
-Hoyts Blacktown & IMAX,hoyts-blacktown-and-imax,,Patrick Street,2148,Blacktown,New South Wales,AU,Australia,APAC,TRUE,FALSE,FALSE,-33.77018,150.90640
-Event Cinemas Pacific Fair Mall & IMAX,event-cinemas-pacific-fair-mall-and-imax,,"Pacific Fair Shopping Mall, Level 1, Hooker Blvd.",4218,Broadbeach,,AU,Australia,APAC,TRUE,FALSE,FALSE,-28.03690,153.42820
-Dendy Canberra & IMAX,dendy-canberra-and-imax,,"Dendy Canberra, Level 2, North Quarter, Canberra Centre, 148 Bunda Street",2600,Canberra,,AU,Australia,APAC,TRUE,FALSE,FALSE,-35.27800,149.13280
-Hoyts Carousel & IMAX,hoyts-carousel-and-imax,,1382 Albany Hwy,6107,Cannington,Western Australia,AU,Australia,APAC,TRUE,FALSE,FALSE,-32.01940,115.93850
-Hoyts Chadstone & IMAX,hoyts-chadstone-and-imax,,"Level 2, 1341 Dandenong Rd  ",3148,Chadstone,Victoria,AU,Australia,APAC,TRUE,FALSE,FALSE,-37.88730,145.08370
-Event Cinemas Innaloo & IMAX,event-cinemas-innaloo-and-imax,,57 Liege Street,6018,Innaloo,,AU,Australia,APAC,TRUE,FALSE,FALSE,-31.90470,115.79790
-"Village Cinemas, Fountain Gate IMAX",village-cinemas-fountain-gate-imax,,"55 Overland Dr, Narre Warren",3805,Melbourne,Victoria,AU,Australia,APAC,TRUE,FALSE,FALSE,-38.01930,145.30570
-"IMAX, Melbourne Museum",imax-melbourne-museum,,11 Nicholson Street,3053,Melbourne,,AU,Australia,APAC,TRUE,FALSE,TRUE,-37.80379,144.97054
-Hoyts Melbourne Central & IMAX,hoyts-melbourne-central-and-imax,,"Level 3, Corner Swanstone & Latrobe St.",3000,Melbourne,,AU,Australia,APAC,TRUE,FALSE,FALSE,-37.80980,144.96370
-IMAX Sydney,lg-imax-darling-harbour,,1/35 Wheat Road,2000,Sydney,,AU,Australia,APAC,FALSE,FALSE,FALSE,-33.87270,151.20230
+Hoyts Blacktown & IMAX,hoyts-blacktown-and-imax,HOYTS,Patrick Street,2148,Blacktown,New South Wales,AU,Australia,APAC,TRUE,FALSE,FALSE,-33.77018,150.90640
+Event Cinemas Pacific Fair Mall & IMAX,event-cinemas-pacific-fair-mall-and-imax,EVENT,"Pacific Fair Shopping Mall, Level 1, Hooker Blvd.",4218,Broadbeach,Queensland,AU,Australia,APAC,TRUE,FALSE,FALSE,-28.03690,153.42820
+Dendy Canberra & IMAX,dendy-canberra-and-imax,,"Dendy Canberra, Level 2, North Quarter, Canberra Centre, 148 Bunda Street",2600,Canberra,Australian Capital Territory,AU,Australia,APAC,TRUE,FALSE,FALSE,-35.27800,149.13280
+Hoyts Carousel & IMAX,hoyts-carousel-and-imax,HOYTS,1382 Albany Hwy,6107,Cannington,Western Australia,AU,Australia,APAC,TRUE,FALSE,FALSE,-32.01940,115.93850
+Hoyts Chadstone & IMAX,hoyts-chadstone-and-imax,HOYTS,"Level 2, 1341 Dandenong Rd  ",3148,Chadstone,Victoria,AU,Australia,APAC,TRUE,FALSE,FALSE,-37.88730,145.08370
+Event Cinemas Innaloo & IMAX,event-cinemas-innaloo-and-imax,EVENT,57 Liege Street,6018,Innaloo,Western Australia,AU,Australia,APAC,TRUE,FALSE,FALSE,-31.90470,115.79790
+"Village Cinemas, Fountain Gate IMAX",village-cinemas-fountain-gate-imax,VILLAGE,"55 Overland Dr, Narre Warren",3805,Melbourne,Victoria,AU,Australia,APAC,TRUE,FALSE,FALSE,-38.01930,145.30570
+"IMAX, Melbourne Museum",imax-melbourne-museum,,11 Nicholson Street,3053,Melbourne,Victoria,AU,Australia,APAC,TRUE,FALSE,TRUE,-37.80379,144.97054
+Hoyts Melbourne Central & IMAX,hoyts-melbourne-central-and-imax,HOYTS,"Level 3, Corner Swanstone & Latrobe St.",3000,Melbourne,Victoria,AU,Australia,APAC,TRUE,FALSE,FALSE,-37.80980,144.96370
+IMAX Sydney,lg-imax-darling-harbour,,1/35 Wheat Road,2000,Sydney,New South Wales,AU,Australia,APAC,FALSE,FALSE,FALSE,-33.87270,151.20230
 Anqing InJoy Bestar & IMAX,anqing-injoy-bestar-imax,,"4F, InJoy Plaza, Cross of Longmianshan Road and Wanjiang Avenue, Yingjiang District",246000,Anqing,,CN,China,APAC,FALSE,FALSE,FALSE,30.52164,117.08454
 Anshan Wanda & IMAX,anshan-wanda-imax,,"3F, Wanda Plaza, 278A Middle Qianshan Road, Lishan District",114031,Anshan,,CN,China,APAC,FALSE,FALSE,FALSE,41.10338,123.04245
 Anyang Wanda & IMAX,anyang-wanda-imax,,"4F, Zhonghua Rd. Wenming Ave., Wenfeng District",455000,Anyang,,CN,China,APAC,FALSE,FALSE,FALSE,36.09219,114.39870
@@ -16,10 +16,10 @@ Baoding Wanbo Plaza Wanda & IMAX,baoding-wanbo-plaza-wanda-and-imax,,"Wanda Cine
 Baoji Fuhui Jinyi & IMAX,baoji-fuhui-jinyi-imax,,"3F, No.10 Daqing Road, Jintai District",721000,Baoji,,CN,China,APAC,FALSE,FALSE,FALSE,34.36400,107.22800
 Baotou Jinyuan Wanda & IMAX,baotou-jinyuan-wanda-imax,,"4F-A, Entertainment Building, Wanda Plaza, West of 210 National Rd, North of West Shahe Street",14030,Baotou,,CN,China,APAC,FALSE,FALSE,FALSE,40.61224,109.95881
 Baotou Qingshan Wanda & IMAX,baotou-qingshan-wanda-imax,,"4F, No.26, Qingnian Road, Wanda Plaza, Qingshan District",14030,Baotou,,CN,China,APAC,TRUE,FALSE,FALSE,40.65495,109.85880
-Baotou Victory City Mall Wanda & IMAX,baotou-victory-city-mall-wanda-imax,,"4F, Wanda Plaza, Victory City Mall, No. 18 Bayantala Street, Donghe District ",14000,"Baotou, Inner Mongolia",,CN,China,APAC,FALSE,FALSE,FALSE,40.57880,110.02450
+Baotou Victory City Mall Wanda & IMAX,baotou-victory-city-mall-wanda-imax,,"4F, Wanda Plaza, Victory City Mall, No. 18 Bayantala Street, Donghe District ",14000,Baotou,,CN,China,APAC,FALSE,FALSE,FALSE,40.57880,110.02450
 Beijing Beiyuan Longfor Paradise Walk Bona & IMAX,beijing-beiyuan-longfor-paradise-walk-bona-and-imax,,"5F, Beijing Beiyuan Tianjie, No. 19 Beiyuan East Road, Chaoyang District",100012,Beijing,,CN,China,APAC,TRUE,FALSE,FALSE,40.03490,116.44130
 Beijing CBD Wanda & IMAX,beijing-cbd-wanda-imax,,"3F, No.93, Jianguo Road, Wanda Plaza, Chaoyang District",100022,Beijing,,CN,China,APAC,TRUE,FALSE,FALSE,39.90932,116.47152
-Beijing Changping Hopson Hoyts & IMAX,beijing-changping-hopson-hoyts-and-imax,,"No. 34, B2/F, Hopson, No.1 Beiqing Road, Changping District",102206,Beijing,,CN,China,APAC,TRUE,FALSE,FALSE,40.09640,116.29100
+Beijing Changping Hopson Hoyts & IMAX,beijing-changping-hopson-hoyts-and-imax,HOYTS,"No. 34, B2/F, Hopson, No.1 Beiqing Road, Changping District",102206,Beijing,,CN,China,APAC,TRUE,FALSE,FALSE,40.09640,116.29100
 Beijing Dongba Wanda & IMAX,beijing-dongba-wanda-and-imax,,"5F, Wanda Plaza, No. 25 Dongba Middle Road, Chaoyang District",100015,Beijing,,CN,China,APAC,TRUE,FALSE,FALSE,39.90930,116.47100
 Beijing Emperor Center & IMAX,beijing-emperor-center-imax,,"B1, Emperor Center, No. 12 Jianwai Street, Chaoyang District",100020,Beijing,,CN,China,APAC,TRUE,FALSE,FALSE,39.91392,116.45108
 Beijing Fangshan Longfar Paradise Walk Womei & IMAX,beijing-fangshan-longfar-paradise-walk-womei-imax,,"5F, Longfar Paradise Walk, Changyu Avenue, Fangshan District",102401,Beijing,,CN,China,APAC,FALSE,FALSE,FALSE,39.73110,116.17080
@@ -31,7 +31,7 @@ Beijing Huairou Wanda & IMAX,beijing-huairou-wanda-imax,,"7F,Wanda Plaza, Buildi
 Beijing Huiju Jinyi & IMAX,beijing-huiju-jinyi-imax,,"3rd Fl, West Hongfu Rd, IKEA Shopping Mall, Xihongmen, Daxing District",100162,Beijing,,CN,China,APAC,TRUE,FALSE,FALSE,39.73715,116.33737
 Beijing Jinyi Cinema & IMAX,beijing-jinyi-cinema-imax,,"8th floor, Joy City, No.101, Chaoyang North Road",100020,Beijing,,CN,China,APAC,TRUE,FALSE,FALSE,39.92352,116.51801
 Beijing Longfor Yizhuang Bona & IMAX,beijing-longfor-yizhuang-bona-imax,,"L5-A-5F-Z01, Longfor Beijing Yizhuang, Block 1 Yard No. 1, Xinghai Road, Jingkai District",100176,Beijing,,CN,China,APAC,FALSE,FALSE,FALSE,39.72690,116.34130
-Beijing Lujin World Plaza Subo & IMAX,beijing-lujin-world-plaza-subo-imax,,"S306A, Bldg 2, Yard 78, West Shuangying Rd., Nanshao Town, Changping District ",,Beijing,,CN,China,APAC,FALSE,FALSE,FALSE,40.20742,116.28646
+Beijing Lujin World Plaza Subo & IMAX,beijing-lujin-world-plaza-subo-imax,,"S306A, Bldg 2, Yard 78, West Shuangying Rd., Nanshao Town, Changping District ",102206,Beijing,,CN,China,APAC,FALSE,FALSE,FALSE,40.20742,116.28646
 Beijing Mentougou Bona & IMAX,beijing-mentougou-bona-imax,,"Z01, 6F/Z05,5F, Building 2, No.17 East Xincheng Road, Mentougou District",102300,Beijing,,CN,China,APAC,FALSE,FALSE,FALSE,39.89408,116.65682
 Beijing Miyun Bona & IMAX,beijing-miyun-bona-imax,,"4F, MixC , No.178 Binhe Road, Miyun District",101500,Beijing,,CN,China,APAC,FALSE,FALSE,FALSE,40.36233,116.84258
 Beijing Qinghe CGV & IMAX,beijing-qinghe-cgv-imax,CGV,"7F, Dreamport, Middle Qinghe Street, Haidian District ",100000,Beijing,,CN,China,APAC,TRUE,FALSE,FALSE,40.03084,116.33310
@@ -46,8 +46,6 @@ Beijing Xitieying Wanda & IMAX,beijing-xitieying-wanda-imax,,"7F, Wanda Plaza, N
 Beijing Yangqiao Huayi Brothers & IMAX,beijing-yangqiao-huayi-brothers-imax,,"Intime City, East Majiabao Rd No.101, Building 10, Fengtai District",100071,Beijing,,CN,China,APAC,FALSE,FALSE,FALSE,39.85072,116.39234
 Beijing Zhongguancun Perfect World & IMAX,beijing-zhongguancun-perfect-world-and-imax,,"No. 44 Kexueyuan South Road, Zhongguancun Sub-district, Haidian District",100080,Beijing,,CN,China,APAC,TRUE,FALSE,FALSE,39.96780,116.32580
 China National Film Museum & IMAX,china-national-film-museum-imax,,"No. 9, Nanying Road, Chaoyang District",100015,Beijing,,CN,China,APAC,TRUE,FALSE,FALSE,39.95514,116.51554
-"IMAX 3D, China Science & Technology Museum",imax-3d-china-science-technology-museum,,"No. 5 Beichen East Road, Chaoyang District",100012,Beijing,,CN,China,APAC,FALSE,FALSE,FALSE,39.85321,116.36086
-"IMAX Dome, China Science & Technology Museum",imax-dome-china-science-technology-museum,,"No. 5 Beichen East Road, Chaoyang District",100012,Beijing,,CN,China,APAC,FALSE,FALSE,FALSE,40.00578,116.39760
 Universal Beijing Resort Universal City Walk & IMAX,universal-beijing-resort-universal-city-walk-imax,,"RE-02, Building 5, Universal Beijing Resort, Tongzhou District",101121,Beijing,,CN,China,APAC,TRUE,FALSE,FALSE,39.86680,116.66310
 Beijing Daxing Longfor SFC & IMAX,beijing-daxing-longfor-sfc-imax,,"3F, Longfor Paradise Walk, Yongxing Rd. Daxing District",102600,Bejing,,CN,China,APAC,FALSE,FALSE,FALSE,39.69190,116.32793
 Bengbu Wanda & IMAX,bengbu-wanda-imax,,"4th Fl., No. 4399 Donghai St., Bengshan District",233040,Bengbu,,CN,China,APAC,TRUE,FALSE,FALSE,32.92875,117.36897
@@ -62,7 +60,7 @@ Changchun Kuancheng Wanda & IMAX,changchun-kuancheng-wanda-imax,,"No.3366 N. Ren
 Changchun Ouya Wanda & IMAX,changchun-ouya-wanda-imax,,"4F, No.5178,  Kayun Street, Ouya Plaza Gate 20, Gaoxin District",130012,Changchun,,CN,China,APAC,FALSE,FALSE,FALSE,43.85773,125.31913
 Changchun Qianjin Street Liwang Wanda & IMAX,changchun-qianjin-street-liwang-wanda-imax,,"Liwang Plaza, No. 996 Qianjin Street, Chaoyang District ",130000,Changchun,,CN,China,APAC,FALSE,FALSE,FALSE,43.84762,125.29646
 Changchun Red Flag Street Wanda & IMAX,changchun-red-flag-street-wanda-imax,,"4F, No.616, Hongqi Road, Wanda Plaza, Chaoyang  District",130021,Changchun,,CN,China,APAC,TRUE,FALSE,FALSE,43.88906,125.32023
-Changchun Village Hoyts &  IMAX,changchun-village-hoyts-imax,,"5F, Village, Intersection of Xiantai Street and Weixing Road, Nanguan District",130022,Changchun,,CN,China,APAC,FALSE,FALSE,FALSE,43.84122,125.38518
+Changchun Village Hoyts &  IMAX,changchun-village-hoyts-imax,HOYTS,"5F, Village, Intersection of Xiantai Street and Weixing Road, Nanguan District",130022,Changchun,,CN,China,APAC,FALSE,FALSE,FALSE,43.84122,125.38518
 Changchun Jucheng Huayi Plaza Wanda & IMAX,changchun-jucheng-huayi-plaza-wanda-imax,,"3F, Huayi Plaza, Huahui Rd. & Taixing St., Nanguan District",130000,"Changchun, Jilin",,CN,China,APAC,FALSE,FALSE,FALSE,43.79669,125.31883
 Changde Wanda & IMAX,changde-wanda-imax,,"4F, Wanda Plaza, Zaoguo Road, Wuling District",415000,Changde,,CN,China,APAC,FALSE,FALSE,FALSE,29.06394,111.68814
 CGV Changsha Desiqing & IMAX,cgv-changsha-desiqing-imax,CGV,"5F, Desiqing City Mall, Middle Xiangfu Rd",410000,Changsha,,CN,China,APAC,FALSE,FALSE,FALSE,28.11281,113.01035
@@ -76,7 +74,7 @@ Changsha U.you Town Hengdian & IMAX,changsha-uyou-town-hengdian-imax,,"3F, Build
 Changsha Wanda & IMAX,changsha-wanda-imax,,"4F, No.445, Huangxing South Road, Wanda Plaza, Tianxin District",410005,Changsha,,CN,China,APAC,TRUE,FALSE,FALSE,28.18233,112.97046
 Changsha Zhongmao City Wanda & IMAX,changsha-zhongmao-city-wanda-imax,,"5F, Building 4, Zhongmao City, Xiangyang Rd",410100,Changsha,,CN,China,APAC,FALSE,FALSE,FALSE,28.22826,113.07839
 Changsha Yanghu Paradise Walk Bona & IMAX,changsha-yanghu-paradise-walk-bona-imax,,"Z02, A1-4F, Paradise Walk, 69 Xiandao Road, Yuelu District",410000,"Changsha, Hunan",,CN,China,APAC,TRUE,FALSE,FALSE,28.12990,112.94390
-Changsha Livat Hoyts & IMAX,changsha-livat-hoyts-imax,,"4th floor , Livat Center, Yuelu District",410000,"Changsha, Hunan Province",,CN,China,APAC,FALSE,FALSE,FALSE,28.22300,112.98120
+Changsha Livat Hoyts & IMAX,changsha-livat-hoyts-imax,HOYTS,"4th floor , Livat Center, Yuelu District",410000,"Changsha, Hunan Province",,CN,China,APAC,FALSE,FALSE,FALSE,28.22300,112.98120
 Changsha Yunda Mode VHC & IMAX,changsha-yunda-mode-vhc-imax,,"L501, 5F Yunda Mode, 567 Changsha Avenue, Yuhua District",410000,"Changsha, Hunan Province",,CN,China,APAC,TRUE,FALSE,FALSE,28.16980,113.04260
 Changshu Wanda & IMAX,changshu-wanda-imax,,"4F, Wanda Plaza, No.8 Zhuhai Road",215500,Changshu,,CN,China,APAC,FALSE,FALSE,FALSE,31.68912,120.73865
 Changzhi Wanda & IMAX,changzhi-wanda-imax,,"4F, Wanda Plaza, No. 222 North Yingxiong Rd ",46000,Changzhi,,CN,China,APAC,FALSE,FALSE,FALSE,36.22473,113.13449
@@ -116,8 +114,8 @@ Chengdu MixC Ph2 Broadway & IMAX,chengdu-mixc-ph2-broadway-imax,,"4F, MixC, No,.
 Chengdu Shin Kong Plaza Emperor & IMAX,chengdu-shin-kong-plaza-emperor-imax,,"7F, Shin Kong Plaza, No. 1599, 3rd Section, Guanghua Avenue, Wenjiang District",611130,"Chengdu, Sichuan",,CN,China,APAC,TRUE,FALSE,FALSE,30.67807,103.88379
 Chengdu Aegean Sea Jinyi & IMAX,chengdu-aegean-sea-jinyi-imax,,"5F, Unit 1, Building 1, 919 Guoning East Road, Xipu District",611730,"Chengdu, Sichuan Province",,CN,China,APAC,FALSE,FALSE,FALSE,30.74610,103.98200
 Chengdu Global Center Bona & IMAX,chengdu-global-center-bona-imax,,"Unit 401, 4th Floor, Global Center, No. 1700, North Tianfu Avenue, High-tech Zone",610000,"Chengdu, Sichuan Province",,CN,China,APAC,TRUE,FALSE,FALSE,30.58450,104.06820
-Chengdu Longquanyi HOYTS & IMAX,chengdu-longquanyi-hoyts-imax,,"6F, Hoyts Cinema, Shimao Plaza, No.833 Jinfeng Road, Longquanyi District",610100,"Chengdu, Sichuan Province",,CN,China,APAC,FALSE,FALSE,FALSE,30.57480,104.19100
-Chengdu The Magic Hoyts & IMAX,chengdu-magic-hoyts-imax,,"L6, Building 5, No. 1777 North Tianfu Avenue, Wuhou District",610096,"Chengdu, Sichuan Province",,CN,China,APAC,FALSE,FALSE,FALSE,30.57550,104.07010
+Chengdu Longquanyi HOYTS & IMAX,chengdu-longquanyi-hoyts-imax,HOYTS,"6F, Hoyts Cinema, Shimao Plaza, No.833 Jinfeng Road, Longquanyi District",610100,"Chengdu, Sichuan Province",,CN,China,APAC,FALSE,FALSE,FALSE,30.57480,104.19100
+Chengdu The Magic Hoyts & IMAX,chengdu-magic-hoyts-imax,HOYTS,"L6, Building 5, No. 1777 North Tianfu Avenue, Wuhou District",610096,"Chengdu, Sichuan Province",,CN,China,APAC,FALSE,FALSE,FALSE,30.57550,104.07010
 Chenzhou Wanda & IMAX,chenzhou-wanda-imax,,"5th Fl., Shengyuan Times Plaza, Bayi Road",423000,Chenzhou,,CN,China,APAC,FALSE,FALSE,FALSE,26.69593,113.26544
 Chifeng Wanda Plaza & IMAX,chifeng-wanda-plaza-imax,,"4th floor, Chifeng Wanda Plaza, Xilamulun Ave, Inner Mongolia Autonomous Region",24000,Chifeng,,CN,China,APAC,FALSE,FALSE,FALSE,42.25305,118.91765
 Chongqing Daping Wanda & IMAX,chongqing-daping-wanda-imax,,"6F, Yingli IMIX, No.19 Daping Street, Yuzhong District",,Chonging,,CN,China,APAC,FALSE,FALSE,FALSE,29.54006,106.51653
@@ -140,8 +138,7 @@ Chongqing Qibo Yage & IMAX,chongqing-qibo-yage-imax,,"5F, Sunac Golden Trade Tim
 Chongqing Qijiang Wanda & IMAX,chongqing-qijiang-wanda-imax,,"4F, Wanda Plaza , Wenlong Street",401420,Chongqing,,CN,China,APAC,FALSE,FALSE,FALSE,29.03987,106.68274
 Chongqing Raffles City  CGV & IMAX,chongqing-raffles-city-cgv-imax,CGV,"Shop 03-127/04-120, 3-4F, Raffles City, No.8 Jiesheng Street, Chaotianmen, Yuzhong District",400010,Chongqing,,CN,China,APAC,TRUE,FALSE,FALSE,29.56360,106.58844
 Chongqing Yongchuan Wanda & IMAX,chongqing-yongchuan-wanda-imax,,"4F, Wanda Plaza, No.789 Xingguang Avenue, Yongchuan District",402160,Chongqing,,CN,China,APAC,FALSE,FALSE,FALSE,29.34221,105.93589
-"IMAX Dome, Chongqing Children's Museum",imax-dome-chongqing-childrens-museum,,"No. 134, Chongshan 2nd Road, Yuzhong District",400014,Chongqing,,CN,China,APAC,FALSE,FALSE,FALSE,29.55578,106.55468
-"IMAX, Chongqing Science & Technology Museum",imax-chongqing-science-technology-museum,,"No.7, Jiangbei City, Xida Street, Jiangbei District",400014,Chongqing,,CN,China,APAC,FALSE,FALSE,FALSE,29.57139,106.57782
+"IMAX Dome, Chongqing Children's Museum",imax-dome-chongqing-childrens-museum,,"No. 134, Chongshan 2nd Road, Yuzhong District",400014,Chongqing,,CN,China,APAC,FALSE,TRUE,FALSE,29.55578,106.55468
 Chuzhou Wanda & IMAX,chuzhou-wanda-imax,,"4F, Wanda Plaza, Intersection of Middle Nanqiao Road and Huxin Road, Nanqiao District",239001,Chuzhou,,CN,China,APAC,FALSE,FALSE,FALSE,32.27512,118.33232
 Cixi Poly China Film Stellar & IMAX,cixi-poly-china-film-stellar-imax,,"No. 1555 Poly Shopping Mall, West Sanbei Avenue, Zonghan Street",315100,Cixi,,CN,China,APAC,FALSE,FALSE,FALSE,30.18636,121.21509
 Dali Bona & IMAX,dali-bona-imax,,"4F, Hengbang Times Street, No.31 East Jianshe Road, Xiaguan Town",671000,"Dali, Yunnan",,CN,China,APAC,FALSE,FALSE,FALSE,25.59216,100.23340
@@ -174,7 +171,7 @@ Dongguan Humen Wanda & IMAX,dongguan-humen-wanda-imax,,"4F, Wanda Plaza, No.388 
 Dongguan Qiyun Plaza Huanxiang & IMAX,dongguan-qiyun-plaza-huanxiang-and-imax,,"No.28 Huanhu Middle Road, Shilong Town, Dongguan City, Qiyun Plaza",523325,Dongguan,Qiyun Province,CN,China,APAC,FALSE,FALSE,FALSE,23.10590,113.87440
 Dongguan Sizhe Cross Cinemas & IMAX,dongguan-sizhe-cross-cinemas-imax,,"District D, 3rd floor, LOHO City, East Commercial Street, Liaobu Town",523000,Dongguan,,CN,China,APAC,FALSE,FALSE,FALSE,23.00099,113.88513
 Dongguan Wanda & IMAX,dongguan-wanda-imax,,"3F, Sector D, Wandao Road, New South China Mall, Wanjiang District",523017,Dongguan,,CN,China,APAC,TRUE,FALSE,FALSE,23.03757,113.72094
-"IMAX Dome, Dongguan Science & Technology Museum",imax-dome-dongguan-science-technology-museum,,"No.2, Yuanmei Mid Road, New City Center District",523071,Dongguan,,CN,China,APAC,FALSE,FALSE,FALSE,23.00936,113.74648
+"IMAX Dome, Dongguan Science & Technology Museum",imax-dome-dongguan-science-technology-museum,,"No.2, Yuanmei Mid Road, New City Center District",523071,Dongguan,,CN,China,APAC,FALSE,TRUE,FALSE,23.00936,113.74648
 Dongtai Zhongnan City Omnijoi & IMAX,dongtai-zhongnan-city-omnijoi-imax,,"4F, Zhongnan Cheng Plaza, No. 80 Yingbin Avenue",224299,"Dongtai, Jiangsu",,CN,China,APAC,FALSE,FALSE,FALSE,32.87990,120.31710
 Dongying Wanda & IMAX,dongying-wanda-imax,,"Dongying Wanda Plaza 4F, Beiyi Rd., Dongying District",275000,Dongying,,CN,China,APAC,FALSE,FALSE,FALSE,37.46360,118.54666
 Foshan CGV Xingxing & IMAX,foshan-cgv-xingying-imax,CGV,3F Xingdouhui Plaza - 141 Yuhe Road - Shunde District,528200,Foshan,,CN,China,APAC,FALSE,FALSE,FALSE,22.97128,113.12139
@@ -228,15 +225,15 @@ Guangzhou Xintang Wanda & IMAX,guangzhou-xintang-wanda-imax,,"4F, Wanda Plaza, N
 Guangzhou Zengcheng Wanda & IMAX,guangzhou-zengcheng-wanda-imax,,"4/5th Fl, 69 Zhencheng Ave., Licheng Rd",511300,Guangzhou,,CN,China,APAC,FALSE,FALSE,FALSE,23.27577,113.81512
 Luogang Wanda & IMAX,luogang-wanda-imax,,Luogang Wanda Plaza - Kefeng Road No.89 - Luogang District,510000,Guangzhou,,CN,China,APAC,FALSE,FALSE,FALSE,23.17514,113.47379
 UA Cinemas MoW & IMAX,ua-cinemas-mow-imax,,Shop 1130 - Huacheng Square - 89 Huacheng Avenue - Tianhe District,510623,Guangzhou,,CN,China,APAC,FALSE,FALSE,FALSE,23.12385,113.32453
-Guangzhou Aeon Mall CGV & IMAX,guangzhou-aeon-mall-cgv-imax,CGV,"L4, CGV Cinema, Aeon Mall, No.1 Yayun Avenue, Panyu District",510000,"Guangzhou, Guangdong",,CN,China,APAC,TRUE,FALSE,FALSE,22.93860,113.44080
-Guangzhou Cinda Jinmao Plaza Hoyts & IMAX,guangzhou-cinda-jinmao-plaza-hoyts-imax,,"L4, Cinda Jinmao Plaza, No. 980 Guangzhou Avenue North, Tianhe District",510000,"Guangzhou, Guangdong",,CN,China,APAC,TRUE,FALSE,FALSE,23.17120,113.31890
+CGV Guangzhou AEON Mall & IMAX,guangzhou-aeon-mall-cgv-imax,CGV,"L4, CGV Cinema, Aeon Mall, No.1 Yayun Avenue, Panyu District",510000,"Guangzhou, Guangdong",,CN,China,APAC,TRUE,FALSE,FALSE,22.93860,113.44080
+Guangzhou Cinda Jinmao Plaza Hoyts & IMAX,guangzhou-cinda-jinmao-plaza-hoyts-imax,HOYTS,"L4, Cinda Jinmao Plaza, No. 980 Guangzhou Avenue North, Tianhe District",510000,"Guangzhou, Guangdong",,CN,China,APAC,TRUE,FALSE,FALSE,23.17120,113.31890
 Guangzhou Easyhome Jinyi & IMAX,guangzhou-easyhome-jinyi-imax,,"5F-501, Easyhome, No. 823, East Huangpu Avenue, Tianhe District",510660,"Guangzhou, Guangdong",,CN,China,APAC,FALSE,FALSE,FALSE,23.10507,113.41339
 Guangzhou Huangpu Nangang Wanda & IMAX,guangzhou-huangpu-nangang-wanda-imax,,"4F-A, Nangang Wanda Plaza, No.16, Kangfu Road, Huangpu District ",510700,"Guangzhou, Guangdong",,CN,China,APAC,FALSE,FALSE,FALSE,23.16961,113.46651
 Guangzhou Oriental International Plaza & IMAX,guangzhou-oriental-international-plaza-imax,,"4F, Oriental International Plaza, No. 299, Middle Huangpu Avenue, Tianhe District",510665,"Guangzhou, Guangdong",,CN,China,APAC,FALSE,FALSE,FALSE,23.11940,113.37750
 Guangzhou Rock Square Flying & IMAX,guangzhou-rock-square-flying-imax,,Rock Square No.106-108 North Industry Avenue Haizhu District,510220,"Guangzhou, Guangdong",,CN,China,APAC,TRUE,FALSE,FALSE,23.08923,113.25972
 Guangzhou Yue City CGV & IMAX,guangzhou-yue-city-cgv-imax,CGV,"4F, Yue City, Xi Wan Road, Liwan District",510160,"Guangzhou, Guangdong",,CN,China,APAC,FALSE,FALSE,FALSE,23.14510,113.24250
 Guangzhou Meilin Jinyi & IMAX,guangzhou-meilin-jinyi-imax,,"Meilin M· LIVE World Phase II F4 No.020, Huangpu Ave. East No. 657, Tianhe District",510815,"Guangzhou, Guangdong Province",,CN,China,APAC,FALSE,FALSE,FALSE,23.10520,113.41590
-Guangzhou Tianhe ICC Huanmao Tiandi Hoyts & IMAX,guangzhou-tianhe-icc-huanmao-tiandi-hoyts-imax,,"5th floor, ICC Huanmao Tiandi Plaza, No.237 Tianhe North Road, Tianhe District",510623,"Guangzhou, Guangdong Province",,CN,China,APAC,FALSE,FALSE,FALSE,23.14150,113.33090
+Guangzhou Tianhe ICC Huanmao Tiandi Hoyts & IMAX,guangzhou-tianhe-icc-huanmao-tiandi-hoyts-imax,HOYTS,"5th floor, ICC Huanmao Tiandi Plaza, No.237 Tianhe North Road, Tianhe District",510623,"Guangzhou, Guangdong Province",,CN,China,APAC,FALSE,FALSE,FALSE,23.14150,113.33090
 Guigang Wanda & IMAX,guigang-wanda-imax,,"3F, Wanda Plaza, Intersection of Xianyi Rd and Bushan Avenue, Gangbei District ",537100,Guigang,,CN,China,APAC,FALSE,FALSE,FALSE,23.12269,109.59033
 Guilin Diecai Wanda & IMAX,guilin-diecai-wanda-imax,,"4F, Wanda Plaza , No.169 Binbei Road",541001,Guilin,,CN,China,APAC,FALSE,FALSE,FALSE,25.32113,110.32592
 Guilin MixC & IMAX,guilin-mixc-imax,,"Shop L433, 4F, MixC, No.1 Hongling Road, Xiangshan District",541002,Guilin,,CN,China,APAC,TRUE,FALSE,FALSE,25.26846,110.27020
@@ -515,24 +512,24 @@ Shanghai Chongming Chengqiao Wanda & IMAX,shanghai-chongming-chengqiao-wanda-ima
 Shanghai Chuansha SFC Bailian & IMAX,shanghai-chuansha-sfc-bailian-imax,,"4F, Bailian Shopping Mall, No.5398 Chuansha Rd, Pudong District",201299,Shanghai,,CN,China,APAC,FALSE,FALSE,FALSE,31.19191,121.70570
 Shanghai City Omnijoi & IMAX,shanghai-city-omnijoi-imax,,"3-21, 3F, Block 1, Merchants Garden, No. 2069 Shuichan Road, Baoshan District",201900,Shanghai,,CN,China,APAC,FALSE,FALSE,FALSE,31.37520,121.46800
 Shanghai Daning Aurora & IMAX,shanghai-daning-aurora-imax,,"Building 1, No.777 Wanrong Rd.,Jingan District ",200072,Shanghai,,CN,China,APAC,FALSE,FALSE,FALSE,31.28755,121.44966
-Shanghai Daning IMIX Park Hoyts & IMAX,shanghai-daning-imix-park-hoyts-imax,,"3F, IMIX Park, No. 1111, Hutai Road, Jingan District",200040,Shanghai,,CN,China,APAC,FALSE,FALSE,FALSE,31.27982,121.42608
-Shanghai Daning Jiuguang Hoyts & IMAX,shanghai-daning-jiuguang-hoyts-imax,,"L5, No.2188 Gonghe New Road, Jingan District",500072,Shanghai,,CN,China,APAC,TRUE,FALSE,FALSE,31.28180,121.45220
+Shanghai Daning IMIX Park Hoyts & IMAX,shanghai-daning-imix-park-hoyts-imax,HOYTS,"3F, IMIX Park, No. 1111, Hutai Road, Jingan District",200040,Shanghai,,CN,China,APAC,FALSE,FALSE,FALSE,31.27982,121.42608
+Shanghai Daning Jiuguang Hoyts & IMAX,shanghai-daning-jiuguang-hoyts-imax,HOYTS,"L5, No.2188 Gonghe New Road, Jingan District",500072,Shanghai,,CN,China,APAC,TRUE,FALSE,FALSE,31.28180,121.45220
 Shanghai Fengxian Powerlong Hengdian & IMAX,shanghai-fengxian-powerlong-hengdian-imax,,"4F, Powerlong Plaza,  intersection of Hangnan Rd. and East Huancheng Rd., Fengxian District",201400,Shanghai,,CN,China,APAC,FALSE,FALSE,FALSE,31.27286,121.66027
 Shanghai Jiangqiao Wanda & IMAX,shanghai-jiangqiao-wanda-imax,,3F Wanda Plaza - Lane 1075 - 49 Jinshajiang Road - Jiading District,201803,Shanghai,,CN,China,APAC,TRUE,FALSE,FALSE,31.24116,121.32962
 Shanghai Jinqiao The Mall SFC & IMAX,shanghai-jinqiao-mall-sfc-imax,,"4F, The Mall, No.1882 Jingao Road, Pudong District",201206,Shanghai,,CN,China,APAC,FALSE,FALSE,FALSE,31.26923,121.61492
 Shanghai Jinshan Wanda & IMAX,shanghai-jinshan-wanda-imax,,4F Wanda Plaza - 1088 Longhao Road - Jinshan District,201500,Shanghai,,CN,China,APAC,TRUE,FALSE,FALSE,30.75651,121.33310
 Shanghai Jiuting Bestar & IMAX,shanghai-jiuting-bestar-imax,,"2F, Jiuting U Tiandi, No.178 Puhui Road, Jiuting County, Songjiang District",201600,Shanghai,,CN,China,APAC,FALSE,FALSE,FALSE,31.13738,121.34041
-Shanghai L City HOYTS & IMAX,shanghai-l-city-hoyts-and-imax,,"5th Floor, L City, 1155 Huan Ke Road",200120,Shanghai,,CN,China,APAC,TRUE,FALSE,FALSE,31.17680,121.60640
+Shanghai L City HOYTS & IMAX,shanghai-l-city-hoyts-and-imax,HOYTS,"5th Floor, L City, 1155 Huan Ke Road",200120,Shanghai,,CN,China,APAC,TRUE,FALSE,FALSE,31.17680,121.60640
 Shanghai LCM Palace & IMAX,shanghai-lcm-palace-imax,,"4F, LCM, No. 2389-2 Zhangyang Road, Pudong New Area",200120,Shanghai,,CN,China,APAC,FALSE,FALSE,FALSE,31.24803,121.56235
 Shanghai Lingang Wanda & IMAX,shanghai-lingang-wanda-imax,,"4th Floor, Lane 1209, Yunduan Rd, Nicheng Town, Pudong New Area",201306,Shanghai,,CN,China,APAC,TRUE,FALSE,FALSE,30.90400,121.83060
-Shanghai Livat Hoyts & IMAX,shanghai-livat-hoyts-and-imax,,"L4, Shanghai Livat, No.788 JinZhong Road, Changning District ",200050,Shanghai,,CN,China,APAC,TRUE,FALSE,FALSE,31.22140,121.35540
+Shanghai Livat Hoyts & IMAX,shanghai-livat-hoyts-and-imax,HOYTS,"L4, Shanghai Livat, No.788 JinZhong Road, Changning District ",200050,Shanghai,,CN,China,APAC,TRUE,FALSE,FALSE,31.22140,121.35540
 Shanghai Livingsteel Stage Wanda & IMAX,shanghai-livingsteel-stage-wanda-imax,,"508, 5F, No. 1569 Mudanjiang Road, Baoshan District ",201900,Shanghai,,CN,China,APAC,FALSE,FALSE,FALSE,31.39930,121.48500
 Shanghai Longsheng Wanda & IMAX,shanghai-longsheng-wanda-imax,,"3F, Longsheng Plaza, No. 3975 Dushi Rd. Minghang District",200000,Shanghai,,CN,China,APAC,FALSE,FALSE,FALSE,31.09191,121.40603
 Shanghai Maqiao Wanda & IMAX,shanghai-maqiao-wanda-imax,,"5F-A, Wanda Plaza, No. 121 Fuyan Road, Minhang District",201111,Shanghai,,CN,China,APAC,FALSE,FALSE,FALSE,31.02650,121.37280
 Shanghai Oasis Mall Womei & IMAX,shanghai-oasis-mall-womei-and-imax,,"Room 6313-A, 3rd Floor, Building 6, Oasis Mall, Lane 99 Weidi Road, Dachang Town, Baoshan District",200436,Shanghai,,CN,China,APAC,TRUE,FALSE,FALSE,31.32522,121.39933
 Shanghai One East Palace & IMAX,shanghai-one-east-palace-imax,,"B2-1, 383 Longhua East Road, Huangpu District",200001,Shanghai,,CN,China,APAC,TRUE,FALSE,FALSE,31.19580,121.48120
 Shanghai Pujiang Wanda & IMAX,shanghai-pujiang-wanda-imax,,"Room A, 4F, Wanda Plaza, No. 360, Yongyue Road, Minhang District",201112,Shanghai,,CN,China,APAC,FALSE,FALSE,FALSE,31.02750,121.51126
-Shanghai Qianwan INCITY MEGA HOYTS & IMAX,shanghai-qianwan-incity-mega-hoyts-and-imax,,"HOYTS IMAX Cinema, Floors 4-5, Qianwan INCity MEGA, No. 388 Lianyou Road, Minhang District (Shop Units L422/L519)",201106,Shanghai,,CN,China,APAC,TRUE,FALSE,FALSE,31.21640,121.27540
+Shanghai Qianwan INCITY MEGA HOYTS & IMAX,shanghai-qianwan-incity-mega-hoyts-and-imax,HOYTS,"HOYTS IMAX Cinema, Floors 4-5, Qianwan INCity MEGA, No. 388 Lianyou Road, Minhang District (Shop Units L422/L519)",201106,Shanghai,,CN,China,APAC,TRUE,FALSE,FALSE,31.21640,121.27540
 Shanghai Qibao Vanke CGV & IMAX,shanghai-qibao-vanke-cgv-imax,CGV,"Vanke Plaza, Intersection of Qixin Road and Caobao Road, Minhang District ",201100,Shanghai,,CN,China,APAC,FALSE,FALSE,FALSE,31.16070,121.35576
 Shanghai Qingpu Wanda Mall Wanda & IMAX,shanghai-qingpu-wanda-mall-wanda-imax,,"4F, Area A, No. 1-45, Lane 1059, Dingshan Lake Avenue, Qingpu District",201799,Shanghai,,CN,China,APAC,FALSE,FALSE,FALSE,31.13010,121.06425
 Shanghai Songjiang Wanda & IMAX,shanghai-songjiang-wanda-imax,,4F 692 Guangfulin Road - Songjiang District,201620,Shanghai,,CN,China,APAC,FALSE,FALSE,FALSE,31.05707,121.24096
@@ -540,7 +537,7 @@ Shanghai Unicity CGV & IMAX,shanghai-unicity-cgv-imax,CGV,"L3, Hongqiao Uniticy,
 Shanghai Unipark MAX Bona Palace & IMAX,shanghai-unipark-max-bona-palace-and-imax,,"L5039, 5th Floor, Unipark MAX, Lane 699, Lane 1, Tongchuan Road, Putuo District",200333,Shanghai,,CN,China,APAC,TRUE,FALSE,FALSE,31.25270,121.39150
 Shanghai Wanda International Cinema IMAX,shanghai-wanda-international-cinema-imax,,3F Wanda Plaza - 58 Guo Bin Road - Yangpu District,200435,Shanghai,,CN,China,APAC,TRUE,FALSE,FALSE,31.30018,121.51454
 Shanghai White Magnolia Plaza CGV & IMAX,shanghai-white-magnolia-plaza-cgv-imax,CGV,"3F, White Magnolia Plaza, No.588 East Changzhi Rd , Hongkou District",200080,Shanghai,,CN,China,APAC,FALSE,FALSE,FALSE,31.25521,121.50563
-Shanghai XinTiandi Ruihong Hall of Sun Hoyts & IMAX,shanghai-xintiandi-ruihong-hall-sun-hoyts-imax,,"4F, Hall of Sun Plaza, Xintiandi Ruihong, 181 Ruihong Road",200080,Shanghai,,CN,China,APAC,TRUE,FALSE,FALSE,31.26380,121.49860
+Shanghai XinTiandi Ruihong Hall of Sun Hoyts & IMAX,shanghai-xintiandi-ruihong-hall-sun-hoyts-imax,HOYTS,"4F, Hall of Sun Plaza, Xintiandi Ruihong, 181 Ruihong Road",200080,Shanghai,,CN,China,APAC,TRUE,FALSE,FALSE,31.26380,121.49860
 Shanghai Xuhui Greenland Binjiang SFC & IMAX,shanghai-xuhui-greenland-binjiang-sfc-imax,,"3F, Greenland Being Funny Mall, No.218 Kaibin Road, Xuhui District",200000,Shanghai,,CN,China,APAC,FALSE,FALSE,FALSE,31.19083,121.46415
 Shanghai Yaohan SFC Bailian & IMAX,shanghai-yaohan-sfc-bailian-imax,,"10F, 1st Yaohan, No 501 Zhangyang Road, Pudong District",200120,Shanghai,,CN,China,APAC,FALSE,FALSE,FALSE,31.23420,121.52353
 Shanghai Yonghua & IMAX,shanghai-yonghua-imax,,6F Grand Gateway Plaza - No. 1 Hongqiao Road - Xuhui District,200030,Shanghai,,CN,China,APAC,FALSE,FALSE,FALSE,31.19444,121.43723
@@ -564,10 +561,10 @@ Shenyang Olympic Wanda IMAX,shenyang-olympic-wanda-imax,,"4th Fl, No.17 West Yin
 Shenyang Tiexi Wanda & IMAX,shenyang-tiexi-wanda-imax,,3F Wanda Square - South Hua Xin Road -Tie Xi District,110021,Shenyang,,CN,China,APAC,TRUE,FALSE,FALSE,41.78243,123.35753
 Shenyang Shenbei Wanda & IMAX,shenyang-shenbei-wanda-imax,,"4F, Wanda Plaza, Puchang Avenue, Shenbei New District",110086,"Shenyang, Liaoning Province",,CN,China,APAC,TRUE,FALSE,FALSE,42.02460,123.36480
 Shenzhen 9 Square Lumiere & IMAX,shenzhen-9-square-lumiere-imax,,"Intersection of Zhenhua Rd. and Huafu Rd., Futian District",518000,Shenzhen,,CN,China,APAC,FALSE,FALSE,FALSE,22.54906,114.09010
-Shenzhen Bantian Vanke Hoyts & IMAX,shenzhen-bantian-vanke-hoyts-and-imax,,"L5-02, 5/F, Bantian Vanke Plaza, Bantian Street, Longgang District",518000,Shenzhen,,CN,China,APAC,TRUE,FALSE,FALSE,22.62810,114.07520
+Shenzhen Bantian Vanke Hoyts & IMAX,shenzhen-bantian-vanke-hoyts-and-imax,HOYTS,"L5-02, 5/F, Bantian Vanke Plaza, Bantian Street, Longgang District",518000,Shenzhen,,CN,China,APAC,TRUE,FALSE,FALSE,22.62810,114.07520
 Shenzhen Broadway & IMAX,shenzhen-broadway-imax,,"No.SL562, L5, The MixC, Yuehai Street, Nanshan District ",518000,Shenzhen,,CN,China,APAC,FALSE,FALSE,FALSE,22.54222,113.95566
 Shenzhen Buji MixC & IMAX,shenzhen-buji-mixc-imax,,"Shop L349/L427, the MixC, No. 02 Xiangge Rd, Buji Street, Longgang District",518000,Shenzhen,,CN,China,APAC,FALSE,FALSE,FALSE,22.59950,114.13874
-Shenzhen C Future City Hoyts & IMAX,shenzhen-c-future-city-hoyts-imax-0,,"2nd Floor, 3rd Floor, 4th Floor 217, 319, 3M01, 401, RF01 Shops, No. 9283 Zhongzhou Binhai Commercial Center Phase I, No. 9283 Binhe Avenue, Shangsha Community, Shatou Street",518000,Shenzhen,,CN,China,APAC,TRUE,FALSE,FALSE,22.52360,114.03130
+Shenzhen C Future City Hoyts & IMAX,shenzhen-c-future-city-hoyts-imax-0,HOYTS,"2nd Floor, 3rd Floor, 4th Floor 217, 319, 3M01, 401, RF01 Shops, No. 9283 Zhongzhou Binhai Commercial Center Phase I, No. 9283 Binhe Avenue, Shangsha Community, Shatou Street",518000,Shenzhen,,CN,China,APAC,TRUE,FALSE,FALSE,22.52360,114.03130
 Shenzhen Centerville MH Mall OSGH & IMAX,shenzhen-centerville-mh-mall-osgh-imax,,"No. 8, Golf Ave, Guangpei Community, Guanlan Sub-district Office, Longhua District",518110,Shenzhen,,CN,China,APAC,FALSE,FALSE,FALSE,22.72857,114.08203
 Shenzhen CINESKY & IMAX,shenzhen-cinesky-imax,,"L2-026, Area A, Horoy Uniworld, Longhua District ",518110,Shenzhen,,CN,China,APAC,FALSE,FALSE,FALSE,22.65447,114.03484
 Shenzhen CINESKY ZONE C & IMAX,shenzhen-cinesky-zone-c-imax,,"4th floor, Zone C, Uniworld, Renmin Road, Longhua District",518107,Shenzhen,,CN,China,APAC,TRUE,FALSE,FALSE,22.70380,114.04280
@@ -576,7 +573,7 @@ Shenzhen Guangming Wanda & IMAX,shenzhen-guangming-wanda-imax,,"4F,Wanda Plaza,G
 Shenzhen Haiya Wanda & IMAX,shenzhen-haiya-wanda-imax,,406 - 4F Haiya Mega Mall - No.1 Jianan Road - Baoan District,518000,Shenzhen,,CN,China,APAC,TRUE,FALSE,FALSE,22.56072,113.90725
 Shenzhen Henggang Wan Zhong & IMAX,shenzhen-henggang-wan-zhong-imax,,"3F, Linheng Plaza,No.2999 Longgang Ave. Longgan District",518100,Shenzhen,,CN,China,APAC,FALSE,FALSE,FALSE,22.64319,114.19342
 Shenzhen Hongfa Bao'an QCC & IMAX,shenzhen-hongfa-baoan-qcc-imax,,"L452 , 4th Floor, Hongfa Bao'an QCC, Intersection of Baoan Avenue and Haicheng Road, Baoan District",518101,Shenzhen,,CN,China,APAC,TRUE,FALSE,FALSE,22.72170,114.06181
-Shenzhen Huade Mixc One Hoyts & IMAX,shenzhen-huade-mixc-one-hoyts-and-imax,,"4th Floor, Huade MixC One, Huide, Fuyong Subdistrict, Bao’an District",518100,Shenzhen,Guangdong Province,CN,China,APAC,TRUE,FALSE,FALSE,22.67150,113.82270
+Shenzhen Huade Mixc One Hoyts & IMAX,shenzhen-huade-mixc-one-hoyts-and-imax,HOYTS,"4th Floor, Huade MixC One, Huide, Fuyong Subdistrict, Bao’an District",518100,Shenzhen,Guangdong Province,CN,China,APAC,TRUE,FALSE,FALSE,22.67150,113.82270
 Shenzhen Huigang Lumiere & IMAX,shenzhen-huigang-lumiere-imax,,"3F, No.1 3rd Shekougongye Road, Nanshan District",518000,Shenzhen,,CN,China,APAC,FALSE,FALSE,FALSE,22.49366,113.92072
 Shenzhen InJoy OSGH & IMAX,shenzhen-injoy-osgh-imax,,"4F, InJoy Mall, No. 126 Zhongkang Road, Futian District",518001,Shenzhen,,CN,China,APAC,FALSE,FALSE,FALSE,22.57550,114.06679
 Shenzhen Joy City Wanda & IMAX,shenzhen-joy-city-wanda-and-imax,,"L325, 3rd Floor, Joy City Shopping Center, No. 61, Chuangye 2nd Road, Block 25, Baomin Community, Xinan Subdistrict",518000,Shenzhen,Bao’an District,CN,China,APAC,TRUE,FALSE,FALSE,22.56800,113.89780
@@ -587,13 +584,13 @@ Shenzhen Maxland Jinyi & IMAX,shenzhen-maxland-jinyi-imax,,"L4, Maxland, No.4699
 Shenzhen One Avenue CGV & IMAX,shenzhen-one-avenue-cgv-imax,CGV,"B2, Building 1, One Avenue, No.348 Fuhua Road, Futian District ",518000,Shenzhen,,CN,China,APAC,TRUE,FALSE,FALSE,22.53180,114.06506
 Shenzhen ONEMALL Wanda & IMAX,shenzhen-onemall-wanda-imax,,"4F, ONEMALL, Haijing 2nd Rd, Haishan Street, Yantian District",518000,Shenzhen,,CN,China,APAC,FALSE,FALSE,FALSE,22.56097,114.24401
 Shenzhen Yifang City CGV & IMAX,shenzhen-yifang-city-cgv-imax,CGV,"4F, Yifang City, No.99 Xinhu Road, Xinan Street, Baoan District",518100,Shenzhen,,CN,China,APAC,FALSE,FALSE,FALSE,22.55984,113.89372
-Shenzhen Zhonghang Dreams On Hoyts & IMAX,shenzhen-zhonghang-dreams-on-hoyts-and-imax,,"4th Floor, Shenzhen Zhonghangcheng Dreams On Shopping Centre, No. 1 Zhonghang Road, Huaqiangbei Street, Futian District",518000,Shenzhen,,CN,China,APAC,TRUE,FALSE,FALSE,22.54170,114.08540
+Shenzhen Zhonghang Dreams On Hoyts & IMAX,shenzhen-zhonghang-dreams-on-hoyts-and-imax,HOYTS,"4th Floor, Shenzhen Zhonghangcheng Dreams On Shopping Centre, No. 1 Zhonghang Road, Huaqiangbei Street, Futian District",518000,Shenzhen,,CN,China,APAC,TRUE,FALSE,FALSE,22.54170,114.08540
 UA KK Mall & IMAX,ua-kk-mall-imax,,4F KK Mall - 5016 Shennan East Road - Luohu District,518001,Shenzhen,,CN,China,APAC,FALSE,FALSE,FALSE,22.54049,114.10656
 Shenzhen Baoan Keenstar Plaza Wanda & IMAX,shenzhen-baoan-keenstar-plaza-wanda-imax,,"2F, Keenstar Plaza, Xin’an Street, Baoan District",518101,"Shenzhen, Guangdong",,CN,China,APAC,FALSE,FALSE,FALSE,22.57222,113.90896
 Shenzhen PAFC Mall Emperor & IMAX,shenzhen-pafc-mall-emperor-imax,,"Room S607, 6F, PAFC, No.5023 Yitian Road, Futian District",518000,"Shenzhen, Guangdong",,CN,China,APAC,TRUE,FALSE,FALSE,22.52820,114.05660
 Shenzhen Huaqiao City CGV & IMAX,shenzhen-huaqiao-city-cgv-imax,CGV,"1F, Hall 3, Hongshan 6979 Plaza, Minzhi Street, Longhua District",518100,"Shenzhen, Guangdong Province",,CN,China,APAC,TRUE,FALSE,FALSE,22.63580,114.03710
 Shenzhen Longgang Wanda & IMAX,shenzhen-longgang-wanda-imax,,"No.4 Huanan 2nd Road, Longgang District",518100,"Shenzhen, Guangdong Province",,CN,China,APAC,TRUE,FALSE,FALSE,22.67920,114.13000
-Shenzhen RAIL IN Hoyts & IMAX,shenzhen-rail-hoyts-imax,,"Hoyts Cinema, L4, RAIL IN, Baishizhou Third Avenue, Nanshan District",518058,"Shenzhen, Guangdong Province",,CN,China,APAC,TRUE,FALSE,FALSE,22.54000,113.96670
+Shenzhen RAIL IN Hoyts & IMAX,shenzhen-rail-hoyts-imax,HOYTS,"Hoyts Cinema, L4, RAIL IN, Baishizhou Third Avenue, Nanshan District",518058,"Shenzhen, Guangdong Province",,CN,China,APAC,TRUE,FALSE,FALSE,22.54000,113.96670
 Shijiazhuang MixC & IMAX,shijiazhuang-mixc-imax,,"L722, The MixC, No. 108 West Zhongshan Rd, Qiaoxi District",50051,Shijiazhuang,,CN,China,APAC,FALSE,FALSE,FALSE,38.04812,114.48400
 Shijiazhuang Wanda Plaza & IMAX,shijiazhuang-wanda-plaza-imax,,Wanda Plaza - Intersection of Jianhua Street & Huaian Road,500000,Shijiazhuang,,CN,China,APAC,TRUE,FALSE,FALSE,38.02234,114.54662
 Shishi Shimao Wanda & IMAX,shishi-shimao-wanda-imax,,"3F, Shimao Plaza, No.288 Shilong Road",362700,Shishi,,CN,China,APAC,FALSE,FALSE,FALSE,24.72623,118.62809
@@ -669,7 +666,7 @@ Wenzhou MixC Lumiere & IMAX,wenzhou-mixc-lumiere-imax,,"No.1001, Wenrui Avenue, 
 Wenzhou Pingyang Wanda & IMAX,wenzhou-pingyang-wanda-imax,,3F Pingyang Wanda Plaza - Aojiang Town - Pingyang County,325401,Wenzhou,,CN,China,APAC,FALSE,FALSE,FALSE,27.59645,120.57683
 Wenzhou InCity Bona Palace & IMAX,wenzhou-incity-bona-palace-imax,,"6th Fl., MEGA D29 Building, Wenzhou In City, No.333, Fudong Rd, Nanhui St, Lucheng District",325088,"Wenzhou, Zhejiang Province",,CN,China,APAC,TRUE,FALSE,FALSE,28.01460,120.70200
 Wuhai Wanda & IMAX,wuhai-wanda-imax,,"4F, Wanda Plaza, South Renmin Rd., Haibowan District",160000,Wuhai,,CN,China,APAC,FALSE,FALSE,FALSE,39.66710,106.82630
-Wuhan Aeon Jinqiao CGV & IMAX,wuhan-aeon-jinqiao-cgv-imax,CGV,"3F, AEON MALL, NO.15 Jinqiao Avenue",430013,Wuhan,,CN,China,APAC,FALSE,FALSE,FALSE,30.63705,114.29024
+CGV Wuhan AEON Jinqiao & IMAX,wuhan-aeon-jinqiao-cgv-imax,CGV,"3F, AEON MALL, NO.15 Jinqiao Avenue",430013,Wuhan,,CN,China,APAC,FALSE,FALSE,FALSE,30.63705,114.29024
 Wuhan Bona Int'l & IMAX,wuhan-bona-intl-imax,,"10-11th Floor, Luoyu Rd Luojia City, Hongshan District",430000,Wuhan,,CN,China,APAC,FALSE,FALSE,FALSE,30.53275,114.36190
 Wuhan Caidian Jinyi & IMAX,wuhan-caidian-jinyi-imax,,"4F, New Fumao Harbor Plaza, Xin Fu Road, Caidian Street, Caidian District",430000,Wuhan,,CN,China,APAC,FALSE,FALSE,FALSE,30.58591,114.03841
 Wuhan Capitaland Xicheng CGV & IMAX,wuhan-capitaland-xicheng-cgv-imax,CGV,"4F, Capitaland Mall, No.18 Jiefang Avenue, Qiaokou District",401420,Wuhan,,CN,China,APAC,FALSE,FALSE,FALSE,30.57487,114.27352
@@ -684,7 +681,7 @@ Wuhan Plaza 66 Broadway & IMAX,wuhan-plaza-66-broadway-imax,,"4F, Plaza 66, 668 
 Wuhan Renxin Broadway & IMAX,wuhan-renxin-broadway-imax,,"4th Fl, Renxinhui Business Ctr, No.58 Longyang St, Hanyang Dist.",430051,Wuhan,,CN,China,APAC,FALSE,FALSE,FALSE,30.55260,114.20351
 Wuhan Weixing Xingyue Plaza & IMAX,wuhan-weixing-xingyue-plaza-and-imax,,"No.20 Gaoxin 6th Road, East Lake High-Tech Development Zone, Weixing Optics Valley Xingyue Plaza, 3F, 4F, 5F (Shop 4F-01)",430071,Wuhan,Hebei Province,CN,China,APAC,FALSE,FALSE,FALSE,30.44790,114.40660
 Wuhan Wushang Moore & IMAX,wuhan-wushang-moore-imax,,"7F, Block C, Wuhan International Plaza, No.690 Jiefang Avenue, Jianghan District",430000,"Wuhan, Hubei",,CN,China,APAC,TRUE,FALSE,FALSE,30.58099,114.27059
-Wuhan Aeon Mall CGV & IMAX,wuhan-aeon-mall-cgv-imax,CGV,"L3, CGV Cinema, Aeon Mall, No.1 Jinyintan Avenue, Jiangjunlu Street, Dongxihu District",430000,"Wuhan, Hubei Province",,CN,China,APAC,TRUE,FALSE,FALSE,30.65930,114.26200
+CGV Wuhan AEON Mall & IMAX,wuhan-aeon-mall-cgv-imax,CGV,"L3, CGV Cinema, Aeon Mall, No.1 Jinyintan Avenue, Jiangjunlu Street, Dongxihu District",430000,"Wuhan, Hubei Province",,CN,China,APAC,TRUE,FALSE,FALSE,30.65930,114.26200
 Wuhan Dongxihu Wanda & IMAX,wuhan-dongxihu-wanda-imax,,"4th Floor, Wanda Plaza, Jinshan Avenue, Dongxihu District",430048,"Wuhan, Hubei Province",,CN,China,APAC,FALSE,FALSE,FALSE,30.62854,114.14830
 Wuhan Optical Valley Joy City Jinyi & IMAX,wuhan-optical-valley-joy-city-jinyi-imax,,"5th Floor, Gaoxin Ave., Hongshan District",430073,"Wuhan, Hubei Province",,CN,China,APAC,FALSE,FALSE,FALSE,30.48890,114.63300
 Wuhan Vanke Viviland CGV & IMAX,wuhan-vanke-viviland-cgv-imax,CGV,"L4,CGV Cinema, Vanke Viviland, No. 187 Baishazhou Avenue, Hongshan District",430000,"Wuhan, Hubei Province",,CN,China,APAC,TRUE,FALSE,FALSE,30.46310,114.26990
@@ -707,14 +704,14 @@ Wuxi Jiangnan Joy City Big World & IMAX,wuxi-jiangnan-joy-city-big-world-imax,,"
 Wuxue INSUN & IMAX,wuxue-insun-and-imax,,"4th Floor, Wushang Shopping Centre, No.199 Kanjiang Avenue, Kanjiang Subdistrict",435400,Wuxue City,Hubei Province,CN,China,APAC,TRUE,FALSE,FALSE,29.87700,115.56290
 Wuzhong Wanda & IMAX,wuzhong-wanda-imax,,"4F, Wanda Plaza, Intersection of Kaiyuan Avenue and Liming Street, Litong District",751104,Wuzhong,,CN,China,APAC,FALSE,FALSE,FALSE,37.99978,106.19752
 Xiamen Huli Wanda & IMAX,xiamen-huli-wanda-imax,,Entertainment Building - 4F Wanda Plaza - 4666 Xianyue Road - Huli District,361006,Xiamen,,CN,China,APAC,TRUE,FALSE,FALSE,24.50499,118.17763
-Xiamen Intime Department Store Hoyts & IMAX,xiamen-intime-department-store-hoyts-and-imax,,"L430, 4th Floor, Intime Department Store, No.68 Tongji South Road, Jimei District",361021,Xiamen,Fujian Province,CN,China,APAC,FALSE,FALSE,FALSE,24.59010,118.10630
+Xiamen Intime Department Store Hoyts & IMAX,xiamen-intime-department-store-hoyts-and-imax,HOYTS,"L430, 4th Floor, Intime Department Store, No.68 Tongji South Road, Jimei District",361021,Xiamen,Fujian Province,CN,China,APAC,FALSE,FALSE,FALSE,24.59010,118.10630
 Xiamen Jimei Wanda & IMAX,xiamen-jimei-wanda-imax,,4F -137 Yinjiang Road - Jimei District,361000,Xiamen,,CN,China,APAC,TRUE,FALSE,FALSE,24.57326,118.09513
 Xiamen OneMall Lumiere & IMAX,xiamen-onemall-lumiere-imax,,"L4, OneMall, No.1 Jinshan Rd, Siming District",361008,Xiamen,,CN,China,APAC,FALSE,FALSE,FALSE,24.49118,118.17873
 Xiamen Shimao Wanda & IMAX,xiamen-shimao-wanda-imax,,"6F, Shimao Plaza, Daxue Rd., Siming District",361000,Xiamen,,CN,China,APAC,FALSE,FALSE,FALSE,24.44245,118.09465
 Xiamen SM Haicang City Plaza Hengdian & IMAX,xiamen-sm-haicang-city-plaza-hengdian-and-imax,,"Room F3-344, 3rd Floor,  Xiamen SM Haicang City Plaza, No. 1818 Fulian Road, Haicang District",361026,Xiamen,Fujian Province,CN,China,APAC,TRUE,FALSE,FALSE,24.54330,117.95230
 Xiamen IOI & IMAX,xiamen-ioi-imax,,"Room 501, No. 1 binshui Wuli, Jimei District",361021,Xiamen City,,CN,China,APAC,TRUE,FALSE,FALSE,24.57600,118.09730
 Xiamen Jimei Shimao Omnijoi & IMAX,xiamen-jimei-shimao-omnijoi-imax,,"4F, 32 Binshui (Middle) Erli Road, Jimei District",361021,"Xiamen, Fujian Province",,CN,China,APAC,FALSE,FALSE,FALSE,24.59280,118.09000
-Xiamen Sea World Hoyts & IMAX,xiamen-sea-world-hoyts-imax,,"L4, Sea World, No. 31 Donggang Road, Huli District",361000,"Xiamen, Fujian Province",,CN,China,APAC,TRUE,FALSE,FALSE,24.48310,118.07590
+Xiamen Sea World Hoyts & IMAX,xiamen-sea-world-hoyts-imax,HOYTS,"L4, Sea World, No. 31 Donggang Road, Huli District",361000,"Xiamen, Fujian Province",,CN,China,APAC,TRUE,FALSE,FALSE,24.48310,118.07590
 Xiamen SM Plaza Phase III Wanda & IMAX,xiamen-sm-plaza-phase-iii-wanda-imax,,"L3-328，Wanda Cinema,  SM Phase III, No. 401 Jiahe Road, Siming District",361000,"Xiamen, Fujian Province",,CN,China,APAC,FALSE,FALSE,FALSE,24.63140,118.08940
 Xi’an Laochenggen Cando & IMAX,xi’-laochenggen-cando-imax,,"3F, Laochenggen G-park, South west Corner of Xinghuo Road and East Daxing Road, Lianhu District",710000,Xi'An,,CN,China,APAC,FALSE,FALSE,FALSE,34.29197,108.92763
 Xi'an Beilin Wanda & IMAX,xian-beilin-wanda-imax,,4F Wanda Square - 8 North Yanta Road - Beilin District,710000,Xi'an,,CN,China,APAC,TRUE,FALSE,FALSE,34.24303,108.96067
@@ -723,7 +720,7 @@ Xi'an Daminggong Wanda & IMAX,xian-daminggong-wanda-imax,,4F No. 369 North 2 Rin
 Xi'an InCity Womei & IMAX,xian-incity-womei-and-imax,,"5th Floor, Xi'an Chanba InCity, No. 700, Beichen East Road, Chanba Ecological Zone",710032,Xi'An,Shaanxi Province,CN,China,APAC,TRUE,FALSE,FALSE,34.31450,109.00300
 Xi'an Jiefang Road Wanda Plaza & IMAX,xian-jiefang-road-wanda-plaza-imax,,4F Wanda Plaza - 111 Jiefang Road - Xincheng District,710004,Xi'an,,CN,China,APAC,FALSE,FALSE,FALSE,34.26808,108.96319
 Xi'an Joy City Bona & IMAX,xian-joy-city-bona-imax,,"Shop 40-L3, Xi'an Qujiang Joy City, No. 777, Ci'en Rd, Yanta District",710000,Xi'An,,CN,China,APAC,TRUE,FALSE,FALSE,34.22331,108.96856
-Xi'an Livat Hoyts & IMAX,xian-livat-hoyts-and-imax,,"L2-L3, Livat Shopping Mall, No.6 Ziwu Avenue, Yanta District",710000,Xi'An,Shaanxi Province,CN,China,APAC,TRUE,FALSE,FALSE,34.16110,108.90530
+Xi'an Livat Hoyts & IMAX,xian-livat-hoyts-and-imax,HOYTS,"L2-L3, Livat Shopping Mall, No.6 Ziwu Avenue, Yanta District",710000,Xi'An,Shaanxi Province,CN,China,APAC,TRUE,FALSE,FALSE,34.16110,108.90530
 Xi'an Longcheng Mingyuan Wanda & IMAX,xian-longcheng-mingyuan-wanda-imax,,"5F, NW Corner of Keji 2nd Road & Zhangba North Road, Yanta District",710000,Xi'An,,CN,China,APAC,FALSE,FALSE,FALSE,34.23209,108.87885
 Xi'an Longfor Changle Paradise Walk & IMAX,xian-longfor-changle-paradise-walk-and-imax,,"5th Floor, Building B, Longfor Changle Paradise Walk, No. 58 North Wanshou Road, Xincheng District 陕西省西安市新城区万寿北路58号龙湖长乐天街B馆5F",710032,Xi'An,Shaanxi,CN,China,APAC,TRUE,FALSE,FALSE,34.28500,109.01410
 Xi'an Qujiang Creative Circle Lumiere & IMAX,xian-qujiang-creative-circle-lumiere-imax,,"Ground Floor, Qujiang Creative Circle, No. 3369, Yanxiang Rd, Yanta District  ",710000,Xi'An,,CN,China,APAC,FALSE,FALSE,FALSE,34.21824,109.01934
@@ -823,67 +820,67 @@ Hong Kong Golden Harvest Megabox & IMAX,hong-kong-golden-harvest-megabox-imax,,"
 Hongkong ISQUARE Emperor & IMAX,hongkong-isquare-emperor-imax,,7F iSQUARE No.63 Midun Road Tsimshatsui,999077,"Kowloon, Hong Kong",,HK,Hong Kong,APAC,TRUE,FALSE,FALSE,22.29655,114.17212
 Summarecon Mall Bandung & IMAX,summarecon-mall-bandung-and-imax,,"Jl. Bulevar Barat, No.75-89., Cisaranten Kidul, Kec. Gedebage",,Bandung,West Java,ID,Indonesia,APAC,TRUE,FALSE,FALSE,-6.96040,107.70240
 Summarecon Mal Bekasi & IMAX,summarecon-mal-bekasi-imax,,"Summarecon Mal Bekasi Lantai 3, Jl. Bulevar Ahmad Yani",17142,Bekasi,,ID,Indonesia,APAC,FALSE,FALSE,FALSE,-6.22783,106.99995
-Living World Kota Wisata XXI & IMAX,living-world-kota-wisata-xxi-and-imax,,"Mall Living World Kota Wisata Lt. 3, Jl. Boulevard Kota Wisata, Ciangsana, Kec. Gn. Putri",16968,Bogor,"Kabupaten Bogor, Jawa Barat ",ID,Indonesia,APAC,TRUE,FALSE,FALSE,-6.36920,106.95940
+Living World Kota Wisata XXI & IMAX,living-world-kota-wisata-xxi-and-imax,CINEMA21,"Mall Living World Kota Wisata Lt. 3, Jl. Boulevard Kota Wisata, Ciangsana, Kec. Gn. Putri",16968,Bogor,"Kabupaten Bogor, Jawa Barat ",ID,Indonesia,APAC,TRUE,FALSE,FALSE,-6.36920,106.95940
 AEON Mall Deltamas & IMAX,aeon-mall-deltamas-and-imax,,"AEON Mall Deltamas Lt. Lantai 2,Unit 2-080 JL. Ganesha Boulevard, Area Komersial Sektor 2.1, Kota Deltamas, Hegarmukti Cikarang Pusat, Kabupaten Bekasi",17531,Deltamas,Jawa Barat,ID,Indonesia,APAC,TRUE,FALSE,FALSE,-6.34820,107.18560
-Icon Bali XXI & IMAX,icon-bali-xxi-and-imax,,"Icon Bali Mall Lt. 1F, Jl. Danau Tamblingan No. 27, Sanur, Denpasar Selatan",80228,Denpaser,"Kota Denpasar, Bali",ID,Indonesia,APAC,TRUE,FALSE,FALSE,-8.68660,115.26280
+Icon Bali XXI & IMAX,icon-bali-xxi-and-imax,CINEMA21,"Icon Bali Mall Lt. 1F, Jl. Danau Tamblingan No. 27, Sanur, Denpasar Selatan",80228,Denpaser,"Kota Denpasar, Bali",ID,Indonesia,APAC,TRUE,FALSE,FALSE,-8.68660,115.26280
 Agora Mall & IMAX,agora-mall-and-imax,,"Agora Mall Lt. 3, Jl. M H Thamrin No. 10, Kebon Melati, Kec. Tanah Abang",10230,Jakarta,,ID,Indonesia,APAC,TRUE,FALSE,FALSE,-6.19930,106.82200
-Gandaria XXI IMAX,21-cineplex-gandaria-xxi,,Gandaria City Level 2 - Jalan Sultan Iskandar Muda - Kebayoran Lama,,Jakarta,,ID,Indonesia,APAC,TRUE,FALSE,FALSE,-7.29251,112.71822
-Gading 21 XXI IMAX,21-cineplex-gading-xxi-imax,,Mall Kelapa Gading 3 - Lantai 3 - Jalan Bulevar Kelapa Gading,,Jakarta Utara,,ID,Indonesia,APAC,TRUE,FALSE,FALSE,-6.15737,106.90900
-Cinema XXI AEON Mall Sentul City & IMAX,cinema-xxi-aeon-mall-sentul-city-imax,,"Jl. MH. Thamrin No.10, Citaringgul, Kec. Babakan Madang",16810,"Kabupaten Bogor, West Java",,ID,Indonesia,APAC,FALSE,FALSE,FALSE,-6.56720,106.85750
-Cinema XXI Margo Mall & IMAX,cinema-xxi-margo-mall-imax,,"Jln. Margonda Raya No. 358, Kemiri Muka, Kec. Beji",16424,"Kota Depok, Jawa Barat",,ID,Indonesia,APAC,TRUE,FALSE,FALSE,-6.37210,106.83490
-Delipark XXI & IMAX,delipark-xxi-imax,,"Jl. Putri Hijau No.1, Cinema XXI Lt 5, Kesawan, OPQ",20111,Medan,,ID,Indonesia,APAC,FALSE,FALSE,FALSE,3.59413,98.67604
-The Park Semarang XXI & IMAX,the-park-semarang-xxi-and-imax,,"Jl. Madukoro Raya, Blok E1 No.10-11, Tawang Mas, Semarang Barat",50411,"Semarang, Central Java",,ID,Indonesia,APAC,TRUE,FALSE,FALSE,-6.96940,110.39010
-Cinema XXI & IMAX,cinema-xxi-imax,,"Jl Puncak Indah Lontar no 2, Babatan",60213,Surabaya,,ID,Indonesia,APAC,FALSE,FALSE,FALSE,-7.29037,112.67538
-Tunjungan 5 XXI & IMAX,21-cineplex-tunjungan-xxi-imax,,Tunjungan Plaza - Lantai 5 - Jalan Basuki Rahmat No. 8-12,,Surabaya,,ID,Indonesia,APAC,FALSE,FALSE,FALSE,-7.26302,112.73931
+Gandaria XXI IMAX,21-cineplex-gandaria-xxi,CINEMA21,Gandaria City Level 2 - Jalan Sultan Iskandar Muda - Kebayoran Lama,,Jakarta,,ID,Indonesia,APAC,TRUE,FALSE,FALSE,-7.29251,112.71822
+Gading 21 XXI IMAX,21-cineplex-gading-xxi-imax,CINEMA21,Mall Kelapa Gading 3 - Lantai 3 - Jalan Bulevar Kelapa Gading,,Jakarta Utara,,ID,Indonesia,APAC,TRUE,FALSE,FALSE,-6.15737,106.90900
+Cinema XXI AEON Mall Sentul City & IMAX,cinema-xxi-aeon-mall-sentul-city-imax,CINEMA21,"Jl. MH. Thamrin No.10, Citaringgul, Kec. Babakan Madang",16810,"Kabupaten Bogor, West Java",,ID,Indonesia,APAC,FALSE,FALSE,FALSE,-6.56720,106.85750
+Cinema XXI Margo Mall & IMAX,cinema-xxi-margo-mall-imax,CINEMA21,"Jln. Margonda Raya No. 358, Kemiri Muka, Kec. Beji",16424,"Kota Depok, Jawa Barat",,ID,Indonesia,APAC,TRUE,FALSE,FALSE,-6.37210,106.83490
+Delipark XXI & IMAX,delipark-xxi-imax,CINEMA21,"Jl. Putri Hijau No.1, Cinema XXI Lt 5, Kesawan, OPQ",20111,Medan,,ID,Indonesia,APAC,FALSE,FALSE,FALSE,3.59413,98.67604
+The Park Semarang XXI & IMAX,the-park-semarang-xxi-and-imax,CINEMA21,"Jl. Madukoro Raya, Blok E1 No.10-11, Tawang Mas, Semarang Barat",50411,"Semarang, Central Java",,ID,Indonesia,APAC,TRUE,FALSE,FALSE,-6.96940,110.39010
+Cinema XXI & IMAX,cinema-xxi-imax,CINEMA21,"Jl Puncak Indah Lontar no 2, Babatan",60213,Surabaya,,ID,Indonesia,APAC,FALSE,FALSE,FALSE,-7.29037,112.67538
+Tunjungan 5 XXI & IMAX,21-cineplex-tunjungan-xxi-imax,CINEMA21,Tunjungan Plaza - Lantai 5 - Jalan Basuki Rahmat No. 8-12,,Surabaya,,ID,Indonesia,APAC,FALSE,FALSE,FALSE,-7.26302,112.73931
 SM Cinema Aura Premier & IMAX,sm-cinema-aura-premier-imax,SM,26th Street - Corner McKinley Parkway - Baranguay Fort Bonifacio - Global City,1630,Taguig City,,ID,Indonesia,APAC,TRUE,FALSE,FALSE,14.54693,121.05495
-Alam Sutera XXI & IMAX,alam-sutera-xxi-and-imax,,"Mall Alam Sutera Lt. 2. Jln. Jalur Sutera 30D / 18 , Alam Sutera Serpong",15325,Tangerang,Banten,ID,Indonesia,APAC,TRUE,FALSE,FALSE,-6.21870,106.66580
+Alam Sutera XXI & IMAX,alam-sutera-xxi-and-imax,CINEMA21,"Mall Alam Sutera Lt. 2. Jln. Jalur Sutera 30D / 18 , Alam Sutera Serpong",15325,Tangerang,Banten,ID,Indonesia,APAC,TRUE,FALSE,FALSE,-6.21870,106.66580
 Summarecon Mal Serpong & IMAX,21-cineplex-summarecon-mal-serpong-imax,,Summarecon Mal - Lantai 3 Jalan Bulevar Gading Serpong,,Tangerang,,ID,Indonesia,APAC,FALSE,FALSE,FALSE,-6.23947,106.62863
 Bintaro Xchange 2 & IMAX,bintaro-xchange-2-and-imax,,"Bintaro Xchange 2 Mall, Lt. 1, Jl.Tegal Rotan Raya, Jln. Lkr. Jaya No. 24, Pd. Jaya, Kec. Pd. Aren",15220,Tangerang Selatan,Banten,ID,Indonesia,APAC,TRUE,FALSE,FALSE,-6.28530,106.73000
-Cinema XXI The Breeze & IMAX,cinema-xxi-breeze-imax,,"Jalan Grand Boulevard, BSD Green Office Park, BSD City",15310,Tangerang Selatan,,ID,Indonesia,APAC,FALSE,FALSE,FALSE,-6.30233,106.65256
+Cinema XXI The Breeze & IMAX,cinema-xxi-breeze-imax,CINEMA21,"Jalan Grand Boulevard, BSD Green Office Park, BSD City",15310,Tangerang Selatan,,ID,Indonesia,APAC,FALSE,FALSE,FALSE,-6.30233,106.65256
 "IMAX 3D, Gujarat Science City",imax-3d-gujarat-science-city,,"Village Hebatpur, Sola-Santej Road, Nr. Science City Cross Road",382481,Ahmedabad,,IN,India,APAC,FALSE,FALSE,FALSE,23.03038,72.58037
-PVR Phoenix Palladium & IMAX,pvr-phoenix-palladium-and-imax,,"Gandhinagar Highway, Thaltej",380054,Ahmedabad,Gujarat,IN,India,APAC,TRUE,FALSE,FALSE,23.05780,72.52090
-INOX Mantri Mall & IMAX,inox-mantri-mall-imax,,"Mantri Square Mall, No. 1, Sampige Road, Malleshwaram",560003,Bangalore,,IN,India,APAC,FALSE,FALSE,FALSE,12.99156,77.57100
-PVR IMAX,pvr-imax,,"The Forum, 21-22, Adugodi Main Rd., Koramangala",560095,Bangalore,,IN,India,APAC,TRUE,FALSE,FALSE,12.93471,77.61150
-PVR Vega Mall & IMAX,pvr-vega-mall-imax,,"4th Floor, Vega Mall, Behind JD Mara Bus Stop, N.S Pallaya, Bannergatta Main Road",560-076,Bangalore,,IN,India,APAC,FALSE,FALSE,FALSE,12.90783,77.60103
-PVR Xanders & IMAX,pvr-xanders-imax,,"3rd Floor, VR Mall, Main Whitefield Road, Mahadevpura",560048,Bangalore,,IN,India,APAC,FALSE,FALSE,FALSE,12.99622,77.69531
-Cinepolis Prestige Shantiniketan & IMAX,cinepolis-prestige-shantiniketan-imax,CPLS,"#16, Whitefield Main Rd, Hoodi, Thigalarapalya, Sadara Mangala Industrical Area",560048,Bengaluru,,IN,India,APAC,FALSE,FALSE,FALSE,12.98896,77.72799
-INOX RMZ Galleria Mall & IMAX,inox-rmz-galleria-mall-imax,,"2nd Fl, RMZ Galleria Mall, Ambedkar Colony, Yelahanka",560064,Bengaluru,,IN,India,APAC,FALSE,FALSE,FALSE,13.09462,77.59321
-INOX Luxe Phoenix Market City & IMAX,jazz-cinemas-luxe-imax,,"2nd Floor, Phoenix Market City, Velachery Main Rd, Velachery",600042,Chennai,,IN,India,APAC,FALSE,FALSE,FALSE,12.99135,80.21615
+PVR Phoenix Palladium & IMAX,pvr-phoenix-palladium-and-imax,PVRINOX,"Gandhinagar Highway, Thaltej",380054,Ahmedabad,Gujarat,IN,India,APAC,TRUE,FALSE,FALSE,23.05780,72.52090
+INOX Mantri Mall & IMAX,inox-mantri-mall-imax,PVRINOX,"Mantri Square Mall, No. 1, Sampige Road, Malleshwaram",560003,Bangalore,,IN,India,APAC,FALSE,FALSE,FALSE,12.99156,77.57100
+PVR IMAX,pvr-imax,PVRINOX,"The Forum, 21-22, Adugodi Main Rd., Koramangala",560095,Bangalore,,IN,India,APAC,TRUE,FALSE,FALSE,12.93471,77.61150
+PVR Vega Mall & IMAX,pvr-vega-mall-imax,PVRINOX,"4th Floor, Vega Mall, Behind JD Mara Bus Stop, N.S Pallaya, Bannergatta Main Road",560-076,Bangalore,,IN,India,APAC,FALSE,FALSE,FALSE,12.90783,77.60103
+PVR Xanders & IMAX,pvr-xanders-imax,PVRINOX,"3rd Floor, VR Mall, Main Whitefield Road, Mahadevpura",560048,Bangalore,,IN,India,APAC,FALSE,FALSE,FALSE,12.99622,77.69531
+Cinepolis Prestige Shantiniketan & IMAX,cinépolis-prestige-shantiniketan-imax,CPLS,"#16, Whitefield Main Rd, Hoodi, Thigalarapalya, Sadara Mangala Industrical Area",560048,Bengaluru,,IN,India,APAC,FALSE,FALSE,FALSE,12.98896,77.72799
+INOX RMZ Galleria Mall & IMAX,inox-rmz-galleria-mall-imax,PVRINOX,"2nd Fl, RMZ Galleria Mall, Ambedkar Colony, Yelahanka",560064,Bengaluru,,IN,India,APAC,FALSE,FALSE,FALSE,13.09462,77.59321
+INOX Luxe Phoenix Market City & IMAX,jazz-cinemas-luxe-imax,PVRINOX,"2nd Floor, Phoenix Market City, Velachery Main Rd, Velachery",600042,Chennai,,IN,India,APAC,FALSE,FALSE,FALSE,12.99135,80.21615
 Palazzo IMAX,palazzo-imax,,"Block No.5, Door Nos. 183-190,NSK Salai (Arcot Rd)",600026,Chennai,,IN,India,APAC,TRUE,FALSE,FALSE,13.04968,80.20950
 Broadway Megaaplex & IMAX,broadway-megaaplex-imax,,"Survey No. 761/1, Off Avinashi Road, Civil Aerodrome Post",641014,Coimbatore,,IN,India,APAC,TRUE,FALSE,FALSE,11.04570,77.05060
-INOX Vishal Mall & IMAX,inox-vishal-mall-imax,,"Shivaji Place, Vishal Enclave, Tagore Garden Ext.",110027,Delhi,,IN,India,APAC,TRUE,FALSE,FALSE,28.64170,77.12250
-Cinepolis Center Square Mall & IMAX,cinepolis-center-square-mall-and-imax,CPLS,"MG Road, Near Abad Plaza Hotel ",682035,Kochi,Kerala,IN,India,APAC,TRUE,FALSE,FALSE,9.97760,76.28310
-INOX South City Mall & IMAX,inox-south-city-mall-imax,,"375, Prince Anwar Shah Road",700038,Kolkata,,IN,India,APAC,FALSE,FALSE,FALSE,22.50198,88.36165
-INOX Megaplex & IMAX,inox-megaplex-imax,,"3rd Fl., Plot No. 1, Sector no. 7, Gomti Nagar Extension, Amar Shaheed Path",226010,"Lucknow, Uttar Pradesh",,IN,India,APAC,FALSE,FALSE,FALSE,26.83900,81.01150
+INOX Vishal Mall & IMAX,inox-vishal-mall-imax,PVRINOX,"Shivaji Place, Vishal Enclave, Tagore Garden Ext.",110027,Delhi,,IN,India,APAC,TRUE,FALSE,FALSE,28.64170,77.12250
+Cinepolis Center Square Mall & IMAX,cinépolis-center-square-mall-and-imax,CPLS,"MG Road, Near Abad Plaza Hotel ",682035,Kochi,Kerala,IN,India,APAC,TRUE,FALSE,FALSE,9.97760,76.28310
+INOX South City Mall & IMAX,inox-south-city-mall-imax,PVRINOX,"375, Prince Anwar Shah Road",700038,Kolkata,,IN,India,APAC,FALSE,FALSE,FALSE,22.50198,88.36165
+INOX Megaplex & IMAX,inox-megaplex-imax,PVRINOX,"3rd Fl., Plot No. 1, Sector no. 7, Gomti Nagar Extension, Amar Shaheed Path",226010,"Lucknow, Uttar Pradesh",,IN,India,APAC,FALSE,FALSE,FALSE,26.83900,81.01150
 EROS & IMAX,eros-and-imax,,"Cambata Building, 42, Maharshi Karve Rd, Churchgate",400020,Mumbai,Maharashtra,IN,India,APAC,TRUE,FALSE,FALSE,18.93190,72.82790
-INOX Inorbit Mall & IMAX,inox-inorbit-mall-imax,,"New Link Road, Mindspace, Malad West ",400064,Mumbai,,IN,India,APAC,FALSE,FALSE,FALSE,19.17255,72.83553
-INOX R-City Mall Ghatkoper & IMAX,inox-r-city-mall-ghatkoper-imax,,"3rd Floor, R City Mall, LBS MARG, Ghatkoper West",400086,Mumbai,,IN,India,APAC,FALSE,FALSE,FALSE,19.09935,72.91691
-INOX Sky City Mall & IMAX,inox-sky-city-mall-and-imax,,"Sky City Mall by Oberoi Realty, Off Western Express Highway, Borivali East",400066,Mumbai,Maharashtra,IN,India,APAC,TRUE,FALSE,FALSE,19.22360,72.86440
+INOX Inorbit Mall & IMAX,inox-inorbit-mall-imax,PVRINOX,"New Link Road, Mindspace, Malad West ",400064,Mumbai,,IN,India,APAC,FALSE,FALSE,FALSE,19.17255,72.83553
+INOX R-City Mall Ghatkoper & IMAX,inox-r-city-mall-ghatkoper-imax,PVRINOX,"3rd Floor, R City Mall, LBS MARG, Ghatkoper West",400086,Mumbai,,IN,India,APAC,FALSE,FALSE,FALSE,19.09935,72.91691
+INOX Sky City Mall & IMAX,inox-sky-city-mall-and-imax,PVRINOX,"Sky City Mall by Oberoi Realty, Off Western Express Highway, Borivali East",400066,Mumbai,Maharashtra,IN,India,APAC,TRUE,FALSE,FALSE,19.22360,72.86440
 Miraj Wadala & IMAX,miraj-wadala-and-imax,,"Ajmera I-Land Road, Bhakti Park",400037,Mumbai,Maharashtra,IN,India,APAC,TRUE,FALSE,FALSE,19.03160,72.88090
-PVR INOX Jio World Plaza Bkc & IMAX,pvr-inox-jio-world-plaza-bkc-and-imax,,"Jio World Plaza, G Block BKC, Bandra Kurla Complex, Bandra East",400055,Mumbai,Maharashtra,IN,India,APAC,TRUE,FALSE,FALSE,19.05390,72.85120
-PVR Phoenix IMAX,pvr-phoenix-imax,,462 Senapati Bapat Marg.,400013,Mumbai,,IN,India,APAC,TRUE,FALSE,FALSE,19.00081,72.82908
-Cinepolis Seawoods Grand Central Mall & IMAX,cinepolis-seawoods-grand-central-mall-imax,CPLS,"Seawoods Station Rd, Seawoods West, Nerul East, Sector 40, Nerul",400776,Navi Mumbai,,IN,India,APAC,FALSE,FALSE,FALSE,19.02130,73.01784
-INOX Paras & IMAX,inox-paras-imax,,"1st floor, Paras Cinema Building, Plot No. 1, Nehru Place",110019,New Delhi,,IN,India,APAC,TRUE,FALSE,FALSE,28.54710,77.25170
-PVR Ambience Gold & IMAX,pvr-ambience-gold-imax,,"Lane Number V-40, Ambience Island, DLF Phase 3, Sector 24, Gurugram, Haryana",122002,New Delhi,,IN,India,APAC,FALSE,FALSE,FALSE,28.50419,77.09739
-PVR Priya & IMAX,pvr-priya-imax,,"61, Community Centre, Basant Lok, Vasant Vihar",110057,New Delhi,,IN,India,APAC,TRUE,FALSE,FALSE,28.55725,77.16446
-PVR Select City Walk Gold & IMAX,pvr-select-city-walk-gold-imax,,"First Floor, Select City Walk Mall, District Center, Saket",110017,New Delhi,,IN,India,APAC,TRUE,FALSE,FALSE,28.52809,77.21958
-PVR Vegas Dwarka & IMAX,pvr-vegas-dwarka-imax,,"Sector 14 Rd, Pocket 1, Sector 14 Dwarka, Kakrola",110078,New Delhi,,IN,India,APAC,FALSE,FALSE,FALSE,28.60079,77.02958
-PVR Logix Noida & IMAX,pvr-logix-noida-imax,,"Plot No. BW-58, Sector 32, Noida, Utter Pradesh",201301,Noida,,IN,India,APAC,FALSE,FALSE,FALSE,28.57366,77.35350
-PVR Superplex Mall of India & IMAX,pvr-superplex-mall-india-imax,,"4th Floor, DLF Mall Of India, Noida Sec-18",201301,Noida,,IN,India,APAC,TRUE,FALSE,FALSE,28.56700,77.32170
-Cinepolis Westend Mall Sumashilp Pune & IMAX,cinepolis-westend-mall-sumashilp-pune-imax,CPLS,"1st Floor, Westend Mall, Aundh",411007,Pune,,IN,India,APAC,FALSE,FALSE,FALSE,18.56168,73.80730
-PVR INOX PMC Pune & IMAX,pvr-inox-pmc-pune-and-imax,,"3rd floor, Phoenix Mall of the Millennium, Wakad",411057,Pune,Maharashtra,IN,India,APAC,TRUE,FALSE,FALSE,18.60050,73.75660
+PVR INOX Jio World Plaza Bkc & IMAX,pvr-inox-jio-world-plaza-bkc-and-imax,PVRINOX,"Jio World Plaza, G Block BKC, Bandra Kurla Complex, Bandra East",400055,Mumbai,Maharashtra,IN,India,APAC,TRUE,FALSE,FALSE,19.05390,72.85120
+PVR Phoenix IMAX,pvr-phoenix-imax,PVRINOX,462 Senapati Bapat Marg.,400013,Mumbai,,IN,India,APAC,TRUE,FALSE,FALSE,19.00081,72.82908
+Cinepolis Seawoods Grand Central Mall & IMAX,cinépolis-seawoods-grand-central-mall-imax,CPLS,"Seawoods Station Rd, Seawoods West, Nerul East, Sector 40, Nerul",400776,Navi Mumbai,,IN,India,APAC,FALSE,FALSE,FALSE,19.02130,73.01784
+INOX Paras & IMAX,inox-paras-imax,PVRINOX,"1st floor, Paras Cinema Building, Plot No. 1, Nehru Place",110019,New Delhi,,IN,India,APAC,TRUE,FALSE,FALSE,28.54710,77.25170
+PVR Ambience Gold & IMAX,pvr-ambience-gold-imax,PVRINOX,"Lane Number V-40, Ambience Island, DLF Phase 3, Sector 24, Gurugram, Haryana",122002,New Delhi,,IN,India,APAC,FALSE,FALSE,FALSE,28.50419,77.09739
+PVR Priya & IMAX,pvr-priya-imax,PVRINOX,"61, Community Centre, Basant Lok, Vasant Vihar",110057,New Delhi,,IN,India,APAC,TRUE,FALSE,FALSE,28.55725,77.16446
+PVR Select City Walk Gold & IMAX,pvr-select-city-walk-gold-imax,PVRINOX,"First Floor, Select City Walk Mall, District Center, Saket",110017,New Delhi,,IN,India,APAC,TRUE,FALSE,FALSE,28.52809,77.21958
+PVR Vegas Dwarka & IMAX,pvr-vegas-dwarka-imax,PVRINOX,"Sector 14 Rd, Pocket 1, Sector 14 Dwarka, Kakrola",110078,New Delhi,,IN,India,APAC,FALSE,FALSE,FALSE,28.60079,77.02958
+PVR Logix Noida & IMAX,pvr-logix-noida-imax,PVRINOX,"Plot No. BW-58, Sector 32, Noida, Utter Pradesh",201301,Noida,,IN,India,APAC,FALSE,FALSE,FALSE,28.57366,77.35350
+PVR Superplex Mall of India & IMAX,pvr-superplex-mall-india-imax,PVRINOX,"4th Floor, DLF Mall Of India, Noida Sec-18",201301,Noida,,IN,India,APAC,TRUE,FALSE,FALSE,28.56700,77.32170
+Cinepolis Westend Mall Sumashilp Pune & IMAX,cinépolis-westend-mall-sumashilp-pune-imax,CPLS,"1st Floor, Westend Mall, Aundh",411007,Pune,,IN,India,APAC,FALSE,FALSE,FALSE,18.56168,73.80730
+PVR INOX PMC Pune & IMAX,pvr-inox-pmc-pune-and-imax,PVRINOX,"3rd floor, Phoenix Mall of the Millennium, Wakad",411057,Pune,Maharashtra,IN,India,APAC,TRUE,FALSE,FALSE,18.60050,73.75660
 Rajhans Surat & IMAX,rajhans-surat-and-imax,,"Udhana-Magdalla Road, Near Schmitten Circle (Y Junction), Vesu",395007,Surat,Gujarat,IN,India,APAC,TRUE,FALSE,FALSE,21.14680,72.76160
-Cinépolis Vivana Mall & IMAX,cinépolis-vivana-mall-imax,,Eastern Express Highway - Next to Jupiter Hospital,400606,Thane,,IN,India,APAC,FALSE,FALSE,FALSE,19.20837,72.97183
-PVR Lulu Trivandrum & IMAX,pvr-lulu-trivandrum-and-imax,,"Kochuvli, Thiruvananthapuram Kazhakootam-Kovalam Bypass Rd",695021,Thiruvananthapuram,Kerala,IN,India,APAC,FALSE,FALSE,FALSE,8.51540,76.89770
+Cinepolis Vivana Mall & IMAX,cinépolis-vivana-mall-imax,CPLS,Eastern Express Highway - Next to Jupiter Hospital,400606,Thane,,IN,India,APAC,FALSE,FALSE,FALSE,19.20837,72.97183
+PVR Lulu Trivandrum & IMAX,pvr-lulu-trivandrum-and-imax,PVRINOX,"Kochuvli, Thiruvananthapuram Kazhakootam-Kovalam Bypass Rd",695021,Thiruvananthapuram,Kerala,IN,India,APAC,FALSE,FALSE,FALSE,8.51540,76.89770
 Cinema World Lalaport Anjo & IMAX,cinema-world-lalaport-anjo-and-imax,,9-30 Daito-cho,446-0065,Anjo,Aichi Prefecture,JP,Japan,APAC,TRUE,FALSE,FALSE,34.96610,137.07960
 AEON Ichikawa Myoden & IMAX,aeon-ichikawa-myoden-imax,,"2-Bangai, 4-1-1, Myoden, Ichikawa-shi",272-0111,Chiba,,JP,Japan,APAC,TRUE,FALSE,FALSE,35.69234,139.92648
-TOHO Nagareyama-Takanomori & IMAX,toho-nagareyama-takanomori-imax,,"3F Nagareyama Otaka no Mori Shopping Center, 1-5-1 Otakano moriminami, Nagareyama",270-0139,Chiba,,JP,Japan,APAC,TRUE,FALSE,FALSE,35.87029,139.92656
-Aeon Makuhari Shin-toshin & IMAX,aeon-makuhari-shin-toshin-imax,,"1-1, Toyosuna, Mihama-ku",261-8535,"Chiba-shi, Chiba",,JP,Japan,APAC,TRUE,FALSE,FALSE,35.65387,140.03067
-TOHO Cinemas Hibiya & IMAX,toho-cinemas-hibiya-imax,,1-1-2 Yuurakucyo,100-0006,Chiyodaku,,JP,Japan,APAC,TRUE,FALSE,FALSE,35.67327,139.75972
-Aeon Chofu & IMAX,aeon-chofu-imax,,"2-61-1, Kojimacho",182-0026,"Chofu-shi, Tokyo",,JP,Japan,APAC,TRUE,FALSE,FALSE,35.65249,139.54167
-109 Cinemas Shonan & IMAX,109-cinemas-shonan-imax,,Terrace Mall 4F - 1-3-1 Tsujidokandai,251-0041,Fujisawa City,,JP,Japan,APAC,TRUE,FALSE,FALSE,35.33929,139.44691
+TOHO Nagareyama-Takanomori & IMAX,toho-nagareyama-takanomori-imax,TOHO,"3F Nagareyama Otaka no Mori Shopping Center, 1-5-1 Otakano moriminami, Nagareyama",270-0139,Chiba,,JP,Japan,APAC,TRUE,FALSE,FALSE,35.87029,139.92656
+AEON Makuhari Shin-toshin & IMAX,aeon-makuhari-shin-toshin-imax,,"1-1, Toyosuna, Mihama-ku",261-8535,"Chiba-shi, Chiba",,JP,Japan,APAC,TRUE,FALSE,FALSE,35.65387,140.03067
+TOHO Cinemas Hibiya & IMAX,toho-cinemas-hibiya-imax,TOHO,1-1-2 Yuurakucyo,100-0006,Chiyodaku,,JP,Japan,APAC,TRUE,FALSE,FALSE,35.67327,139.75972
+AEON Chofu & IMAX,aeon-chofu-imax,,"2-61-1, Kojimacho",182-0026,"Chofu-shi, Tokyo",,JP,Japan,APAC,TRUE,FALSE,FALSE,35.65249,139.54167
+109 Cinemas Shonan & IMAX,109-cinemas-shonan-imax,109,Terrace Mall 4F - 1-3-1 Tsujidokandai,251-0041,Fujisawa City,,JP,Japan,APAC,TRUE,FALSE,FALSE,35.33929,139.44691
 Fukuyama Eigaru 8 & IMAX,fukuyama-eigaru-8-imax,,2-10-26 Kannabecho Oaza Shindo Joaza - Fuji Guran Kannabe Uchi 3F,720-2107,Fukuyama-shi,,JP,Japan,APAC,FALSE,FALSE,FALSE,34.54426,133.35733
-AEON Cinema Hachioji Takiyama & IMAX,aeon-cinema-hachioji-takiyama-and-imax,,"Bldg. A 3F, Aeon Hachioji Takiyama South, 1-884 Takiyama-machi",192-0011,Hachioji-shi,Tokyo,JP,Japan,APAC,TRUE,FALSE,FALSE,35.68290,139.34040
+AEON Cinema Hachioji Takiyama & IMAX,aeon-cinema-hachioji-takiyama-and-imax,AEON,"Bldg. A 3F, Aeon Hachioji Takiyama South, 1-884 Takiyama-machi",192-0011,Hachioji-shi,Tokyo,JP,Japan,APAC,TRUE,FALSE,FALSE,35.68290,139.34040
 United Cinemas Canal City 13 & IMAX,united-cinemas-canal-city-13-imax,,1-2-22 Sumiyoshi Hakata-ku,812-0018,Hakata-ku,,JP,Japan,APAC,TRUE,FALSE,FALSE,33.59203,130.36436
 EarthCinemas Himeji & IMAX,earthcinemas-himeji-and-imax,,"Terasso Himeji 4F, 27 Ekimaecho",670-0927,Himeji,Hyogo,JP,Japan,APAC,TRUE,FALSE,FALSE,34.82690,134.69350
 T-JOY Hiroshima Wald 11 & IMAX,t-joy-hiroshima-wald-11-imax,,"4th Floor, Aeon Mall Hiroshima, 2-1-1 Osu, Fuchu-cho, Aki-gun",735-0021,Hiroshima,,JP,Japan,APAC,FALSE,FALSE,FALSE,34.39420,132.49951
@@ -892,54 +889,54 @@ US Cinema Chiharadai & IMAX,us-cinema-chiharadai-imax,,Shopping Mall Yunimo Chih
 Cinema Sunshine Iizuka & IMAX,cinema-sunshine-iizuka-imax,,3-6-1 Komodanishi,820-0017,"Iizuka, Fukuoka",,JP,Japan,APAC,TRUE,FALSE,FALSE,33.63260,130.68530
 Kagoshima Mitte 10 & IMAX,kagoshima-mitte-10-imax,,"1-1 Chuo-cho, Amu Plaza Kagoshima Honkan 6F",890-0053,Kagoshima,,JP,Japan,APAC,FALSE,FALSE,FALSE,31.58462,130.54306
 "Space Theatre, Municipal Science Hall",space-theatre-municipal-science-hall,,2-31-18 Kamoike,103-0013,Kagoshima,,JP,Japan,APAC,FALSE,FALSE,FALSE,31.56328,130.55434
-Aeon Kakamigahara & IMAX,aeon-kakamigahara-imax,,"3-8, Nakakayabacho",504-0943,"Kakamigahara-shi, Gifu",,JP,Japan,APAC,TRUE,FALSE,FALSE,35.39195,136.82357
+AEON Kakamigahara & IMAX,aeon-kakamigahara-imax,,"3-8, Nakakayabacho",504-0943,"Kakamigahara-shi, Gifu",,JP,Japan,APAC,TRUE,FALSE,FALSE,35.39195,136.82357
 United Cinemas Kanazawa & IMAX,united-cinemas-kanazawa-and-imax,,"1-70-1, Takayanagimachi",920-0005,Kanazawa,Ishikawa,JP,Japan,APAC,TRUE,FALSE,FALSE,36.58996,136.65870
-Aeon Fukuoka & IMAX,aeon-fukuoka-imax,,"192-1-2064, Aza Oinoki, Oaza Sakado",811-2303,"Kasuya-machi, Kasuya-gun, Fukuoka",,JP,Japan,APAC,TRUE,FALSE,FALSE,33.59643,130.47963
-109 Cinemas Kawasaki & IMAX,109-cinemas-kawasaki-imax,,Lazona Kawasaki Plaza 5F - 72-1 Horikawa-cho - Saiwai-ku - Kawasaki-shi,212-8576,Kawasaki,,JP,Japan,APAC,TRUE,FALSE,FALSE,35.53257,139.69585
-109 Cinemas Kiba & IMAX,109-cinemas-kiba-imax,,Ito Yokado Kiba 3F - 1-5-30 Kiba Koto-ku,135-0042,Kiba,,JP,Japan,APAC,TRUE,FALSE,FALSE,35.66614,139.80496
-AEON Cinema Ezuriko & IMAX,aeon-cinema-ezuriko-and-imax,,"Etsuko Shopping Center Pal 2nd Floor,19-74-3 Kitakiyari",024-0072,Kitakami City,Iwate Prefecture,JP,Japan,APAC,TRUE,FALSE,FALSE,39.29302,141.09361
+AEON Fukuoka & IMAX,aeon-fukuoka-imax,,"192-1-2064, Aza Oinoki, Oaza Sakado",811-2303,"Kasuya-machi, Kasuya-gun, Fukuoka",,JP,Japan,APAC,TRUE,FALSE,FALSE,33.59643,130.47963
+109 Cinemas Kawasaki & IMAX,109-cinemas-kawasaki-imax,109,Lazona Kawasaki Plaza 5F - 72-1 Horikawa-cho - Saiwai-ku - Kawasaki-shi,212-8576,Kawasaki,,JP,Japan,APAC,TRUE,FALSE,FALSE,35.53257,139.69585
+109 Cinemas Kiba & IMAX,109-cinemas-kiba-imax,109,Ito Yokado Kiba 3F - 1-5-30 Kiba Koto-ku,135-0042,Kiba,,JP,Japan,APAC,TRUE,FALSE,FALSE,35.66614,139.80496
+AEON Cinema Ezuriko & IMAX,aeon-cinema-ezuriko-and-imax,AEON,"Etsuko Shopping Center Pal 2nd Floor,19-74-3 Kitakiyari",024-0072,Kitakami City,Iwate Prefecture,JP,Japan,APAC,TRUE,FALSE,FALSE,39.29302,141.09361
 Lawson United Cinemas Kokura & IMAX,lawson-united-cinemas-kokura-and-imax,,"Cha Cha Town Kokura, 3-1-1-3010 Sunatsu, Kokurakita-ku",802-0014,Kitakyushu,Fukuoka,JP,Japan,APAC,TRUE,FALSE,FALSE,33.88300,130.88840
-Aeon Koshigaya Lake Town & IMAX,aeon-koshigaya-lake-town-imax,,"4-2-2, Lake Town",343-0828,"Koshigaya-shi, Saitama",,JP,Japan,APAC,TRUE,FALSE,FALSE,35.87853,139.82509
-TOHO Cinemas Nijo & IMAX,toho-cinemas-nijo-imax,,"107 Nishinokyotoganocho, Nakagyo-ku, Kyoto-shi",604-8415,Kyoto-fu,,JP,Japan,APAC,TRUE,FALSE,FALSE,35.01069,135.74089
+AEON Koshigaya Lake Town & IMAX,aeon-koshigaya-lake-town-imax,,"4-2-2, Lake Town",343-0828,"Koshigaya-shi, Saitama",,JP,Japan,APAC,TRUE,FALSE,FALSE,35.87853,139.82509
+TOHO Cinemas Nijo & IMAX,toho-cinemas-nijo-imax,TOHO,"107 Nishinokyotoganocho, Nakagyo-ku, Kyoto-shi",604-8415,Kyoto-fu,,JP,Japan,APAC,TRUE,FALSE,FALSE,35.01069,135.74089
 Lawson United Cinemas Maebashi & IMAX,lawson-united-cinemas-maebashi-and-imax,,"2-1-1, Bunkyocho",371-0801,Maebashi,Gunma Prefecture,JP,Japan,APAC,TRUE,FALSE,FALSE,36.37880,139.07790
 United Cinemas Matsudo & IMAX,united-cinemas-matsudo-imax,,2-8-1 Hachigasaki,270-0023,Matsudo,,JP,Japan,APAC,TRUE,FALSE,FALSE,35.81734,139.93504
 Cinema Sunshine Kinuyama & IMAX,cinema-sunshine-kinuyama-imax,,1-888 Kinuyama,791-8025,Matsuyama-shi,,JP,Japan,APAC,TRUE,FALSE,FALSE,33.85383,132.74686
-TOHO Cinemas Malera Gifu & IMAX,toho-cinemas-malera-gifu-and-imax,,"Malera Gifu 2F, 1100 Mitsuhashi",501-0497,Motosu-shi,Gifu Pref.,JP,Japan,APAC,TRUE,FALSE,FALSE,35.45550,136.67380
+TOHO Cinemas Malera Gifu & IMAX,toho-cinemas-malera-gifu-and-imax,TOHO,"Malera Gifu 2F, 1100 Mitsuhashi",501-0497,Motosu-shi,Gifu Pref.,JP,Japan,APAC,TRUE,FALSE,FALSE,35.45550,136.67380
 Lawson United Cinemas Nagasaki & IMAX,lawson-united-cinemas-nagasaki-and-imax,,"1-1, Onouemachi",850-0058,Nagasaki,Nagasaki Pref.,JP,Japan,APAC,TRUE,FALSE,FALSE,32.75110,129.87120
-109 Cinemas Nagoya & IMAX ,109-cinemas-nagoya-imax,,"Market Square Sasashima 2F, 4-60-14 Hiraike-cho Nakamura-ku",453-0872,Nagoya,,JP,Japan,APAC,FALSE,FALSE,FALSE,35.16281,136.88487
-AEON Cinema Oodaka & IMAX,aeon-cinema-oodaka-imax,,"2-450 Midoriku Minamioodaka, Aeon Mall Oodaka 1F",459-8016,Nagoya,,JP,Japan,APAC,FALSE,FALSE,FALSE,35.05306,136.94850
-TOHO Cinemas Nagoya Sakae & IMAX,toho-cinemas-nagoya-sakae-and-imax,,"3-25-1 Nishiki, Naka-ku",460-0003,Nagoyi-shi,Aichi Prefecture,JP,Japan,APAC,TRUE,FALSE,FALSE,35.16930,136.90790
+109 Cinemas Nagoya & IMAX ,109-cinemas-nagoya-imax,109,"Market Square Sasashima 2F, 4-60-14 Hiraike-cho Nakamura-ku",453-0872,Nagoya,,JP,Japan,APAC,FALSE,FALSE,FALSE,35.16281,136.88487
+AEON Cinema Oodaka & IMAX,aeon-cinema-oodaka-imax,AEON,"2-450 Midoriku Minamioodaka, Aeon Mall Oodaka 1F",459-8016,Nagoya,,JP,Japan,APAC,FALSE,FALSE,FALSE,35.05306,136.94850
+TOHO Cinemas Nagoya Sakae & IMAX,toho-cinemas-nagoya-sakae-and-imax,TOHO,"3-25-1 Nishiki, Naka-ku",460-0003,Nagoyi-shi,Aichi Prefecture,JP,Japan,APAC,TRUE,FALSE,FALSE,35.16930,136.90790
 Narita Humax Cinemas IMAX,narita-humax-cinemas-imax,,80 Wing Tsuchiya HUMAX Pavilion Narita 2FL,286-0029,Narita,,JP,Japan,APAC,FALSE,FALSE,FALSE,35.79280,140.32178
 United Cinemas Toshimaen & IMAX,united-cinemas-toshimaen-imax,,4-15-20 Nerima,176-0001,Nerima-ku,,JP,Japan,APAC,TRUE,FALSE,FALSE,35.74236,139.64900
-Aeon Niigata Minami & IMAX,aeon-niigata-minami-imax,,"1-1-1, Shimohayadori-yanagida, Konan-ku",950.015,"Niigata-shi, Niigata",,JP,Japan,APAC,TRUE,FALSE,FALSE,37.87707,139.08219
-TOHO Nishinomiya OS & IMAX,toho-nishinomiya-os-imax,,"14-2,Takamatsucho",663-8204,"Nishinomiya, Hyogo",,JP,Japan,APAC,TRUE,FALSE,FALSE,34.74374,135.35983
-TOHO Cinemas Akaike & IMAX,toho-cinemas-akaike-and-imax,,"Prime Tree Akaike 4F, 1 Minote, Akaike-cho",470-0126,Nisshin,Aichi,JP,Japan,APAC,TRUE,FALSE,FALSE,35.11880,137.02160
+AEON Niigata Minami & IMAX,aeon-niigata-minami-imax,,"1-1-1, Shimohayadori-yanagida, Konan-ku",950.015,"Niigata-shi, Niigata",,JP,Japan,APAC,TRUE,FALSE,FALSE,37.87707,139.08219
+TOHO Nishinomiya OS & IMAX,toho-nishinomiya-os-imax,TOHO,"14-2,Takamatsucho",663-8204,"Nishinomiya, Hyogo",,JP,Japan,APAC,TRUE,FALSE,FALSE,34.74374,135.35983
+TOHO Cinemas Akaike & IMAX,toho-cinemas-akaike-and-imax,TOHO,"Prime Tree Akaike 4F, 1 Minote, Akaike-cho",470-0126,Nisshin,Aichi,JP,Japan,APAC,TRUE,FALSE,FALSE,35.11880,137.02160
 Cinema Sunshine Lalaport Numazu & IMAX,cinema-sunshine-lalaport-numazu-imax,,"301-3 Higashihara, Higashi-Shiiji",4108541,"Numazu City, Shizuoka Prefecture",,JP,Japan,APAC,TRUE,FALSE,FALSE,35.11834,138.84016
-Aeon Okayama & IMAX,aeon-okayama-imax,,"1-2-1, Shimoishii, Kita-ku",700-0907,"Okayama-shi, Okayama",,JP,Japan,APAC,TRUE,FALSE,FALSE,34.60275,133.74658
+AEON Okayama & IMAX,aeon-okayama-imax,,"1-2-1, Shimoishii, Kita-ku",700-0907,"Okayama-shi, Okayama",,JP,Japan,APAC,TRUE,FALSE,FALSE,34.60275,133.74658
 United Cinemas Okazaki & IMAX,united-cinemas-okazaki-and-imax,,"Wing Town Okazaki, 3 Azukizaka",444-0814,Okazaki,Aichi,JP,Japan,APAC,TRUE,FALSE,FALSE,34.92330,137.17410
-109 Cinemas Osaka Expocity & IMAX,109-cinemas-osaka-expocity-imax,,"Expo City 2-1 Senri Banpaku Koen, Suita-shi",565-0826,Osaka,,JP,Japan,APAC,TRUE,FALSE,FALSE,34.80472,135.53360
+109 Cinemas Osaka Expocity & IMAX,109-cinemas-osaka-expocity-imax,109,"Expo City 2-1 Senri Banpaku Koen, Suita-shi",565-0826,Osaka,,JP,Japan,APAC,TRUE,FALSE,FALSE,34.80472,135.53360
 AEON Shijonawate & IMAX,aeon-shijonawate-imax,,"Aeon Mall Shijonawate, 4th Floor, 4-3-2, Suna, Shijonawate-shi",575-0001,Osaka,,JP,Japan,APAC,TRUE,FALSE,FALSE,34.74662,135.62948
-TOHO Cinemas Namba & IMAX,toho-cinemas-namba-imax,,"8F TOHO Nangai Bldg. 3-8-9  Namba, Chuo-ku",542-0076,Osaka,,JP,Japan,APAC,FALSE,FALSE,FALSE,34.66535,135.50155
+TOHO Cinemas Namba & IMAX,toho-cinemas-namba-imax,TOHO,"8F TOHO Nangai Bldg. 3-8-9  Namba, Chuo-ku",542-0076,Osaka,,JP,Japan,APAC,FALSE,FALSE,FALSE,34.66535,135.50155
 United Cinemas Kishiwada & IMAX,united-cinemas-kishiwada-imax,,"3F Kishiwada Kankan Bayside Mall, West , 3-1 Minato Midori Machi, Kishiwada-shi",596-0014,oSAKA,,JP,Japan,APAC,TRUE,FALSE,FALSE,34.46615,135.37153
-109 Cinemas Shobu & IMAX,109-cinemas-shobu-imax,,"Mallage Shobu 3F, 3555, Ooazashobu, Shobumachi, Minamisaitama-gun",346-0195,Saitama,,JP,Japan,APAC,TRUE,FALSE,FALSE,36.05942,139.60128
-TOHO Cinemas Sendai & IMAX,toho-cinemas-sendai-imax,,"3-7-5 Aobakuchuo, Sendai PARCO2 6F",9808450,Sendai,,JP,Japan,APAC,FALSE,FALSE,FALSE,38.25912,140.88021
-Aeon Cinema Suzaka & IMAX,aeon-cinema-suzaka-and-imax,,"Aeon Mall Suzaka 4F, 386-1, Oaza Fukujima",382-0056,Suzaka,Nagano,JP,Japan,APAC,TRUE,FALSE,FALSE,36.63950,138.27350
-TOHO CINEMAS Tachikawa Tachihi & IMAX,toho-cinemas-tachikawa-tachihi-imax,,"935-1, Izumicho",190-0015,"Tachikawa-shi, Tokyo",,JP,Japan,APAC,FALSE,FALSE,FALSE,35.71314,139.41798
+109 Cinemas Shobu & IMAX,109-cinemas-shobu-imax,109,"Mallage Shobu 3F, 3555, Ooazashobu, Shobumachi, Minamisaitama-gun",346-0195,Saitama,,JP,Japan,APAC,TRUE,FALSE,FALSE,36.05942,139.60128
+TOHO Cinemas Sendai & IMAX,toho-cinemas-sendai-imax,TOHO,"3-7-5 Aobakuchuo, Sendai PARCO2 6F",9808450,Sendai,,JP,Japan,APAC,FALSE,FALSE,FALSE,38.25912,140.88021
+AEON Cinema Suzaka & IMAX,aeon-cinema-suzaka-and-imax,AEON,"Aeon Mall Suzaka 4F, 386-1, Oaza Fukujima",382-0056,Suzaka,Nagano,JP,Japan,APAC,TRUE,FALSE,FALSE,36.63950,138.27350
+TOHO CINEMAS Tachikawa Tachihi & IMAX,toho-cinemas-tachikawa-tachihi-imax,TOHO,"935-1, Izumicho",190-0015,"Tachikawa-shi, Tokyo",,JP,Japan,APAC,FALSE,FALSE,FALSE,35.71314,139.41798
 T-Joy Emi Terrace Tokorozawa & IMAX,t-joy-emi-terrace-tokorozawa-and-imax,,"Emi Terrace Tokorozawa 4F, 10-1 Higashi Sumiyoshi",359-1124,Tokorozawa City,Saitama Prefecture,JP,Japan,APAC,TRUE,FALSE,FALSE,35.78580,139.47010
-109 Cinemas Futako Tamagawa & IMAX,109-cinemas-futako-tamagawa-imax,,1-14-1 Tamagawa - Setagayaku - Futako Tamagawa Rise S.C. Terrace Market 3F,158-0094,Tokyo,,JP,Japan,APAC,TRUE,FALSE,FALSE,35.61316,139.62734
-109 Cinemas Grandberry Mall & IMAX,109-cinemas-grandberry-imax,,"2F Granberry Park Wonder Theater 3-4-1 Tsuruma, Machida",194-0004,Tokyo,,JP,Japan,APAC,TRUE,FALSE,FALSE,35.51006,139.47005
+109 Cinemas Futako Tamagawa & IMAX,109-cinemas-futako-tamagawa-imax,109,1-14-1 Tamagawa - Setagayaku - Futako Tamagawa Rise S.C. Terrace Market 3F,158-0094,Tokyo,,JP,Japan,APAC,TRUE,FALSE,FALSE,35.61316,139.62734
+109 Cinemas Grandberry Mall & IMAX,109-cinemas-grandberry-imax,109,"2F Granberry Park Wonder Theater 3-4-1 Tsuruma, Machida",194-0004,Tokyo,,JP,Japan,APAC,TRUE,FALSE,FALSE,35.51006,139.47005
 Grand Cinema Sunshine & IMAX,grand-cinema-sunshine-imax,,"1-30-3 Higashi Ikebukuro, Toshima-ku",170-0013,Tokyo,,JP,Japan,APAC,TRUE,FALSE,FALSE,35.73096,139.71642
 T-Joy Prince Shinagawa & IMAX,t-joy-prince-shinagawa-imax,,"Shinagawa Prince Hotel, Annex Tower, 3FL, 4-10-30 Takanawa Minato",108-8611,Tokyo,,JP,Japan,APAC,FALSE,FALSE,FALSE,35.62795,139.73592
-Toho Cinemas Shinjyuku & IMAX,toho-cinemas-shinjyuku-imax,,Shinjyuku Toho Building 3F - 1-19-1 Kabukicho - Shinjyuku-ku,160-0021,Tokyo,,JP,Japan,APAC,TRUE,FALSE,FALSE,35.69380,139.70346
+Toho Cinemas Shinjyuku & IMAX,toho-cinemas-shinjyuku-imax,TOHO,Shinjyuku Toho Building 3F - 1-19-1 Kabukicho - Shinjyuku-ku,160-0021,Tokyo,,JP,Japan,APAC,TRUE,FALSE,FALSE,35.69380,139.70346
 United Cinemas Toyohashi 18 & IMAX,united-cinemas-toyohashi-18-imax,,141 Fujisawacho - Horidi Sukuea Amuzumento Biru Uchi,441-8061,Toyohashi-shi,,JP,Japan,APAC,FALSE,FALSE,FALSE,34.74433,137.37195
-TOHO Cinemas Favore Toyama & IMAX,toho-cinemas-favore-toyama-and-imax,,"165-1 Shimo-kutsuwada, Fuchu-machi",939-2715,Toyoma-shi,Toyama Pref.,JP,Japan,APAC,TRUE,FALSE,FALSE,36.66240,137.17120
+TOHO Cinemas Favore Toyama & IMAX,toho-cinemas-favore-toyama-and-imax,TOHO,"165-1 Shimo-kutsuwada, Fuchu-machi",939-2715,Toyoma-shi,Toyama Pref.,JP,Japan,APAC,TRUE,FALSE,FALSE,36.66240,137.17120
 Cinema Sunshine Tsuchiura & IMAX,cinema-sunshine-tsuchiura-imax,,367 Kamitakatsu,300-0811,Tsuchiura-shi,,JP,Japan,APAC,FALSE,FALSE,FALSE,36.07983,140.18040
 United Cinemas Parco City Urasoe & IMAX,united-cinemas-parco-city-urasoe-imax,,3-1-1 Irijima,901-2123,"Urasoe, Okinawa",,JP,Japan,APAC,TRUE,FALSE,FALSE,26.26379,127.69957
 United Cinemas Urawa & IMAX,united-cinemas-urawa-imax,,11-1 Higashitakasagocho - Urawa Parco 6F,330-0055,Urawa,,JP,Japan,APAC,TRUE,FALSE,FALSE,35.85811,139.65890
-TOHO Cinemas Utsunomiya & IMAX,toho-cinemas-utsunomiya-and-imax,,"Bell Mall, 6-5-1 Yoto",321-0904,Utsunomiya,Tochigi,JP,Japan,APAC,TRUE,FALSE,FALSE,36.55520,139.93010
+TOHO Cinemas Utsunomiya & IMAX,toho-cinemas-utsunomiya-and-imax,TOHO,"Bell Mall, 6-5-1 Yoto",321-0904,Utsunomiya,Tochigi,JP,Japan,APAC,TRUE,FALSE,FALSE,36.55520,139.93010
 IMAX Cinema Sunshine Yamatokoriyama,imax-cinema-sunshine-yamatokoriyama,,"Shimomitsuhashi-cho, 741",,"Yamatokoriyama-shi, Nara Prefecture",,JP,Japan,APAC,TRUE,FALSE,FALSE,34.65406,135.79793
-109 Cinemas Yumegaoka & IMAX,109-cinemas-yumegaoka-and-imax,,"Yumegaoka Soratos 3F, 1584-2 Shimoiida-cho, Izumi-ku",245-0017,Yokohama,Kanagawa Prefecture,JP,Japan,APAC,TRUE,FALSE,FALSE,35.40490,139.48270
-TOHO Cinemas LaLaport Yokohama & IMAX,toho-cinemas-lalaport-yokohama-imax,,"4035-1 Ikonobecho, Tsuzuki-ku",224-0053,"Yokohama City, Kanagawa",,JP,Japan,APAC,FALSE,FALSE,FALSE,35.51708,139.56687
+109 Cinemas Yumegaoka & IMAX,109-cinemas-yumegaoka-and-imax,109,"Yumegaoka Soratos 3F, 1584-2 Shimoiida-cho, Izumi-ku",245-0017,Yokohama,Kanagawa Prefecture,JP,Japan,APAC,TRUE,FALSE,FALSE,35.40490,139.48270
+TOHO Cinemas LaLaport Yokohama & IMAX,toho-cinemas-lalaport-yokohama-imax,TOHO,"4035-1 Ikonobecho, Tsuzuki-ku",224-0053,"Yokohama City, Kanagawa",,JP,Japan,APAC,FALSE,FALSE,FALSE,35.51708,139.56687
 Yokohama Burg13 & IMAX,yokohama-burg13-imax,,"6F Colette Mare 1-1-7 Sakuragicho, Naka-ku",231-0062,"Yokohama, Kanagawa",,JP,Japan,APAC,FALSE,FALSE,FALSE,35.45253,139.63037
 Major Cineplex by Smart & IMAX,major-cineplex-smart-imax,,"Aeon Mall Sen Sok City (St. No 1003, Village Bayab, Commune/Sangkat Phnom Penh Thmey, Khan Sen Sok)",12452,Phnom Penh,,KH,Cambodia,APAC,TRUE,FALSE,FALSE,11.54753,104.93435
 CGV Daegu Spectrum City & IMAX,cgv-daegu-spectrum-city-imax,CGV,"93, Chimsan-ro",41593,"Buk-go, Daegu",,KR,"Korea, Republic of",APAC,TRUE,FALSE,FALSE,35.88520,128.58980
@@ -958,7 +955,7 @@ CGV Sopong & IMAX,cgv-sopong-imax,CGV,"239, Songnae-daero, Bucheon-si",14545,Gye
 CGV Suwon & IMAX,cgv-suwon-imax,CGV,"924, Deogyeong-daero, Paldal-gu, Suwon-si",16622,Gyeonggi-do,,KR,"Korea, Republic of",APAC,FALSE,FALSE,FALSE,37.26582,127.00076
 CGV Uijeongbu & IMAX,cgv-uijeongbu-imax,CGV,"525, Pyeonghwa-ro, Uijeongbu-si",11696,Gyeonggi-do,,KR,"Korea, Republic of",APAC,TRUE,FALSE,FALSE,37.73841,127.04643
 CGV Changwon-The City & IMAX,cgv-changwon-city-imax,CGV,"320, Woni-daero, Uichang-gu, Changwon-si",51408,Gyeongsangnam-do,,KR,"Korea, Republic of",APAC,FALSE,FALSE,FALSE,35.24042,128.65336
-CGV Starfield City Wirye & IMAX,cgv-starfield-city-wirye-and-imax,,"5F, Starfield City Wirye, 200 Wirye-daero",12971,Hanam-si,Gyeonggi-do,KR,"Korea, Republic of",APAC,TRUE,FALSE,FALSE,37.48000,127.14880
+CGV Starfield City Wirye & IMAX,cgv-starfield-city-wirye-and-imax,CGV,"5F, Starfield City Wirye, 200 Wirye-daero",12971,Hanam-si,Gyeonggi-do,KR,"Korea, Republic of",APAC,TRUE,FALSE,FALSE,37.48000,127.14880
 CGV Dongtan & IMAX,cgv-dongtan-imax,CGV,Dongtan Jungangro 22,18445,"Hwasung, Gyeonggi-do",,KR,"Korea, Republic of",APAC,TRUE,FALSE,FALSE,37.20240,127.06794
 CGV Incheon & IMAX,cgv-incheon-imax,CGV,"198, Yesul-ro, Namdong-gu",21558,Incheon,,KR,"Korea, Republic of",APAC,TRUE,FALSE,FALSE,37.45172,126.70192
 CGV Jeonju Hyoja & IMAX,cgv-jeonju-hyoja-imax,CGV,"45, Yongmeori-ro, Wansan-gu, Jeonju-si",55056,Jeollabuk-do,,KR,"Korea, Republic of",APAC,FALSE,FALSE,FALSE,35.80657,127.11582
@@ -973,20 +970,20 @@ CGV Ulsan Samsan & IMAX,cgv-ulsan-samsan-imax,CGV,"185, Hwahap-ro, Nam-gu",44705
 Scope Cinemas Havelock City Mall & IMAX,scope-cinemas-havelock-city-mall-and-imax,,324-10 Havelock Road,500,Colombo,Western,LK,Sri Lanka,APAC,TRUE,FALSE,FALSE,6.88276,79.86841
 Urgoo Cinemas & IMAX,urgoo-cinemas-and-imax,,Ard Ayush Avenue,16091,Ulaanbaatar,BGD,MN,Mongolia,APAC,TRUE,FALSE,FALSE,47.92340,106.87490
 "Bona Cinemas IMAX, Genting",bona-cinemas-imax-genting,,"Lot T2-03A, Level 1, Sky Avenue",69000,Genting Highlands,,MY,Malaysia,APAC,FALSE,FALSE,FALSE,3.42364,101.79512
-GSC Mid Valley Southkey & IMAX,gsc-mid-valley-southkey-imax,,"AT-3, The Mall, Mid Valley Southkey, No 1, Persiaran Southkey 1",80150,Johor Bahru,,MY,Malaysia,APAC,FALSE,FALSE,FALSE,1.50116,103.77701
-GSC Paradigm Mall JB & IMAX,gsc-paradigm-mall-jb-and-imax,,"K013, Paradigm Mall, Skudai Hwy, Taman Bukit Mewah",,Johor Bahru,81200,MY,Malaysia,APAC,TRUE,FALSE,FALSE,1.51610,103.68500
-TGV Tebrau & IMAX,tgv-tebrau-imax,,Lot S01 AEON Tebrau City Shopping Centre - 1 Jalan Desa Tebrau,81100,Johor Bahru,,MY,Malaysia,APAC,FALSE,FALSE,FALSE,1.55007,103.79651
+GSC Mid Valley Southkey & IMAX,gsc-mid-valley-southkey-imax,GSC,"AT-3, The Mall, Mid Valley Southkey, No 1, Persiaran Southkey 1",80150,Johor Bahru,,MY,Malaysia,APAC,FALSE,FALSE,FALSE,1.50116,103.77701
+GSC Paradigm Mall JB & IMAX,gsc-paradigm-mall-jb-and-imax,GSC,"K013, Paradigm Mall, Skudai Hwy, Taman Bukit Mewah",,Johor Bahru,81200,MY,Malaysia,APAC,TRUE,FALSE,FALSE,1.51610,103.68500
+TGV Tebrau & IMAX,tgv-tebrau-imax,TGV,Lot S01 AEON Tebrau City Shopping Centre - 1 Jalan Desa Tebrau,81100,Johor Bahru,,MY,Malaysia,APAC,FALSE,FALSE,FALSE,1.55007,103.79651
 "Aurum Theatre, The Exchange TRX & IMAX",aurum-theatre-the-exchange-trx-and-imax,,"Park Level, The Exchange TRX Mall, Tun Razak Exchange",55188,Kuala Lumpur,,MY,Malaysia,APAC,TRUE,FALSE,FALSE,3.14330,101.71820
-GSC KL East Mall & IMAX,gsc-kl-east-mall-and-imax,,"G3-18, Level G3, Jln Lingkaran Tengah 2, Sunway Montana (U/C)",53100,Kuala Lumpur,,MY,Malaysia,APAC,TRUE,FALSE,FALSE,3.22480,101.73050
-TGV Pavilion Bukit Jalil & IMAX,tgv-pavilion-bukit-jalil-imax,,"2, Persiaran Jalil 8, Bukit Jalil",57000,Kuala Lumpur,,MY,Malaysia,APAC,TRUE,FALSE,FALSE,3.05070,101.67070
-TGV Pavilion Damansara Heights & IMAX,tgv-pavilion-damansara-heights-and-imax,,"Lot 5.04.00 & 6.01.00, Pavilion Damansara Heights, Jalan Damanlela, Damansara Town Centre",50490,Kuala Lumpur,,MY,Malaysia,APAC,TRUE,FALSE,FALSE,3.14680,101.66320
-TGV Sunway Velocity & IMAX,tgv-sunway-velocity-imax,,"Lot 4-113 & 4-114, Level 4, Sunway Velocity Mall, 80, Jalan Cheras, Maluri",55100,Kuala Lumpur,,MY,Malaysia,APAC,TRUE,FALSE,FALSE,3.14827,101.71301
-TGV Suria KLCC & IMAX,tgv-suria-klcc-and-imax,,"241, Petronas Twin Tower",50088,Kuala Lumpur,,MY,Malaysia,APAC,TRUE,FALSE,FALSE,3.15816,101.71146
-TGV Vivacity Mall Kuching & IMAX,tgv-vivacity-mall-kuching-imax,,"L3-A01, Vivacity Megamall, Jalan Wan Alwi",93350,Kuching,,MY,Malaysia,APAC,FALSE,FALSE,FALSE,1.52732,110.36951
-TGV Gurney Paragon & IMAX,tgv-gurney-paragon-imax,,"L8 01, 163-D, Persiaran Gurney",10250,Penang,,MY,Malaysia,APAC,FALSE,FALSE,FALSE,5.43680,100.31201
-TGV 1 Utama & IMAX,tgv-1-utama-imax,,3rd Floor Old Wing - One Utama Shopping Centre - 1 Lebuh Bandar Utama,47800,Petaling Jaya,,MY,Malaysia,APAC,TRUE,FALSE,FALSE,3.13640,101.60818
-TGV Sunway Pyramid & IMAX,tgv-sunway-pyramid-imax,,Level R - Sunway Pyramid Shopping Centre - No. 3 Jalan PJS 11/15 - Bandar Sunway,46149,Petaling Jaya,,MY,Malaysia,APAC,TRUE,FALSE,FALSE,3.07341,101.60759
-GSC IOI City Mall & IMAX,gsc-ioi-city-mall-imax,,"Lebuh IRC, IOI Resort City",62502,"Sepang, Selangor",,MY,Malaysia,APAC,TRUE,FALSE,FALSE,2.96916,101.71332
+GSC KL East Mall & IMAX,gsc-kl-east-mall-and-imax,GSC,"G3-18, Level G3, Jln Lingkaran Tengah 2, Sunway Montana (U/C)",53100,Kuala Lumpur,,MY,Malaysia,APAC,TRUE,FALSE,FALSE,3.22480,101.73050
+TGV Pavilion Bukit Jalil & IMAX,tgv-pavilion-bukit-jalil-imax,TGV,"2, Persiaran Jalil 8, Bukit Jalil",57000,Kuala Lumpur,,MY,Malaysia,APAC,TRUE,FALSE,FALSE,3.05070,101.67070
+TGV Pavilion Damansara Heights & IMAX,tgv-pavilion-damansara-heights-and-imax,TGV,"Lot 5.04.00 & 6.01.00, Pavilion Damansara Heights, Jalan Damanlela, Damansara Town Centre",50490,Kuala Lumpur,,MY,Malaysia,APAC,TRUE,FALSE,FALSE,3.14680,101.66320
+TGV Sunway Velocity & IMAX,tgv-sunway-velocity-imax,TGV,"Lot 4-113 & 4-114, Level 4, Sunway Velocity Mall, 80, Jalan Cheras, Maluri",55100,Kuala Lumpur,,MY,Malaysia,APAC,TRUE,FALSE,FALSE,3.14827,101.71301
+TGV Suria KLCC & IMAX,tgv-suria-klcc-and-imax,TGV,"241, Petronas Twin Tower",50088,Kuala Lumpur,,MY,Malaysia,APAC,TRUE,FALSE,FALSE,3.15816,101.71146
+TGV Vivacity Mall Kuching & IMAX,tgv-vivacity-mall-kuching-imax,TGV,"L3-A01, Vivacity Megamall, Jalan Wan Alwi",93350,Kuching,,MY,Malaysia,APAC,FALSE,FALSE,FALSE,1.52732,110.36951
+TGV Gurney Paragon & IMAX,tgv-gurney-paragon-imax,TGV,"L8 01, 163-D, Persiaran Gurney",10250,Penang,,MY,Malaysia,APAC,FALSE,FALSE,FALSE,5.43680,100.31201
+TGV 1 Utama & IMAX,tgv-1-utama-imax,TGV,3rd Floor Old Wing - One Utama Shopping Centre - 1 Lebuh Bandar Utama,47800,Petaling Jaya,,MY,Malaysia,APAC,TRUE,FALSE,FALSE,3.13640,101.60818
+TGV Sunway Pyramid & IMAX,tgv-sunway-pyramid-imax,TGV,Level R - Sunway Pyramid Shopping Centre - No. 3 Jalan PJS 11/15 - Bandar Sunway,46149,Petaling Jaya,,MY,Malaysia,APAC,TRUE,FALSE,FALSE,3.07341,101.60759
+GSC IOI City Mall & IMAX,gsc-ioi-city-mall-imax,GSC,"Lebuh IRC, IOI Resort City",62502,"Sepang, Selangor",,MY,Malaysia,APAC,TRUE,FALSE,FALSE,2.96916,101.71332
 Central i-City Mall & IMAX,central-i-city-mall-imax,,"Lot 4-01 Central i-city, No 1, Persiaran Multimedia, I- City, Seksyen 7",40000,Shah Alam,,MY,Malaysia,APAC,FALSE,FALSE,FALSE,3.06262,101.48209
 Event Cinemas Queen Street & IMAX,event-cinemas-queen-street-imax,,291-297 Queen Street,1005,Auckland,,NZ,New Zealand,APAC,TRUE,FALSE,FALSE,-36.85171,174.76407
 Event Cinemas Queensgate & IMAX,event-cinemas-queensgate-imax,,"37A Bloomfield Terrace, Hutt Central",5010,"Lower Hutt, 5010",,NZ,New Zealand,APAC,TRUE,FALSE,FALSE,-41.29424,174.78401
@@ -998,11 +995,11 @@ Vista Cinemas & IMAX,vista-cinemas-imax,,"4F, Evia Lifestyle Center, Daang Hari 
 SM Mega Mall & IMAX,sm-mega-mall-imax,SM,J. VARGAS COR. EDSA  WACK-WACH VILLAGE,1555,Mandaluyong City,,PH,Philippines,APAC,FALSE,FALSE,FALSE,14.58484,121.05733
 SM North Edsa & IMAX,sm-north-edsa-imax,SM,North Avenue Corner EDSA,1105,Manila,,PH,Philippines,APAC,FALSE,FALSE,FALSE,14.65623,121.03079
 SM Mall of Asia IMAX,sm-mall-asia-imax,SM,SM Mall of Asia - SM Central Business Park - Bay City,,Pasay City,,PH,Philippines,APAC,TRUE,FALSE,FALSE,14.53411,120.98262
-Shaw Paya Lebar Quarter & IMAX,shaw-paya-lebar-quarter-imax,,"10 Paya Lebar Road, #05-02 Paya Lebar Quarter",409057,Singapore,,SG,Singapore,APAC,TRUE,FALSE,FALSE,1.31767,103.89265
-Shaw Theatres JEM & IMAX,shaw-theatres-jem-and-imax,,"50 Jurong Gateway Rd, JEM, #05 04",608549,Singapore,,SG,Singapore,APAC,TRUE,FALSE,FALSE,1.33310,103.74320
-Shaw Theatres Jewel & IMAX,shaw-theatres-jewel-imax,,"78 Airport Boulevard #B2-237, Jewel Changi Airport",819666,Singapore,,SG,Singapore,APAC,TRUE,FALSE,FALSE,1.35862,103.98852
-Shaw Theatres Lido & IMAX,shaw-theatres-lido-imax,,350 Orchard Road - 5th/6th Floor - Shaw House,238868,Singapore,,SG,Singapore,APAC,TRUE,FALSE,FALSE,1.30574,103.83100
-Shaw Theatres Waterway Point & IMAX,shaw-theatres-waterway-point-imax,,"83 Punggol Central, Waterway Point, #B2-11",828761,Singapore,,SG,Singapore,APAC,TRUE,FALSE,FALSE,1.33342,103.74060
+Shaw Paya Lebar Quarter & IMAX,shaw-paya-lebar-quarter-imax,SHAW,"10 Paya Lebar Road, #05-02 Paya Lebar Quarter",409057,Singapore,,SG,Singapore,APAC,TRUE,FALSE,FALSE,1.31767,103.89265
+Shaw Theatres JEM & IMAX,shaw-theatres-jem-and-imax,SHAW,"50 Jurong Gateway Rd, JEM, #05 04",608549,Singapore,,SG,Singapore,APAC,TRUE,FALSE,FALSE,1.33310,103.74320
+Shaw Theatres Jewel & IMAX,shaw-theatres-jewel-imax,SHAW,"78 Airport Boulevard #B2-237, Jewel Changi Airport",819666,Singapore,,SG,Singapore,APAC,TRUE,FALSE,FALSE,1.35862,103.98852
+Shaw Theatres Lido & IMAX,shaw-theatres-lido-imax,SHAW,350 Orchard Road - 5th/6th Floor - Shaw House,238868,Singapore,,SG,Singapore,APAC,TRUE,FALSE,FALSE,1.30574,103.83100
+Shaw Theatres Waterway Point & IMAX,shaw-theatres-waterway-point-imax,SHAW,"83 Punggol Central, Waterway Point, #B2-11",828761,Singapore,,SG,Singapore,APAC,TRUE,FALSE,FALSE,1.33342,103.74060
 Bangkapi Cineplex & IMAX,bangkapi-cineplex-and-imax,,"Bangkapi Cineplex, The Mall Lifestore Bangkapi 3F, 3522 Lat Phrao Rd, Khlong Chan, Bang Kapi District",12240,Bangkok,,TH,Thailand,APAC,TRUE,FALSE,FALSE,13.76460,100.64240
 "IMAX at  ICON CINECONIC, ICONSIAM",imax-icon-cineconic-iconsiam,,"Icon Cineconic, 8th Floor, 299 Soi Charoen Nakhon 5, Charoen Nakhon Rd, Khlong Ton Sai, Khlong San",10600,Bangkok,,TH,Thailand,APAC,FALSE,FALSE,FALSE,13.72649,100.51010
 "Krungsri IMAX, Major Cineplex Ratchayothin",krungsri-imax-major-cineplex-ratchayothin,,"1839-18391/1 Phaholyothin Road, Ladyao, Judachak",10900,Bangkok,,TH,Thailand,APAC,TRUE,FALSE,FALSE,13.82774,100.56817
@@ -1029,11 +1026,11 @@ CGV Vincom Metropolis & IMAX,cgv-vincom-metropolis-imax,CGV,"29 Lieu Giai Street
 Galaxy Hanoi Centre & IMAX,galaxy-hanoi-centre-and-imax,,"Level 3, Hanoi Centre Shopping Mall, 175 Nguyen Thai Hoc, Dien Bien Ward, Ba Dinh District",11114,Hanoi,,VN,Viet Nam,APAC,TRUE,FALSE,FALSE,21.03160,105.83080
 CGV SC VivoCity & IMAX,cgv-sc-vivocity-imax,CGV,"Nguyen Van Linh Boulevard, District 7",70000,Ho Chi Minh,,VN,Viet Nam,APAC,FALSE,FALSE,FALSE,10.72880,106.71826
 CGV Vincom Landmark & IMAX,cgv-vincom-landmark-imax,CGV,"772 Dien Bien Phu street, Ward 22, Binh Thanh District",70000,Ho Chi Minh,,VN,Viet Nam,APAC,FALSE,FALSE,FALSE,10.79478,106.72227
-CGV Aeon Binh Tan & IMAX,cgv-aeon-binh-tan-and-imax,CGV,"Level 3, Aeon Mall Binh Tan, No.1, Street 17A, Quarter 11, Binh Tri Dong B Ward, Binh Tan District , HCMC",70000,Ho Chi Minh City,,VN,Viet Nam,APAC,TRUE,FALSE,FALSE,10.74260,106.61166
+CGV AEON Binh Tan & IMAX,cgv-aeon-binh-tan-and-imax,CGV,"Level 3, Aeon Mall Binh Tan, No.1, Street 17A, Quarter 11, Binh Tri Dong B Ward, Binh Tan District , HCMC",70000,Ho Chi Minh City,,VN,Viet Nam,APAC,TRUE,FALSE,FALSE,10.74260,106.61166
 CGV Su Van Hanh & IMAX,cgv-su-van-hanh-and-imax,CGV,"Level 6, Van Hanh Mall, No.11 Su Van Hanh Street, Ward 12, District 10",70000,Ho Chi Minh City,,VN,Viet Nam,APAC,TRUE,FALSE,FALSE,10.77051,106.66983
 Galaxy Sala & IMAX,galaxy-sala-and-imax,,"3rd Floor, Thiso Mall Sala, 10 Mai Chi Tho, Thu Thiem Ward, Thu Duc City",70000,Ho Chi Minh City,,VN,Viet Nam,APAC,TRUE,FALSE,FALSE,10.77190,106.72110
 VOX Al Maryah & IMAX,vox-al-maryah-imax,VOX,"The Galleria Mall, Al Maryah, Island Abu Dhabi",32625,Abu Dhabi,,AE,United Arab Emirates,EMEA,TRUE,FALSE,FALSE,24.50090,54.38841
-VOX Cinemas Yas Mall & IMAX,vox-cinemas-yas-mall-and-imax,,Yas Island,,Abu Dhabi,,AE,United Arab Emirates,EMEA,TRUE,FALSE,FALSE,24.48440,54.60880
+VOX Cinemas Yas Mall & IMAX,vox-cinemas-yas-mall-and-imax,VOX,Yas Island,,Abu Dhabi,,AE,United Arab Emirates,EMEA,TRUE,FALSE,FALSE,24.48440,54.60880
 VOX Cinemas & IMAX,vox-cinemas-imax,VOX,Sheikh Zayed Road - 4th Interchange - Mall of the Emirates - 1st Floor,,Dubai,,AE,United Arab Emirates,EMEA,TRUE,FALSE,FALSE,25.11888,55.19893
 VOX Cinemas Mirdif & IMAX,vox-cinemas-mirdif-imax,VOX,City Centre Mirdif,32625,Dubai,,AE,United Arab Emirates,EMEA,FALSE,FALSE,FALSE,25.21624,55.40909
 VOX Festival City Mall & IMAX,vox-festival-city-mall-and-imax,VOX,Dubai Festival City Mall,50819,Dubai,,AE,United Arab Emirates,EMEA,TRUE,FALSE,FALSE,25.22200,55.35280
@@ -1048,23 +1045,23 @@ CineplexX Donau Plex IMAX Vienna,cineplexx-donau-plex-imax-vienna,,Wagramer Stra
 CineplexX Apollo Vienna & IMAX,cineplexx-apollo-vienna-imax,,Gumpendorferstrasse 63,1060,Wien,,AT,Austria,EMEA,TRUE,FALSE,FALSE,48.19721,16.35363
 CineplexX Westfield SCS & IMAX,cineplexx-westfield-scs-and-imax,,Westfield Shopping City Süd,2351,Wiener Neudorf,,AT,Austria,EMEA,TRUE,FALSE,FALSE,48.10440,16.31830
 Azercell & IMAX,azercell-imax,,"Mehdi Huseyn 1A, Sabail Region",AZ1006,Baku,,AZ,Azerbaijan,EMEA,FALSE,FALSE,FALSE,40.36127,49.82643
-Kinepolis Mega NV Antwerpen & IMAX,kinepolis-mega-nv-antwerpen-imax,,Groenendaallaan 394,2030,Antwerpen,,BE,Belgium,EMEA,TRUE,FALSE,FALSE,51.24445,4.41753
-Kinepolis Brussels & IMAX,kinepolis-brussels-imax,,Boulevard du Centenaire 20,1020,Brussels,,BE,Belgium,EMEA,TRUE,FALSE,TRUE,50.89562,4.33823
+Kinepolis Mega NV Antwerpen & IMAX,kinepolis-mega-nv-antwerpen-imax,KPLS,Groenendaallaan 394,2030,Antwerpen,,BE,Belgium,EMEA,TRUE,FALSE,FALSE,51.24445,4.41753
+Kinepolis Brussels & IMAX,kinepolis-brussels-imax,KPLS,Boulevard du Centenaire 20,1020,Brussels,,BE,Belgium,EMEA,TRUE,FALSE,TRUE,50.89562,4.33823
 Pathé Charleroi & IMAX,pathé-charleroi-imax,,Grand'Rue 141-143,6000,Charleroi,,BE,Belgium,EMEA,TRUE,FALSE,FALSE,50.42126,4.45893
-Kinepolis Hasselt & IMAX,kinepolis-hasselt-and-imax,,Via Media 1/4A,3500,Hasselt,,BE,Belgium,EMEA,TRUE,FALSE,FALSE,50.93050,5.36880
-Kinepolis Liege & IMAX,kinepolis-liege-and-imax,,Chaussée de Tongres 200,4000,Liege,,BE,Belgium,EMEA,TRUE,FALSE,FALSE,50.66817,5.55411
+Kinepolis Hasselt & IMAX,kinepolis-hasselt-and-imax,KPLS,Via Media 1/4A,3500,Hasselt,,BE,Belgium,EMEA,TRUE,FALSE,FALSE,50.93050,5.36880
+Kinepolis Liege & IMAX,kinepolis-liege-and-imax,KPLS,Chaussée de Tongres 200,4000,Liege,,BE,Belgium,EMEA,TRUE,FALSE,FALSE,50.66817,5.55411
 Imagix Mons & IMAX,imagix-mons-and-imax,,Bd André Delvaux 1,7000,Mons,,BE,Belgium,EMEA,TRUE,FALSE,FALSE,50.46000,3.93470
 Cineland Markovo Tepe & IMAX,cineland-markovo-tepe-and-imax,,"MALL MARKOVO TEPE, 54 RUSKI BLVD",4000,Plovdiv,,BG,Bulgaria,EMEA,TRUE,FALSE,FALSE,42.14040,24.74150
 "Cinema City IMAX, Mall of Sofia",cinema-city-imax-mall-sofia,,Mall Sofia - 101 Al. Stambolijski Boulevard,1330,Sofia,,BG,Bulgaria,EMEA,FALSE,FALSE,FALSE,42.69776,23.30873
 Cineland Grand Mall & IMAX,cineland-grand-mall-imax,,2 Andrey Saharov Str.,9009,Varna,,BG,Bulgaria,EMEA,FALSE,FALSE,FALSE,43.21871,27.89799
 Reel Cinemas & IMAX,reel-cinemas-and-imax,,Marassi Island,85001,Diyar Al-Muharraq,,BH,Bahrain,EMEA,FALSE,FALSE,FALSE,26.30090,50.64310
 VOX Cineco & IMAX,vox-cineco-imax,VOX,"Building 2758, Road 4650, Block 346, Sh. Khalifa Highway",,Manama,,BH,Bahrain,EMEA,FALSE,FALSE,FALSE,26.23239,50.55604
-Pathe Westside & IMAX,pathe-westside-and-imax,PATHE,Riedbachstrasse 102,3027,Bern,,CH,Switzerland,EMEA,TRUE,FALSE,FALSE,46.94360,7.37190
+Pathé Westside & IMAX,pathe-westside-and-imax,PATHE,Riedbachstrasse 102,3027,Bern,,CH,Switzerland,EMEA,TRUE,FALSE,FALSE,46.94360,7.37190
 blue Cinema Chur & IMAX,blue-cinema-chur-imax,,Sommeraustrasse 7,7000,Chur,,CH,Switzerland,EMEA,TRUE,FALSE,FALSE,46.84870,9.50620
-Pathe Mall of Switzerland & IMAX,pathe-mall-switzerland-imax,PATHE,Ebisquare-Strasse 2,6030,Ebikon-Lucerne,,CH,Switzerland,EMEA,TRUE,FALSE,FALSE,47.09438,8.35815
-Pathe Balexert & IMAX,pathe-balexert-imax,PATHE,avenue Louis-Casaï 27,1211,Genève,,CH,Switzerland,EMEA,TRUE,FALSE,FALSE,46.21911,6.11447
+Pathé Mall of Switzerland & IMAX,pathe-mall-switzerland-imax,PATHE,Ebisquare-Strasse 2,6030,Ebikon-Lucerne,,CH,Switzerland,EMEA,TRUE,FALSE,FALSE,47.09438,8.35815
+Pathé Balexert & IMAX,pathe-balexert-imax,PATHE,avenue Louis-Casaï 27,1211,Genève,,CH,Switzerland,EMEA,TRUE,FALSE,FALSE,46.21911,6.11447
 Blue Cinema Cinedome Muri bei Bern & IMAX,cinedome-muri-imax,,Feldstrasse 32,3073,Muri bei Bern,,CH,Switzerland,EMEA,FALSE,FALSE,FALSE,46.92700,7.50277
-Pathe Spreitenbach & IMAX,pathe-spreitenbach-imax,PATHE,Sandäckerstrasse 4,8957,Spreitenbach,,CH,Switzerland,EMEA,TRUE,FALSE,FALSE,47.42124,8.37197
+Pathé Spreitenbach & IMAX,pathe-spreitenbach-imax,PATHE,Sandäckerstrasse 4,8957,Spreitenbach,,CH,Switzerland,EMEA,TRUE,FALSE,FALSE,47.42124,8.37197
 blue Cinema Abaton Zürich & IMAX,blue-cinema-abaton-zuerich-and-imax,,Heinrichstrasse 269,8005,Zurich,,CH,Switzerland,EMEA,TRUE,FALSE,FALSE,47.38930,8.52170
 The Movies Curacao & IMAX,movies-curacao-imax,,Plaza Mundo Merced 1,5999,Willemstad,,CW,Curaçao,EMEA,TRUE,FALSE,FALSE,12.10774,-68.93058
 "IMAX Theatre, Palac Flora",imax-theatre-palac-flora,,Palac Flora Vinohradska 151,130 00,Prague,,CZ,Czechia,EMEA,FALSE,FALSE,TRUE,50.07851,14.46117
@@ -1083,7 +1080,7 @@ Cinestar Leipzig & IMAX,cinestar-leipzig-and-imax,,Petersstrasse 44,4109,Leipzig
 IMAX Leonberg,imax-leonberg,,Neue Ramtelstraße 2,71229,Leonberg,,DE,Germany,EMEA,TRUE,FALSE,FALSE,48.78262,9.01573
 Cinestar Oberhausen & IMAX,cinestar-oberhausen-and-imax,,Luise-Albertz-Platz 1,46047,Oberhausen,,DE,Germany,EMEA,TRUE,FALSE,FALSE,51.49251,6.88106
 "IMAX 3D, Sinsheim Auto & Technik Museum",imax-3d-sinsheim-auto-technik-museum,,Museumsplatz,74889,Sinsheim,,DE,Germany,EMEA,TRUE,FALSE,FALSE,49.23734,8.89772
-"IMAX Dome, Speyer Technik Museum",imax-dome-speyer-technik-museum,,Am Technik Museum 1,67346,Speyer,,DE,Germany,EMEA,FALSE,FALSE,FALSE,49.13259,8.44657
+"IMAX Dome, Speyer Technik Museum",imax-dome-speyer-technik-museum,,Am Technik Museum 1,67346,Speyer,,DE,Germany,EMEA,FALSE,TRUE,FALSE,49.13259,8.44657
 Vue Bruuns & IMAX,cinemaxx-aarhus-imax,,M. P. Bruuns Gade 25C,8000,Aarhus,,DK,Denmark,EMEA,FALSE,FALSE,FALSE,56.14927,10.20340
 Vue Fisketorvet & IMAX,cinemaxx-kobenhavn-imax,,Kalvebod Brygge 57,1560,København,,DK,Denmark,EMEA,FALSE,FALSE,FALSE,55.66290,12.56241
 CINAMON T1 & IMAX,cinamon-t1-imax,,"T1 Mall of Tallinn, Peterburi tee 2",11415,Tallinn,,EE,Estonia,EMEA,FALSE,FALSE,FALSE,59.42470,24.79520
@@ -1093,100 +1090,99 @@ VOX Al Mazza & IMAX,vox-al-mazza-imax,VOX,"Almaza City Center, Sheraton Al Matar
 Cinesa Diagonal Mar & IMAX,cinesa-diagonal-mar-imax,,"Avinguda Diagonal, 3",8019,Barcelona,,ES,Spain,EMEA,FALSE,FALSE,FALSE,41.41041,2.21645
 Cinesa Parquesur IMAX,cinesa-parquesur-imax,,Avenida Gran Bretana,28016,"Leganes, Madrid",,ES,Spain,EMEA,FALSE,FALSE,FALSE,40.33893,-3.73614
 Cinesa Las Rozas Madrid  & IMAX,cinesa-las-rozas-madrid-imax,,"Calle Camilo Jose Cela, 3, 28232  Las Rozas",28232,Madrid,,ES,Spain,EMEA,FALSE,FALSE,FALSE,40.51629,-3.89685
-Kinepolis Madrid & IMAX,kinepolis-madrid-imax,,"C. Edgar Neville, s/n",28223,Madrid,,ES,Spain,EMEA,TRUE,FALSE,FALSE,40.39446,-3.79651
+Kinepolis Madrid & IMAX,kinepolis-madrid-imax,KPLS,"C. Edgar Neville, s/n",28223,Madrid,,ES,Spain,EMEA,TRUE,FALSE,FALSE,40.39446,-3.79651
 Cinesa Festival Park IMAX,cinesa-festival-park-imax,,"Autopista Palma - Inca, km 7,1",7141,Palma de Mallorca,,ES,Spain,EMEA,FALSE,FALSE,FALSE,39.63338,2.73215
-Kinepolis Valencia & IMAX,kinepolis-valencia-and-imax,,Avenida Francisco Tomás y Valiente s/n,46980,Valencia,,ES,Spain,EMEA,TRUE,FALSE,FALSE,39.53033,-0.43945
+Kinepolis Valencia & IMAX,kinepolis-valencia-and-imax,KPLS,Avenida Francisco Tomás y Valiente s/n,46980,Valencia,,ES,Spain,EMEA,TRUE,FALSE,FALSE,39.53033,-0.43945
 Cines Palafox & IMAX,cines-palafox-and-imax,,"Paseo de la Independencia, 12",50004,Zaragoza,,ES,Spain,EMEA,TRUE,FALSE,FALSE,41.65091,-0.88257
 Finnkino Itis & IMAX,finnkino-itis-imax,,Itakatu 3,930,Helsinki,,FI,Finland,EMEA,TRUE,FALSE,FALSE,60.21169,25.08248
-Pathe Angers & IMAX,pathe-angers-and-imax,PATHE,"1, Av. des Droits de l'Homme - BP 70430 ",49104,Angers,Cedex 02,FR,France,EMEA,TRUE,FALSE,FALSE,47.47983,-0.55082
-Gaumont Archamps & IMAX,gaumont-archamps-imax,,Site d'Archamps,74160,Archamps,,FR,France,EMEA,TRUE,FALSE,FALSE,46.13875,6.12223
-Pathe Cine Dome Aubiere & IMAX,pathe-cine-dome-aubiere-imax,PATHE,Avenue Lavoisier,63170,Aubiere,,FR,France,EMEA,TRUE,FALSE,FALSE,45.75675,3.14379
-Megarama Bordeaux & IMAX,megarama-bordeaux-imax,,7 Quai des Queyries,33100,Bordeaux,,FR,France,EMEA,TRUE,FALSE,FALSE,44.84183,-0.56111
-Megarama Les Stars & IMAX,megarama-les-stars-and-imax,,18 Rue Nationale,62200,Boulogne-sur-Mer,,FR,France,EMEA,TRUE,FALSE,FALSE,50.72242,1.60605
-Pathe Brumath & IMAX,pathe-brumath-and-imax,,7 Rue des Frères Lumière,67170,Burmath,,FR,France,EMEA,TRUE,FALSE,FALSE,48.74432,7.69278
-Cineum Cannes & IMAX,cineum-cannes-imax,,"210, avenue Francis Tonner ",6150,"Cannes, Région Sud – Provence-Alpes-Côte-d’Azur ",,FR,France,EMEA,TRUE,FALSE,FALSE,43.55044,6.96032
-Pathe Conflans & IMAX,pathe-conflans-imax,PATHE,9 rue de l'Hautil,78700,Conflans-Sainte-Honorine,,FR,France,EMEA,TRUE,FALSE,FALSE,49.00347,2.07777
-Majestic Dole Rive Gauche & IMAX,majestic-dole-rive-gauche-and-imax,,Rue du Général Bethouart,39100,Dole,,FR,France,EMEA,TRUE,FALSE,FALSE,47.08020,5.48460
-Megarama Givors & IMAX,megarama-givors-and-imax,,Avenue Georges Charpak,69700,Givors,,FR,France,EMEA,TRUE,FALSE,FALSE,45.58330,4.77280
-Pathe Grenoble & IMAX,pathe-grenoble-and-imax,PATHE,21 Bd Maréchal Lyautey,38000,Grenoble,,FR,France,EMEA,TRUE,FALSE,FALSE,45.18567,5.73060
-Cinema Pathe Quai d'Ivry & IMAX,cinema-pathe-quai-divry-imax,PATHE,5 rue François Mitterand,94200,Ivry-sur-Seine,,FR,France,EMEA,TRUE,FALSE,FALSE,48.82430,2.38849
-Pathe La Valette & IMAX,pathe-la-valette-imax,PATHE,300 avenue de l’Université,86130,La Valette-Du-Var,,FR,France,EMEA,TRUE,FALSE,FALSE,43.13707,6.00662
-Pathe Plan de Campagne & IMAX,pathe-plan-de-campagne-imax,PATHE, Chemin des Pennes aux Pins,13170,Les Pennes Mirabeau,,FR,France,EMEA,FALSE,FALSE,FALSE,43.41304,5.36238
-Megarama Les Ulis & IMAX,megarama-les-ulis-and-imax,,5 Avenue de l'Aubrac,91940,Les Ulis,Issonne / ile de France,FR,France,EMEA,TRUE,FALSE,FALSE,48.67711,2.17071
-Pathé Carré Sénart & IMAX,pathé-carré-sénart-imax,,"3, allée du préambule",77566,Lieusaint,,FR,France,EMEA,TRUE,FALSE,FALSE,48.61584,2.54596
-Pathé Île Seguin & IMAX,pathe-ile-seguin-and-imax,Pathé,"2 Île Seguin",92100,Boulogne-Billancourt,,Fr,France,EMEA,TRUE,FALSE,FALSE,48.81359,2.39484
-Kinepolis Lomme & IMAX,kinepolis-lomme-and-imax,,1 Rue du Chateau D'Isenghien,59160,Lille,,FR,France,EMEA,TRUE,FALSE,FALSE,50.65106,2.98232
-Cinema Pathe Carre de Soie & IMAX,cinema-pathe-carre-de-soie-imax,PATHE,2 rue Jacquard,69120,Lyon (Vaulx-en-Velin),,FR,France,EMEA,TRUE,FALSE,FALSE,45.76377,4.92629
-Pathe Montataire & IMAX,pathe-montataire-and-imax,,91 Rue Louis Blanc,60160,Montataire,,FR,France,EMEA,TRUE,FALSE,FALSE,49.26027,2.45104
-Gaumont Montpellier Multiplexe & IMAX,gaumont-montpellier-multiplexe-imax,,"235, rue Georges Mélies",34000,Montpellier,,FR,France,EMEA,TRUE,FALSE,TRUE,43.60457,3.91579
-Pathe Lingostiere & IMAX,pathe-lingostiere-and-imax,PATHE,604 boulevard du Mercantour,6300,Nice,,FR,France,EMEA,TRUE,FALSE,FALSE,43.72225,7.18629
-Kinepolis Nimes & IMAX,kinepolis-nimes-and-imax,,130 rue Michel Debré,30900,Nimes,,FR,France,EMEA,TRUE,FALSE,FALSE,43.81460,4.36700
-Gaumont Disney Village & IMAX,gaumont-disney-village-imax,,Disney Village,77705,Paris,,FR,France,EMEA,TRUE,FALSE,FALSE,48.86764,2.78545
-La Geode,la-geode,,26 avenue Corentin Cariou,75019,Paris,,FR,France,EMEA,TRUE,FALSE,FALSE,48.89455,2.38870
-Pathe La Villette & IMAX,pathe-la-villette-imax,PATHE,"30, avenue Corentin Cariou",75019,Paris,,FR,France,EMEA,FALSE,FALSE,FALSE,48.89592,2.38715
-Futuroscope - Arthur the 4D Adventure,futuroscope-arthur-4d-adventure,,Parc du Futuroscope,86130,Poitiers,,FR,France,EMEA,FALSE,FALSE,FALSE,46.67107,0.37056
-Megarama Roubaix & IMAX,megarama-roubaix-and-imax,,47 Grande Rue,59100,Roubaix,,FR,France,EMEA,TRUE,FALSE,FALSE,50.69250,3.17840
-Gaumont Rouen Grand Quevilly & IMAX,gaumont-rouen-grand-quevilly-imax,,26 boulevard Pierre Brossolette,76120,Rouen,,FR,France,EMEA,TRUE,FALSE,FALSE,49.41378,1.04113
-Pathe Atlantis & IMAX,pathe-atlantis-and-imax,PATHE,Allée la Pérouse ,44818,Saint-Herblain,,FR,France,EMEA,TRUE,FALSE,FALSE,47.22255,-1.62624
-Pathe Saran & IMAX,pathe-saran-imax,PATHE,"1010, route Nationale 20",45770,Saran,,FR,France,EMEA,TRUE,FALSE,FALSE,47.94645,1.89572
-Gaumont Parc Millesime & IMAX,gaumont-parc-millesime-imax,,Parc Millesime,51270,Thillois,,FR,France,EMEA,TRUE,FALSE,FALSE,49.25357,3.96569
-Cinema Gaumont Labège & IMAX,gaumont-labège-imax,,"105 La Méridienne, Labège Innopole",31670,Toulouse,,FR,France,EMEA,FALSE,FALSE,FALSE,43.53999,1.51104
-IMAX Cite d l'Espace,imax-cite-d-lespace,,"Cite de l'Espace, Avenue Jean Gonord, BP 5855",31506,Toulouse,,FR,France,EMEA,TRUE,FALSE,FALSE,43.58600,1.49400
-Cine Loire & IMAX,cine-loire-imax,,Rue de la Presle,37000,Tours,,FR,France,EMEA,FALSE,FALSE,FALSE,47.42285,0.70941
-Pathe Valence & IMAX,pathe-valence-and-imax,,"53, av de Romans",26000,Valence,,FR,France,EMEA,TRUE,FALSE,FALSE,44.29032,5.96560
-Pathe Valenciennes & IMAX,pathe-valenciennes-and-imax,PATHE,59 Avenue des Alpes,59300,Valenciennes,,FR,France,EMEA,TRUE,FALSE,FALSE,50.34063,3.51738
-Cineworld Ashford & IMAX,cineworld-ashford-imax,CINEWORLD,"Eureka Entertainment Centre, Rutherford Road",TN25 4BN,"Ashford, Kent",,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,51.16060,0.87320
-Cineworld Ashton-under-Lyne & IMAX,cineworld-ashton-under-lyne-imax,CINEWORLD,"Ashton Leisure Park, Fold Way, Off Lord Sheldon Way",OL7 0PG,Ashton Under Lyne,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,53.48920,-2.11019
-Cineworld Barnsley & IMAX,cineworld-barnsley-imax,CINEWORLD,The Glassworks,S70 1GW,"Barnsley, ",,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,53.55220,-1.47860
-Cineworld Basildon & IMAX,empire-basildon-imax,CINEWORLD,Festival Leisure Park - Cranes Farm Road,SS14 3WB,Basildon,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,51.58519,0.46292
-Cineworld Belfast & IMAX,cineworld-belfast-imax,CINEWORLD,2 Queens Quay,BT3 9QQ,Belfast,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,54.60390,-5.91650
-Cineworld Birmingham & IMAX,cineworld-birmingham-imax,CINEWORLD,"Broad Street, City Centre  ",B15 1DA,Birmingham,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,52.47429,-1.91569
-Cineworld Birmingham NEC & IMAX,cineworld-birmingham-nec-imax,CINEWORLD,"Resorts World, Pendigo Way",B40 1PU,Birmingham,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,52.44785,-1.71763
-Arc Cinemas Blackpool & IMAX,arc-cinemas-blackpool-and-imax,,"Houndshill Shopping Centre, Coronation Street",FY1 4EN,Blackpool,Lancashire,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,53.81580,-3.05380
-National Media Museum & IMAX,pictureville-cinema-national-science-and-media-museum,,Pictureville,BD1 1NQ,Bradford,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,53.79082,-1.75602
-ODEON Luxe Bristol & IMAX,odeon-luxe-bristol-and-imax,,"Cabot Circus, Glass House Lane, Broadmead",BS1 3BX,Bristol,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,51.45810,-2.58510
-Cineworld Broughton & IMAX,cineworld-broughton-imax,CINEWORLD,Broughton Shopping Park - Chester Road,CH4 0DE,Broughton,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,53.16788,-2.97559
-The Light Cinemas Cambridge & IMAX,light-cinemas-cambridge-imax,,"22-26 Cambridge Leisure Park, Clifton Way",CB1 7DY,Cambridge,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,52.19024,0.13685
-ODEON Cardiff & IMAX,odeon-cardiff-imax,ODEON,"Hemingway Road, Atlantic Wharf Leisure Village",CF10 4JY,Cardiff,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,51.46671,-3.16367
-ODEON Chatham & IMAX,odeon-chatham-imax,ODEON,"Leviathan Way, Maritime",ME4 4LL,"Chatham, Kent",,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,51.40067,0.53142
-Cineworld Cheltenham & IMAX,cineworld-cheltenham-imax,CINEWORLD,"The Brewery, St. Margaret's Road",GL50 4EF,Cheltenham,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,51.90378,-2.07575
-Cineworld Chichester & IMAX,cineworld-chichester-imax,CINEWORLD,Chichester Gate,PO19 8EL,Chichester,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,50.83029,-0.78519
-Cineworld Crawley & IMAX,cineworld-crawley-imax,CINEWORLD,"Unit 1-Crawley Leisure Park, London Road",RH10 8LR,Crawley,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,51.11989,-0.18855
-ODEON Dunfermline & IMAX,odeon-dunfermline-imax,ODEON,"Fife Leisure Park, 1 Whimbrel Place",KY11 8EX,Dunfermline,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,56.07790,-3.39520
-Cineworld Edinburgh & IMAX,cineworld-edinburgh-imax,CINEWORLD,"Fountain Park, 130/3 Dundee Street",EH11 1AF,Edinburgh,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,55.94129,-3.21752
-Cineworld Enfield & IMAX,cineworld-enfield-imax,CINEWORLD,208 Southbury Road,EN1 1YQ,Enfield,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,51.64979,-0.06057
-ODEON Gateshead & IMAX,odeon-gateshead-imax,ODEON,48 Garden Walk - MetroCentre,NE11 9XZ,Gateshead,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,54.95896,-1.67062
-Cineworld Silverburn & IMAX,cineworld-silverburn-imax,CINEWORLD,"Silverburn Shopping Centre, 763 Barrhead Rd.",G53 6AG,Glasgow,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,55.82310,-4.34330
-IMAX Theatre at the Glasgow Science Centre,imax-theatre-glasgow-science-centre,,50 Pacific Quay,G51 1EA,Glasgow,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,55.85859,-4.29362
-ODEON Greenwich & IMAX,odeon-greenwich-imax,ODEON,"Bugsby Way, Greenwich",SE100QJ,Greenwich,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,51.48987,0.02512
-Cineworld Hemel Hempstead & IMAX,cineworld-hemel-hempstead-imax,CINEWORLD,"Jarman Park, Hemel Hempstead",HP2 4JW,Hemel Hempstead,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,51.74814,-0.45490
-Cineworld York & IMAX,cineworld-york-imax,CINEWORLD,"York Community Stadium, Kathryn Avenue",YO32 9AF,"Huntingdon, York",,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,53.98566,-1.05173
-Cineworld Ipswich & IMAX,cineworld-ipswich-imax,CINEWORLD,"11 Grafton Way, Cardinal Park  ",IP1 1AX,Ipswich,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,52.05346,1.14979
-ODEON Kingston & IMAX,odeon-kingston-imax,ODEON,"The Rotunda, Clarence Street",KT1 1QP,Kingston,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,51.41080,-0.30442
-Cineworld Leeds & IMAX,cineworld-leeds-imax,CINEWORLD,"White Rose Shopping Centre, Dewsbury Road",LS11 8LU,Leeds,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,53.75826,-1.57513
-ODEON Liverpool ONE & IMAX,odeon-liverpool-one-imax,ODEON,14 Paradise Street,L1 8JF,Liverpool,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,53.40408,-2.98606
-"BFI IMAX, British Film Institute",bfi-imax-british-film-institute,,1 Charlie Chaplin Walk,SE1 8XR,London,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,TRUE,51.50483,-0.11365
-Cineworld Leicester Square IMAX,cineworld-leicester-square-imax,CINEWORLD,"The Empire, 5-6 Leicester Square",WC2H 7NA,London,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,51.51078,-0.13050
-IMAX: The Ronson Theatre at the Science Museum,imax-ronson-theatre-science-museum,,Exhibition Road,SW7 2DD,London,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,TRUE,51.49976,-0.17448
-ODEON Swiss Cottage & IMAX,odeon-swiss-cottage-imax,ODEON,96 Finchley Road,NW3 5EL,London,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,51.54254,-0.17494
-ODEON Trafford Centre & IMAX,odeon-trafford-centre-imax,ODEON,"201 The Dome, The Trafford Centre",M17 8DF,Manchester,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,53.46635,-2.34919
-Vue Manchester IMAX & The Printworks,vue-manchester-imax-printworks,,The Printworks - 27 Withy Grove,M4 2BS,Manchester,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,TRUE,53.48520,-2.24072
-ODEON Mansfield & IMAX,odeon-mansfield-imax,ODEON,Nottingham Road,United Kingdom,Mansfield,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,53.13518,-1.20056
-ODEON Luxe Middlesbrough & IMAX,odeon-luxe-middlesbrough-and-imax,ODEON,"Leisure Park, Marton Rd",TS1 2DY,Middlesbrough,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,54.57480,-1.22690
-ODEON Milton Keynes & IMAX,odeon-milton-keynes-imax,ODEON,13 Stadium Way West,MK1 1ST,Milton Keynes,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,52.00886,-0.73696
-ODEON Norwich & IMAX,odeon-norwich-imax,ODEON,"Riverside Leisure Park, Wherry Road",NR1 1XA,Norwich,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,52.62751,1.30587
-ODEON Luxe Peterborough & IMAX,odeon-luxe-peterborough-and-imax,ODEON,Queensgate Shopping Centre,PE1 1NT,Peterborough,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,52.57440,-0.24370
-Cineworld Plymouth & IMAX,cineworld-plymouth-imax,CINEWORLD,"Unit 17, 11 Bretonside",PL4 0FE,Plymouth,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,50.37056,-4.13677
-ODEON Braehead & IMAX,odeon-braehead-imax,ODEON,"X-scape, Kings Inch Road",PA4 8XU,Renfrew,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,55.87859,-4.37120
-Cineworld Rushden Lakes & IMAX,cineworld-rushden-lakes-imax,CINEWORLD,"Rushden Lakes Shopping Centre, West Terrace",NN10 6FA,"Rushden, Northamptonshire",,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,52.30063,-0.62847
-Cineworld Sheffield & IMAX,cineworld-sheffield-imax,CINEWORLD,"Valley Centertainment, Broughton Lane",S9 2EP,Sheffield,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,53.40152,-1.41497
-Cineworld Stevenage & IMAX,cineworld-stevenage-imax,CINEWORLD,"Unit 4, Stevenage Leisure Park, Kings Way",SG1 2UA,Stevenage,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,51.90027,-0.20908
-VUE Swindon & IMAX,vue-swindon-and-imax,,"Greenbridge Retail & Leisure Park, Drakes Way",SN3 3SQ,Swindon,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,51.57130,-1.75710
-Cineworld Telford & IMAX,cineworld-telford-imax,CINEWORLD,Southwater Square,TF3 4HS,Telford,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,52.67443,-2.44632
-ODEON Uxbridge & IMAX,odeon-uxbridge-imax,ODEON,"The Chimes Shopping Centre, High St, Uxbridge, Greater London",UB8 1GD,Uxbridge,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,51.54510,-0.47553
-Odeon Silverlink & IMAX,odeon-silverlink-imax,ODEON,Osprey Drive,NE28 9NP,Wallsend,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,55.01261,-1.49480
-Cineworld Watford & IMAX,cineworld-watford-imax,CINEWORLD,"INTU Charter Place Shopping Mall, Queens Road",WD17 2UB,Watford,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,51.65535,-0.39356
-ODEON Wimbledon & IMAX,odeon-wimbledon-imax,ODEON,39 The Broadway,SW19 1QB,Wimbledon,,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,51.41988,-0.20480
+Pathé Angers & IMAX,pathe-angers-and-imax,PATHE,"1, Av. des Droits de l'Homme - BP 70430 ",49104,Angers,Maine-et-Loire,FR,France,EMEA,TRUE,FALSE,FALSE,47.47983,-0.55082
+Pathé Archamps & IMAX,gaumont-archamps-imax,PATHE,Site d'Archamps,74160,Archamps,Haute-Savoie,FR,France,EMEA,TRUE,FALSE,FALSE,46.13875,6.12223
+Pathé Aubiere & IMAX,pathe-cine-dome-aubiere-imax,PATHE,Avenue Lavoisier,63170,Aubière,Puy-de-Dôme,FR,France,EMEA,TRUE,FALSE,FALSE,45.75675,3.14379
+Megarama Bordeaux & IMAX,megarama-bordeaux-imax,,7 Quai des Queyries,33100,Bordeaux,Gironde,FR,France,EMEA,TRUE,FALSE,FALSE,44.84183,-0.56111
+Pathé Île Seguin & IMAX,pathe-ile-seguin-and-imax,PATHE,2 Île Seguin,92100,Boulogne-Billancourt,Hauts-de-Seine,FR,France,EMEA,TRUE,FALSE,FALSE,48.81359,2.39484
+Megarama Les Stars & IMAX,megarama-les-stars-and-imax,,18 Rue Nationale,62200,Boulogne-sur-Mer,Pas-de-Calais,FR,France,EMEA,TRUE,FALSE,FALSE,50.72242,1.60605
+Pathé Brumath & IMAX,pathe-brumath-and-imax,PATHE,7 Rue des Frères Lumière,67170,Brumath,Bas-Rhin,FR,France,EMEA,TRUE,FALSE,FALSE,48.74432,7.69278
+Cineum Cannes & IMAX,cineum-cannes-imax,,"210, avenue Francis Tonner ",6150,Cannes,Alpes-Maritimes,FR,France,EMEA,TRUE,FALSE,FALSE,43.55044,6.96032
+Pathé Disney Village & IMAX,gaumont-disney-village-imax,PATHE,Disney Village,77705,Chessy,Seine-et-Marne,FR,France,EMEA,TRUE,FALSE,FALSE,48.86764,2.78545
+Pathé Conflans & IMAX,pathe-conflans-imax,PATHE,9 rue de l'Hautil,78700,Conflans-Sainte-Honorine,Yvelines,FR,France,EMEA,TRUE,FALSE,FALSE,49.00347,2.07777
+Majestic Dole Rive Gauche & IMAX,majestic-dole-rive-gauche-and-imax,,Rue du Général Bethouart,39100,Dole,Jura,FR,France,EMEA,TRUE,FALSE,FALSE,47.08020,5.48460
+Megarama Givors & IMAX,megarama-givors-and-imax,,Avenue Georges Charpak,69700,Givors,Rhône,FR,France,EMEA,TRUE,FALSE,FALSE,45.58330,4.77280
+Pathé Grenoble & IMAX,pathe-grenoble-and-imax,PATHE,21 Bd Maréchal Lyautey,38000,Grenoble,Isère,FR,France,EMEA,TRUE,FALSE,FALSE,45.18567,5.73060
+Pathé Quai d'Ivry & IMAX,cinema-pathe-quai-divry-imax,PATHE,5 rue François Mitterand,94200,Ivry-sur-Seine,Val-de-Marne,FR,France,EMEA,TRUE,FALSE,FALSE,48.82430,2.38849
+Pathé La Valette & IMAX,pathe-la-valette-imax,PATHE,300 avenue de l’Université,86130,La Valette-du-Var,Var,FR,France,EMEA,TRUE,FALSE,FALSE,43.13707,6.00662
+Pathé Plan de Campagne & IMAX,pathe-plan-de-campagne-imax,PATHE, Chemin des Pennes aux Pins,13170,Les Pennes-Mirabeau,Bouches-du-Rhône,FR,France,EMEA,FALSE,FALSE,FALSE,43.41304,5.36238
+Megarama Les Ulis & IMAX,megarama-les-ulis-and-imax,,5 Avenue de l'Aubrac,91940,Les Ulis,Essonne,FR,France,EMEA,TRUE,FALSE,FALSE,48.67711,2.17071
+Pathé Carré Sénart & IMAX,pathé-carré-sénart-imax,PATHE,"3, allée du préambule",77566,Lieusaint,Seine-et-Marne,FR,France,EMEA,TRUE,FALSE,FALSE,48.61584,2.54596
+Kinepolis Lomme & IMAX,kinepolis-lomme-and-imax,KPLS,1 Rue du Chateau D'Isenghien,59160,Lille,Nord,FR,France,EMEA,TRUE,FALSE,FALSE,50.65106,2.98232
+Pathé Montataire & IMAX,pathe-montataire-and-imax,PATHE,91 Rue Louis Blanc,60160,Montataire,Oise,FR,France,EMEA,TRUE,FALSE,FALSE,49.26027,2.45104
+Pathé Montpellier Multiplexe & IMAX,gaumont-montpellier-multiplexe-imax,PATHE,"235, rue Georges Mélies",34000,Montpellier,Hérault,FR,France,EMEA,TRUE,FALSE,TRUE,43.60457,3.91579
+Pathé Lingostiere & IMAX,pathe-lingostiere-and-imax,PATHE,604 boulevard du Mercantour,6300,Nice,Alpes-Maritimes,FR,France,EMEA,TRUE,FALSE,FALSE,43.72225,7.18629
+Kinepolis Nimes & IMAX,kinepolis-nimes-and-imax,KPLS,130 rue Michel Debré,30900,Nîmes,Gard,FR,France,EMEA,TRUE,FALSE,FALSE,43.81460,4.36700
+Pathé La Géode,la-geode,PATHE,26 avenue Corentin Cariou,75019,Paris,Paris,FR,France,EMEA,TRUE,FALSE,FALSE,48.89455,2.38870
+Pathé La Villette & IMAX,pathe-la-villette-imax,PATHE,"30, avenue Corentin Cariou",75019,Paris,Paris,FR,France,EMEA,FALSE,FALSE,FALSE,48.89592,2.38715
+Megarama Roubaix & IMAX,megarama-roubaix-and-imax,,47 Grande Rue,59100,Roubaix,Nord,FR,France,EMEA,TRUE,FALSE,FALSE,50.69250,3.17840
+Pathé Rouen Grand Quevilly & IMAX,gaumont-rouen-grand-quevilly-imax,PATHE,26 boulevard Pierre Brossolette,76120,Rouen,Seine-Maritime,FR,France,EMEA,TRUE,FALSE,FALSE,49.41378,1.04113
+Pathé Atlantis & IMAX,pathe-atlantis-and-imax,PATHE,Allée la Pérouse ,44818,Saint-Herblain,Loire-Atlantique,FR,France,EMEA,TRUE,FALSE,FALSE,47.22255,-1.62624
+Pathé Saran & IMAX,pathe-saran-imax,PATHE,"1010, route Nationale 20",45770,Saran,Loiret,FR,France,EMEA,TRUE,FALSE,FALSE,47.94645,1.89572
+Pathé Parc Millesime & IMAX,gaumont-parc-millesime-imax,PATHE,Parc Millesime,51270,Thillois,Marne,FR,France,EMEA,TRUE,FALSE,FALSE,49.25357,3.96569
+Pathé Labège & IMAX,gaumont-labège-imax,PATHE,"105 La Méridienne, Labège Innopole",31670,Toulouse,Haute-Garonne,FR,France,EMEA,FALSE,FALSE,FALSE,43.53999,1.51104
+IMAX Cite d l'Espace,imax-cite-d-lespace,,"Cite de l'Espace, Avenue Jean Gonord, BP 5855",31506,Toulouse,Haute-Garonne,FR,France,EMEA,TRUE,FALSE,FALSE,43.58600,1.49400
+Cine Loire & IMAX,cine-loire-imax,,Rue de la Presle,37000,Tours,Indre-et-Loire,FR,France,EMEA,FALSE,FALSE,FALSE,47.42285,0.70941
+Pathé Valence & IMAX,pathe-valence-and-imax,PATHE,"53, av de Romans",26000,Valence,Drôme,FR,France,EMEA,TRUE,FALSE,FALSE,44.29032,5.96560
+Pathé Valenciennes & IMAX,pathe-valenciennes-and-imax,PATHE,59 Avenue des Alpes,59300,Valenciennes,Nord,FR,France,EMEA,TRUE,FALSE,FALSE,50.34063,3.51738
+Pathé Carre de Soie & IMAX,cinema-pathe-carre-de-soie-imax,PATHE,2 rue Jacquard,69120,Vaulx-en-Velin,Rhône,FR,France,EMEA,TRUE,FALSE,FALSE,45.76377,4.92629
+Cineworld Ashford & IMAX,cineworld-ashford-imax,CINEWORLD,"Eureka Entertainment Centre, Rutherford Road",TN25 4BN,Ashford,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,51.16060,0.87320
+Cineworld Ashton-under-Lyne & IMAX,cineworld-ashton-under-lyne-imax,CINEWORLD,"Ashton Leisure Park, Fold Way, Off Lord Sheldon Way",OL7 0PG,Ashton Under Lyne,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,53.48920,-2.11019
+Cineworld Barnsley & IMAX,cineworld-barnsley-imax,CINEWORLD,The Glassworks,S70 1GW,Barnsley,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,53.55220,-1.47860
+Cineworld Basildon & IMAX,empire-basildon-imax,CINEWORLD,Festival Leisure Park - Cranes Farm Road,SS14 3WB,Basildon,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,51.58519,0.46292
+Cineworld Belfast & IMAX,cineworld-belfast-imax,CINEWORLD,2 Queens Quay,BT3 9QQ,Belfast,N. ireland,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,54.60390,-5.91650
+Cineworld Birmingham & IMAX,cineworld-birmingham-imax,CINEWORLD,"Broad Street, City Centre  ",B15 1DA,Birmingham,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,52.47429,-1.91569
+Cineworld Birmingham NEC & IMAX,cineworld-birmingham-nec-imax,CINEWORLD,"Resorts World, Pendigo Way",B40 1PU,Birmingham,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,52.44785,-1.71763
+Arc Cinemas Blackpool & IMAX,arc-cinemas-blackpool-and-imax,,"Houndshill Shopping Centre, Coronation Street",FY1 4EN,Blackpool,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,53.81580,-3.05380
+National Media Museum & IMAX,pictureville-cinema-national-science-and-media-museum,,Pictureville,BD1 1NQ,Bradford,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,53.79082,-1.75602
+ODEON Luxe Bristol & IMAX,odeon-luxe-bristol-and-imax,,"Cabot Circus, Glass House Lane, Broadmead",BS1 3BX,Bristol,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,51.45810,-2.58510
+Cineworld Broughton & IMAX,cineworld-broughton-imax,CINEWORLD,Broughton Shopping Park - Chester Road,CH4 0DE,Broughton,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,53.16788,-2.97559
+The Light Cinemas Cambridge & IMAX,light-cinemas-cambridge-imax,,"22-26 Cambridge Leisure Park, Clifton Way",CB1 7DY,Cambridge,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,52.19024,0.13685
+ODEON Cardiff & IMAX,odeon-cardiff-imax,ODEON,"Hemingway Road, Atlantic Wharf Leisure Village",CF10 4JY,Cardiff,Wales,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,51.46671,-3.16367
+ODEON Chatham & IMAX,odeon-chatham-imax,ODEON,"Leviathan Way, Maritime",ME4 4LL,Chatham,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,51.40067,0.53142
+Cineworld Cheltenham & IMAX,cineworld-cheltenham-imax,CINEWORLD,"The Brewery, St. Margaret's Road",GL50 4EF,Cheltenham,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,51.90378,-2.07575
+Cineworld Chichester & IMAX,cineworld-chichester-imax,CINEWORLD,Chichester Gate,PO19 8EL,Chichester,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,50.83029,-0.78519
+Cineworld Crawley & IMAX,cineworld-crawley-imax,CINEWORLD,"Unit 1-Crawley Leisure Park, London Road",RH10 8LR,Crawley,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,51.11989,-0.18855
+ODEON Dunfermline & IMAX,odeon-dunfermline-imax,ODEON,"Fife Leisure Park, 1 Whimbrel Place",KY11 8EX,Dunfermline,Scotland,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,56.07790,-3.39520
+Cineworld Edinburgh & IMAX,cineworld-edinburgh-imax,CINEWORLD,"Fountain Park, 130/3 Dundee Street",EH11 1AF,Edinburgh,Scotland,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,55.94129,-3.21752
+Cineworld Enfield & IMAX,cineworld-enfield-imax,CINEWORLD,208 Southbury Road,EN1 1YQ,Enfield,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,51.64979,-0.06057
+ODEON Gateshead & IMAX,odeon-gateshead-imax,ODEON,48 Garden Walk - MetroCentre,NE11 9XZ,Gateshead,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,54.95896,-1.67062
+Cineworld Silverburn & IMAX,cineworld-silverburn-imax,CINEWORLD,"Silverburn Shopping Centre, 763 Barrhead Rd.",G53 6AG,Glasgow,Scotland,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,55.82310,-4.34330
+IMAX Theatre at the Glasgow Science Centre,imax-theatre-glasgow-science-centre,,50 Pacific Quay,G51 1EA,Glasgow,Scotland,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,55.85859,-4.29362
+ODEON Greenwich & IMAX,odeon-greenwich-imax,ODEON,"Bugsby Way, Greenwich",SE100QJ,Greenwich,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,51.48987,0.02512
+Cineworld Hemel Hempstead & IMAX,cineworld-hemel-hempstead-imax,CINEWORLD,"Jarman Park, Hemel Hempstead",HP2 4JW,Hemel Hempstead,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,51.74814,-0.45490
+Cineworld York & IMAX,cineworld-york-imax,CINEWORLD,"York Community Stadium, Kathryn Avenue",YO32 9AF,Huntingdon,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,53.98566,-1.05173
+Cineworld Ipswich & IMAX,cineworld-ipswich-imax,CINEWORLD,"11 Grafton Way, Cardinal Park  ",IP1 1AX,Ipswich,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,52.05346,1.14979
+ODEON Kingston & IMAX,odeon-kingston-imax,ODEON,"The Rotunda, Clarence Street",KT1 1QP,Kingston,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,51.41080,-0.30442
+Cineworld Leeds & IMAX,cineworld-leeds-imax,CINEWORLD,"White Rose Shopping Centre, Dewsbury Road",LS11 8LU,Leeds,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,53.75826,-1.57513
+ODEON Liverpool ONE & IMAX,odeon-liverpool-one-imax,ODEON,14 Paradise Street,L1 8JF,Liverpool,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,53.40408,-2.98606
+"BFI IMAX, British Film Institute",bfi-imax-british-film-institute,,1 Charlie Chaplin Walk,SE1 8XR,London,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,TRUE,51.50483,-0.11365
+Cineworld Leicester Square IMAX,cineworld-leicester-square-imax,CINEWORLD,"The Empire, 5-6 Leicester Square",WC2H 7NA,London,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,51.51078,-0.13050
+IMAX: The Ronson Theatre at the Science Museum,imax-ronson-theatre-science-museum,,Exhibition Road,SW7 2DD,London,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,TRUE,51.49976,-0.17448
+ODEON Swiss Cottage & IMAX,odeon-swiss-cottage-imax,ODEON,96 Finchley Road,NW3 5EL,London,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,51.54254,-0.17494
+ODEON Trafford Centre & IMAX,odeon-trafford-centre-imax,ODEON,"201 The Dome, The Trafford Centre",M17 8DF,Manchester,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,53.46635,-2.34919
+Vue Manchester IMAX & The Printworks,vue-manchester-imax-printworks,VUE,The Printworks - 27 Withy Grove,M4 2BS,Manchester,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,TRUE,53.48520,-2.24072
+ODEON Mansfield & IMAX,odeon-mansfield-imax,ODEON,Nottingham Road,United Kingdom,Mansfield,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,53.13518,-1.20056
+ODEON Luxe Middlesbrough & IMAX,odeon-luxe-middlesbrough-and-imax,ODEON,"Leisure Park, Marton Rd",TS1 2DY,Middlesbrough,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,54.57480,-1.22690
+ODEON Milton Keynes & IMAX,odeon-milton-keynes-imax,ODEON,13 Stadium Way West,MK1 1ST,Milton Keynes,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,52.00886,-0.73696
+ODEON Norwich & IMAX,odeon-norwich-imax,ODEON,"Riverside Leisure Park, Wherry Road",NR1 1XA,Norwich,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,52.62751,1.30587
+ODEON Luxe Peterborough & IMAX,odeon-luxe-peterborough-and-imax,ODEON,Queensgate Shopping Centre,PE1 1NT,Peterborough,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,52.57440,-0.24370
+Cineworld Plymouth & IMAX,cineworld-plymouth-imax,CINEWORLD,"Unit 17, 11 Bretonside",PL4 0FE,Plymouth,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,50.37056,-4.13677
+ODEON Braehead & IMAX,odeon-braehead-imax,ODEON,"X-scape, Kings Inch Road",PA4 8XU,Renfrew,Scotland,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,55.87859,-4.37120
+Cineworld Rushden Lakes & IMAX,cineworld-rushden-lakes-imax,CINEWORLD,"Rushden Lakes Shopping Centre, West Terrace",NN10 6FA,Rushden,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,52.30063,-0.62847
+Cineworld Sheffield & IMAX,cineworld-sheffield-imax,CINEWORLD,"Valley Centertainment, Broughton Lane",S9 2EP,Sheffield,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,53.40152,-1.41497
+Cineworld Stevenage & IMAX,cineworld-stevenage-imax,CINEWORLD,"Unit 4, Stevenage Leisure Park, Kings Way",SG1 2UA,Stevenage,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,51.90027,-0.20908
+VUE Swindon & IMAX,vue-swindon-and-imax,VUE,"Greenbridge Retail & Leisure Park, Drakes Way",SN3 3SQ,Swindon,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,51.57130,-1.75710
+Cineworld Telford & IMAX,cineworld-telford-imax,CINEWORLD,Southwater Square,TF3 4HS,Telford,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,52.67443,-2.44632
+ODEON Uxbridge & IMAX,odeon-uxbridge-imax,ODEON,"The Chimes Shopping Centre, High St, Uxbridge, Greater London",UB8 1GD,Uxbridge,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,51.54510,-0.47553
+Odeon Silverlink & IMAX,odeon-silverlink-imax,ODEON,Osprey Drive,NE28 9NP,Wallsend,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,55.01261,-1.49480
+Cineworld Watford & IMAX,cineworld-watford-imax,CINEWORLD,"INTU Charter Place Shopping Mall, Queens Road",WD17 2UB,Watford,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,TRUE,FALSE,FALSE,51.65535,-0.39356
+ODEON Wimbledon & IMAX,odeon-wimbledon-imax,ODEON,39 The Broadway,SW19 1QB,Wimbledon,England,GB,United Kingdom of Great Britain and Northern Ireland,EMEA,FALSE,FALSE,FALSE,51.41988,-0.20480
 Cavea Cinemas & IMAX,cavea-cinemas-imax,,"Kakheti Highway, #2 Tvalchrelidze Street",182,Tbilisi,,GE,Georgia,EMEA,FALSE,FALSE,FALSE,41.69840,44.89824
 Village Cinemas (@ The Mall Athens),village-cinemas-the-mall-athens,,Andrea Papandreou 35 (Attiki Odos sideway),15122,Marousi,Attica,GR,Greece,EMEA,TRUE,FALSE,FALSE,38.01970,23.70850
 CineplexX One Salonica & IMAX,cineplexx-one-salonica-imax,,"ONE Salonica Mall, 61 Giannitson Street",54627,Thessaloniki,,GR,Greece,EMEA,FALSE,FALSE,FALSE,40.64679,22.92035
@@ -1210,7 +1206,7 @@ Century Cinemax Garden City Mall & IMAX,century-cinemax-garden-city-mall-imax,,"
 Cosmopark IMAX,cosmopark-imax,,"Kyrgyz Republic, Bishkek Unusalieva str. 40 a ",720028,Bishkek,,KG,Kyrgyzstan,EMEA,FALSE,FALSE,FALSE,42.83410,74.62157
 Dordoi Plaza & IMAX,dordoi-plaza-imax,,"115, Ibraimov Str. ",720021,Bishkek,,KG,Kyrgyzstan,EMEA,FALSE,FALSE,FALSE,42.87322,74.61750
 Cinescape Al-Kout & IMAX,cinescape-al-kout-imax,,"The Al  Kout Mall, Fahaheel",,Fahaheel,,KW,Kuwait,EMEA,TRUE,FALSE,FALSE,29.07889,48.13837
-VOX Cinemas at the Avenues & IMAX,vox-cinemas-at-the-avenues-and-imax,,"Al-Rai- 5th Ring Road, between Ghazali Street & Mohammed Bin Alqasem Street",,Kuwait City,,KW,Kuwait,EMEA,TRUE,FALSE,FALSE,29.30200,47.94000
+VOX Cinemas at the Avenues & IMAX,vox-cinemas-at-the-avenues-and-imax,VOX,"Al-Rai- 5th Ring Road, between Ghazali Street & Mohammed Bin Alqasem Street",,Kuwait City,,KW,Kuwait,EMEA,TRUE,FALSE,FALSE,29.30200,47.94000
 "IMAX, The Scientific Center Kuwait",imax-scientific-center-kuwait,,Gulf Road,22036,Salmiya,,KW,Kuwait,EMEA,TRUE,FALSE,FALSE,29.34982,48.08955
 Halyk Kinopark 16 & IMAX,halyk-kinopark-16-and-imax,,"Almaty, Aport Mall East, Kuldzhinsky tract, 106",50000,Almaty,,KZ,Kazakhstan,EMEA,TRUE,FALSE,FALSE,43.31476,77.01851
 Kinopark 11 Esentai IMAX,kinopark-11-esentai-imax,,77/8 Alfa – Rabi Street,50040,Almaty,,KZ,Kazakhstan,EMEA,FALSE,FALSE,FALSE,43.25503,76.91246
@@ -1218,22 +1214,22 @@ IMAX Kinopark Keruen,imax-kinopark-keruen,,"9 Dostyk, Volno-Zeleniy, Bulvar",100
 Kinopark 8 Saryarka & IMAX,kinopark-8-saryarka-imax,,"Turan Ave., 24, Saryarka Mall",10000,Astana,,KZ,Kazakhstan,EMEA,FALSE,FALSE,FALSE,51.13845,71.40981
 VOX Cinemas & IMAX,vox-cinemas-imax-0,VOX,"City Centre Beirut Hazmieh, City Centre Mall, Terrace Level",91100,Beirut,,LB,Lebanon,EMEA,FALSE,FALSE,FALSE,33.86422,35.52843
 Forum Cinemas Vingis & IMAX,forum-cinemas-vingis-and-imax,,Savanorių pr. 7,3116,Vilnius,,LT,Lithuania,EMEA,TRUE,FALSE,FALSE,54.67830,25.25560
-Kinepolis Kirchberg & IMAX,kinepolis-kirchberg-imax,,"45, Avenue John F. Kennedy",1855,Kirchberg,,LU,Luxembourg,EMEA,TRUE,FALSE,FALSE,49.84880,6.10560
+Kinepolis Kirchberg & IMAX,kinepolis-kirchberg-imax,KPLS,"45, Avenue John F. Kennedy",1855,Kirchberg,,LU,Luxembourg,EMEA,TRUE,FALSE,FALSE,49.84880,6.10560
 Apollo Kino & IMAX,apollo-kino-imax,,Maskavas Street 257,LC-1063,Riga,,LV,Latvia,EMEA,TRUE,FALSE,FALSE,56.92356,24.17018
-Pathe Californie Casablanca & IMAX,pathe-california-casablanca-and-imax,PATHE,"CT1029, Commune de Ain Chock",,Casablanca,,MA,Morocco,EMEA,TRUE,FALSE,FALSE,33.53390,-7.58310
+Pathé Californie Casablanca & IMAX,pathe-california-casablanca-and-imax,PATHE,"CT1029, Commune de Ain Chock",,Casablanca,,MA,Morocco,EMEA,TRUE,FALSE,FALSE,33.53390,-7.58310
 Megarama Rabat & IMAX,megarama-rabat-and-imax,,"Arribat Center, immeuble 17 ,numéro, Altbtal, 09, Av. Al Abtal",,Rabat,,MA,Morocco,EMEA,TRUE,FALSE,FALSE,34.00290,-6.84350
 Filmhouse & IMAX,filmhouse-and-imax,,"The Rock Drive, off Bisola Durosinmi Etti Drive, Lekki Phase 1",,Lagos,,NG,Nigeria,EMEA,FALSE,FALSE,FALSE,6.43930,3.47698
 Filmhouse Circle Mall & IMAX,filmhouse-imax,,"Circle Mall, Peninsula II, Lekki",100001,Lagos,,NG,Nigeria,EMEA,FALSE,FALSE,FALSE,6.43822,3.47295
-Kinepolis Almere & IMAX,kinepolis-almere-and-imax,,Forum 16,1315TH,Almere,,NL,Netherlands,EMEA,TRUE,FALSE,FALSE,52.36880,5.21900
-Pathe Arena & IMAX,pathe-arena-imax,PATHE,Arena Boulevard 600 - Zuidoost,1101 DS,Amsterdam,,NL,Netherlands,EMEA,FALSE,FALSE,FALSE,52.31260,4.94571
-Pathe Arnhem & IMAX,pathe-arnhem-imax,PATHE,Oude Stationsstraat 20,6811 KE,Arnhem,,NL,Netherlands,EMEA,FALSE,FALSE,FALSE,51.98391,5.90452
-Kinepolis Breda & IMAX,kinepolis-breda-and-imax,,Bavelseparklaan 4,4817 ZX,Breda,,NL,Netherlands,EMEA,TRUE,FALSE,FALSE,51.58060,4.83510
-Pathe Spuimarkt & IMAX,pathe-spuimarkt-imax,PATHE,Spui 65,2511 BL,Den Haag,,NL,Netherlands,EMEA,TRUE,FALSE,FALSE,52.07715,4.31562
-Pathe Eindhoven & IMAX,pathe-eindhoven-imax,PATHE,Dommelstraat 27,5611 CJ,Eindhoven,,NL,Netherlands,EMEA,TRUE,FALSE,FALSE,51.44041,5.48099
-Kinepolis Enschede & IMAX,kinepolis-enschede-and-imax,,Colosseum 60,7521 PT,Enschede,,NL,Netherlands,EMEA,TRUE,FALSE,FALSE,52.23870,6.83530
-Pathe Schouwburgplein & IMAX,pathe-schouwburgplein-imax,PATHE,Schouwburgplein 101,3012 CL,Rotterdam,,NL,Netherlands,EMEA,FALSE,FALSE,FALSE,51.92161,4.47351
-Pathe Tilburg & IMAX,pathe-tilburg-imax,PATHE,Pieter Vreedeplein 174,5038 BW,Tilburg,,NL,Netherlands,EMEA,TRUE,FALSE,FALSE,51.55818,5.08876
-Pathe Utrecht Leidsche Rijn & IMAX,pathe-utrecht-leidsche-rijn-and-imax,PATHE,Berlijnplein 100,3541 CM,Utrecht,,NL,Netherlands,EMEA,TRUE,FALSE,FALSE,52.09680,5.07170
+Kinepolis Almere & IMAX,kinepolis-almere-and-imax,KPLS,Forum 16,1315TH,Almere,,NL,Netherlands,EMEA,TRUE,FALSE,FALSE,52.36880,5.21900
+Pathé Arena & IMAX,pathe-arena-imax,PATHE,Arena Boulevard 600 - Zuidoost,1101 DS,Amsterdam,,NL,Netherlands,EMEA,FALSE,FALSE,FALSE,52.31260,4.94571
+Pathé Arnhem & IMAX,pathe-arnhem-imax,PATHE,Oude Stationsstraat 20,6811 KE,Arnhem,,NL,Netherlands,EMEA,FALSE,FALSE,FALSE,51.98391,5.90452
+Kinepolis Breda & IMAX,kinepolis-breda-and-imax,KPLS,Bavelseparklaan 4,4817 ZX,Breda,,NL,Netherlands,EMEA,TRUE,FALSE,FALSE,51.58060,4.83510
+Pathé Spuimarkt & IMAX,pathe-spuimarkt-imax,PATHE,Spui 65,2511 BL,Den Haag,,NL,Netherlands,EMEA,TRUE,FALSE,FALSE,52.07715,4.31562
+Pathé Eindhoven & IMAX,pathe-eindhoven-imax,PATHE,Dommelstraat 27,5611 CJ,Eindhoven,,NL,Netherlands,EMEA,TRUE,FALSE,FALSE,51.44041,5.48099
+Kinepolis Enschede & IMAX,kinepolis-enschede-and-imax,KPLS,Colosseum 60,7521 PT,Enschede,,NL,Netherlands,EMEA,TRUE,FALSE,FALSE,52.23870,6.83530
+Pathé Schouwburgplein & IMAX,pathe-schouwburgplein-imax,PATHE,Schouwburgplein 101,3012 CL,Rotterdam,,NL,Netherlands,EMEA,FALSE,FALSE,FALSE,51.92161,4.47351
+Pathé Tilburg & IMAX,pathe-tilburg-imax,PATHE,Pieter Vreedeplein 174,5038 BW,Tilburg,,NL,Netherlands,EMEA,TRUE,FALSE,FALSE,51.55818,5.08876
+Pathé Utrecht Leidsche Rijn & IMAX,pathe-utrecht-leidsche-rijn-and-imax,PATHE,Berlijnplein 100,3541 CM,Utrecht,,NL,Netherlands,EMEA,TRUE,FALSE,FALSE,52.09680,5.07170
 ODEON Oslo & IMAX,odeon-oslo-imax,ODEON,Vitaminveien 27,485,Oslo,,NO,Norway,EMEA,TRUE,FALSE,FALSE,59.94712,10.77236
 VOX Mall of Oman & IMAX,vox-mall-oman-imax,VOX,"Mall of Oman, Bawshar Street",,Muscat,,OM,Oman,EMEA,FALSE,FALSE,FALSE,23.57500,58.40840
 Helios Gdynia & IMAX,helios-gdynia-and-imax,,Kazimierza Górskiego 2 Street,81-304,Gdynia,,PL,Poland,EMEA,TRUE,FALSE,FALSE,54.50350,18.53180
@@ -1247,65 +1243,14 @@ Cinema City Wroclavia & IMAX,cinema-city-wroclavia-imax,,ul. Sucha 1-11,50-086,W
 Cinemas NOS CascaiShopping & IMAX,cinemas-nos-cascaishopping-imax,,Estrada Nacional 9 ,2765,Alcabideche,,PT,Portugal,EMEA,FALSE,FALSE,FALSE,38.73808,-9.39774
 Cinema NOS Colombo & IMAX,cinema-nos-colombo-imax,,"Av Lusiadas, loja A 203",1500-179,Lisboa,,PT,Portugal,EMEA,TRUE,FALSE,FALSE,38.74956,-9.16900
 Cinema NOS Marshopping & IMAX,cinema-nos-marshopping-imax,,Av. Óscar Lopes - Leça da Palmeira,4450-745,Matosinhos,,PT,Portugal,EMEA,FALSE,FALSE,FALSE,41.27090,-8.68960
-"Nova Cinemas IMAX ""The Pearl""",nova-cinemas-imax-pearl,,"Medina Centrale Corner, Cordova Street, The Pearl",,Doha,,QA,Qatar,EMEA,FALSE,FALSE,FALSE,25.36685,51.55041
-Novo Mall of Qatar & IMAX,novo-mall-of-qatar-and-imax,,"Dukhan High Way, Al Rayyan Road",24593,Doha,,QA,Qatar,EMEA,TRUE,FALSE,FALSE,25.32454,51.35008
+"Novo Cinemas IMAX ""The Pearl""",novo-cinemas-imax-pearl,NOVO,"Medina Centrale Corner, Cordova Street, The Pearl",,Doha,,QA,Qatar,EMEA,FALSE,FALSE,FALSE,25.36685,51.55041
+Novo Mall of Qatar & IMAX,novo-mall-of-qatar-and-imax,NOVO,"Dukhan High Way, Al Rayyan Road",24593,Doha,,QA,Qatar,EMEA,TRUE,FALSE,FALSE,25.32454,51.35008
 "T IMAX, AFI Palace Cotroceni",t-imax-afi-palace-cotroceni,,"AFI Palace Cotroceni, Bd Vasile",14108,Bucharest,,RO,Romania,EMEA,FALSE,FALSE,FALSE,44.43031,26.05165
 Cinema City IMAX Shopping City Timisoara,cinema-city-imax-shopping-city-timisoara,,Calea Sagului 100,300516,Timisoara,,RO,Romania,EMEA,FALSE,FALSE,FALSE,45.76651,21.22844
 CineplexX Galerija Belgrade & IMAX,cineplexx-galerija-belgrade-imax,,Bulevar Vudroa Vilsona 12,11070,Belgrade,,RS,Serbia,EMEA,TRUE,FALSE,FALSE,44.81040,20.45350
-Kinocentr na Krasnoy Ploschadi IMAX,«kinocentr»-na-krasnoy-ploschadi-imax,,"Astrahanskaja 99 - ""Krasnaja Ploshhad""",353451,Anapa,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,44.87959,37.33760
-Kinomir Barnaul & IMAX,kinomir-barnaul-imax,,"188 Pavlovsky Trakt, SLC ""Arena""",656922,Barnaul,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,53.34296,83.68245
-Cinema Park IMAX Chelyabinsk,cinema-park-imax-chelyabinsk,,"Artilleriyskaya Street, 136",454007,Chelyabinsk,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,55.16478,61.43101
-Cinema Park IMAX Kaliningrad,cinema-park-imax-kaliningrad,,Professora Baranova Street 40,236029,Kaliningrad,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,54.71878,20.49909
-Kinomax Kazan & IMAX,kinomax-kazan-imax,,"Pavluhina st, 91",420059,Kazan,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,55.76850,49.14810
-Cinema 9 & IMAX,cinema-9-imax,,"2B, Pionerskaya Street",680003,Khabarovsk,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,48.43890,135.10562
-IMAX Theatre Seven Stars Mall,imax-theatre-seven-stars-mall,,"79/1, Uralskaya St., SBS Megamall, Seven Stars Multiplex",,Krasnodar,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,45.03406,39.05154
-Cinema Park Krasnoyarsk & IMAX,cinema-park-krasnoyarsk-imax,,Dubrovinskogo 1g Building 2,660049,Krasnoyarsk,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,56.00764,92.87945
-Cinema 5 Kursk & IMAX,cinema-5-kursk-imax,,"Karla Marksa, d. 6",305004,Kursk,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,51.74924,36.19288
-Kinomax-Riviera & IMAX,kinomax-riviera-imax,,Katukova st. 51,398036,Lipetsk,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,52.59303,39.50520
-Cinema Park Kinostar Tepily Stan & IMAX,kinostar-deluxe-teply-stan-imax,,"41 km MKAD, MEGA Mall Tepily Stan",142704,Moscow,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,55.60412,37.48975
-Cinema Park MEGA Belaja Dacha & IMAX,kinostar-new-york-imax-mega-belaja-dacha,,"14 km MKAD, MEGA Mall Belaya Dacha",140055,Moscow,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,55.60418,37.49152
-Cinema Park MEGA Khimki & IMAX,cinema-park-mega-khimki-imax,,"5km Leningradskoe shosse, MEGA Mall Khimki Moscow",141400,Moscow,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,55.88622,37.43636
-"Formula Kino City, IMAX Sapphire",formula-kino-city-imax-sapphire,,"Presnenskaya embankment, 2, AFIMALL City",123317,Moscow,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,55.74737,37.54271
-Formula Kino Kutuzovsky & IMAX,formula-kino-kutuzovsky-imax,,"Slavyanskiy blvd, 3",121352,Moscow,,RU,Russian Federation,EMEA,TRUE,FALSE,FALSE,55.74815,37.55534
-Formula Kino Polezhaevskaya & IMAX,formula-kino-polezhaevskaya-imax,,"Horoshovskoe w. , 27 ",123007,Moscow,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,55.78291,37.52364
-Karo IMAX Moscow,karo-imax-moscow,,"24, Novy Arbat str., October Cinema Theatre",,Moscow,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,55.75251,37.59172
-Karo Kuntsevo 13 & IMAX,karo-kuntsevo-13-imax,,"MO, Odintsovskiy district, Nemchinovka, Horoshevskiy p-t, 14",143026,Moscow,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,55.72016,37.38085
-Kinomax Kozhukhovskaya & IMAX,kinomax-kozhukhovskaya-imax,,"9, 7th Kozhukhovskaya St., SLC “Mosaica”, 3 Floor",,Moscow,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,55.70931,37.67191
-Kinomax Prazhskaya & IMAX,kinomax-prazhskaya-imax,,"13A, Kirovogradskaya Street",117519,Moscow,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,55.61267,37.60532
-Kinomax Titan Moscow & IMAX,kinomax-titan-moscow-imax,,"Kashirskoe sh., d. 61 G ",115409,Moscow,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,55.61491,37.71719
-Kinosfera IMAX,kinosfera-imax,,"Pravoberezhnaja 1b - ""Kapitolij Leningradskij""",125445,Moscow,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,55.88081,37.45027
-Cinema Park SLC “TORGOVYI KVARTAL” & IMAX,cinema-park-slc-torgovyi-kvartal-imax,,Prospekt Mira 3,,Naberezhnye Chelny,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,55.72494,52.38114
-Cinema Park Deluxe IMAX,cinema-park-deluxe-imax,,"Betankura street, 1",603086,Nizhny Novgorod,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,56.33324,43.95410
-Formula Kino IMAX Novokuznetsk,formula-kino-imax-novokuznetsk,,DOZ St. 10A,654006,Novokuznetsk,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,53.78212,87.12863
-Cinema Park Novosibirsk IMAX,cinema-park-novosibirsk-imax,,"101, Krasny Prospect, SLC,  Royal Park",,Novosibirsk,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,55.05586,82.91255
-Kristall IMAX,kristall-imax,,"53, Komsomolsky av.",,Perm,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,57.99892,56.25082
-Drugar Theatre & IMAX,drugar-theatre-imax,,"Panagyurishte St., 1A (Komsomol Park)",357352,Pyatigorsk,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,44.05715,43.06041
-Kinomax Rostov-оn-Don & IMAX,kinomax-rostov-оn-don-imax,,"Rostov-on-Don, st. Poymennaya, 1 ",344002,Rostov-on-Don,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,47.20441,39.72026
-Kinomax Ryazan & IMAX,kinomax-ryazan-imax,,"21, Moscow Highway, «Premier» Mall",390000,Ryazan,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,54.59167,39.69864
-Formula Kino Gallery & IMAX,formula-kino-gallery-imax,,"Prospekt Ligovskij 30 A - ""Galereja""",,Saint Petersburg,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,59.92788,-30.35884
-Formula Kino Gemchuzhina & IMAX,formula-kino-gemchuzhina-imax,,"51 Peterhofskoe Shosse, Pearl Plaza",198206,Saint Petersburg,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,59.84812,30.14420
-"Formula Kino Piterland, IMAX Sapphire",formula-kino-piterland-imax-sapphire,,"Primorskij 72 A - ""Piterljend""",,Saint Petersburg,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,59.98173,30.21177
-Kinomax-Samara & IMAX,kinomax-samara-imax,,"Aerodromnaya str. 47A, shopping center Aurora Mall, 4th floor",443070,Samara,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,53.19123,50.18889
-Cinema Park Triumph IMAX,cinema-park-triumph-imax,,"167, Zarubina str., SLC ""Triumph""",,Saratov,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,51.54209,46.01347
-KINO OKKO & IMAX,kino-okko-imax,,7 Novaya Zarya Str.,354071,Sochi,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,43.60481,39.73237
-Cinema Park Raduga & IMAX,cinema-park-raduga-imax,,"14, Kosmonavtov av., Raduga Mall",196244,St. Petersburg,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,59.86870,30.34900
-Cinema Park Kosmos & IMAX,cinema-park-kosmos-imax,,"Dovatortsev st., 75 A",355042,Stavropol,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,44.99669,41.92392
-Cinema Park Surgut & IMAX,cinema-park-surgut-imax,,"Yugorsky Trakt, 38",628400,Surgut,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,61.27116,73.39504
-Kronverk Cinema Maxi & IMAX,kronverk-cinema-maxi-imax,,"141 Octyabrskiy Prospekt, Maxi Shopping Mall",167000,Syktyvkar,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,61.69223,50.80460
-Kinomax Tomsk & IMAX,kinomax-tomsk-imax,,"73, Rozy Lyuksemburg St.",,Tomsk,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,56.50140,84.95173
-Cinema Park Maxi Tula & IMAX,cinema-park-maxi-tula-imax,,"Proletarskaya street, 2",300001,Tula,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,54.19353,37.63464
-Cinema Park Tumen & IMAX,cinema-park-tumen-imax,,"70, M. Gorky St., SLC “Goodwin”",625048,Tumen,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,57.14865,65.56056
-People's Cinema IMAX,peoples-cinema-imax,,"Zherdeva st., 136/1",670013,Ulan Ude,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,51.81226,107.66639
-Cinema Park IMAX (Aqua Mall),cinema-park-imax-aqua-mall,,108 Moskovskoe Shosse,432049,Ulyanovsk,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,54.30488,48.35723
-Kinomax Sapphire & IMAX,kinomax-sapphire-imax,,"St. Kalinina, 8",690035,Vladivostock,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,43.10201,131.91745
-Ocean Cinema Theatre & IMAX,ocean-cinema-theatre-imax,,"3, Naberezhnaja St.",690091,Vladivostok,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,43.11637,131.87800
-Cinema Park Europe City Mall IMAX,cinema-park-europe-city-mall-imax,,"54 b, Lenina Prospect, SLC “Europa City Mall” ",400005,Volgograd,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,48.72485,44.53730
-Cinema Park Gallery Center IMAX,cinema-park-gallery-center-imax,,"35, Koltsovskaya Street, SLC ""Galereya Chizhova""",,Voronezh,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,51.66664,39.19127
-Planeta Kino & IMAX Yalta,planeta-kino-imax-yalta,,Kievskaja 4,,Yalta,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,44.50873,34.16867
-Cinema Park Starlight IMAX,cinema-park-starlight-imax,,"5 Malysheva Street, SLC, Alatyr",,Yekaterinburg,,RU,Russian Federation,EMEA,FALSE,FALSE,FALSE,56.83668,60.62350
 Empire Cinemas - Abha & iMAX,empire-cinemas-abha-imax,,"AlRashid Mall, Albadea Street",62581,Abha,,SA,Saudi Arabia,EMEA,FALSE,FALSE,FALSE,18.23646,42.57876
 Muvi Mall of Arabia & IMAX,muvi-mall-of-arabia-and-imax,,Al-Madinah Al-Munawarah Rd (Gate 5),23532,"An Nuzhah, Jeddah",,SA,Saudi Arabia,EMEA,TRUE,FALSE,FALSE,21.63250,39.15610
-AMC Stars Avenue 9 & IMAX,amc-stars-avenue-9-imax,,"Stars Avenue Mall, King Abdulaziz Road",23424,Jeddah,,SA,Saudi Arabia,EMEA,TRUE,FALSE,FALSE,21.57300,39.12810
+AMC Stars Avenue 9 & IMAX,amc-stars-avenue-9-imax,AMC,"Stars Avenue Mall, King Abdulaziz Road",23424,Jeddah,,SA,Saudi Arabia,EMEA,TRUE,FALSE,FALSE,21.57300,39.12810
 VOX Jeddah Park & IMAX,vox-jeddah-park-and-imax,VOX,Aziziyah Jeddah,23334,Jeddah,,SA,Saudi Arabia,EMEA,TRUE,FALSE,FALSE,21.56240,39.20800
 VOX Jeddah Town Square & IMAX,vox-jeddah-town-square-imax,VOX,"5135, Abdullah Souliman Street, Althaghur Neighborhood, Front of King Abdulaziz University",,Jeddah,,SA,Saudi Arabia,EMEA,TRUE,FALSE,FALSE,21.48230,39.23780
 VOX Red Sea Mall & IMAX,vox-red-sea-mall-imax,VOX,"Red Sea Mall,  N. King Abdulaziz Rd",21146,Jeddah,,SA,Saudi Arabia,EMEA,TRUE,FALSE,FALSE,21.62758,39.10899
@@ -1339,15 +1284,15 @@ Planeta Kino & IMAX Lviv,planeta-kino-imax-lviv,,"30 Stryiska Street, Sokilnyky 
 Planeta Kino & IMAX Odesa,planeta-kino-imax-odesa,,2 Marshala Zhukova Prospekt,,Odesa,,UA,Ukraine,EMEA,FALSE,FALSE,FALSE,46.41556,30.71267
 TashkentCity Cinematica & IMAX,tashkentcity-cinematica-and-imax,,"5-7, B.Zokirov str",100011,Tashkent,,UZ,Uzbekistan,EMEA,TRUE,FALSE,FALSE,41.31650,69.25400
 CineplexX Kosovo & IMAX,cineplexx-kosovo-and-imax,,"Albi Mall, Zona Industriale",10 000,Phristina,,XK,Kosovo,EMEA,TRUE,FALSE,FALSE,42.63170,21.15170
-Ster-Kinekor Eastgate & IMAX,ster-kinekor-eastgate-imax,,43 Bradford Road - Eastgate Shopping Centre - Ground Floor,2144,Bedfordview,,ZA,South Africa,EMEA,FALSE,FALSE,FALSE,-26.17972,28.11746
-Ster-Kinekor Blue Route Mall & IMAX,ster-kinekor-blue-route-mall-imax,,"Blue Route Mall, 16 Tokai Road, Corner Vans & Tolkai Rad, Tokai",7945,Cape Town,,ZA,South Africa,EMEA,FALSE,FALSE,FALSE,-34.06380,18.45432
-Ster-Kinekor V&A Waterfront & IMAX,ster-kinekor-va-waterfront-imax,,19 Dock Road,8001,Cape Town,,ZA,South Africa,EMEA,TRUE,FALSE,FALSE,-33.90420,18.41920
-Ster-Kinekor & IMAX,ster-kinekor-imax,,"Mall of Africa, Magwa Crescent, Midrand",1682,Johannesburg,,ZA,South Africa,EMEA,FALSE,FALSE,FALSE,-26.01639,28.10614
-Ster-Kinekor The Zone @ Rosebank & IMAX,ster-kinekor-the-zone-rosebank-and-imax,,"181 Oxford Service Rd, Rosebank",2196,Johannesburg,,ZA,South Africa,EMEA,TRUE,FALSE,FALSE,-26.14500,28.04360
-Ster-Kinekor Cradlestone Mall & IMAX,ster-kinekor-cradlestone-mall-imax,,Corner Hendrik Potgieter & Furrow Road,157,Krugersdorp,,ZA,South Africa,EMEA,FALSE,FALSE,FALSE,-26.05961,27.83918
-Ster-Kinekor Baywest Mall & IMAX,ster-kinekor-baywest-mall-imax,,Walker Drive Exit off N2 Highway,6017,Port Elizabeth,,ZA,South Africa,EMEA,FALSE,FALSE,FALSE,-33.95198,25.45948
-Ster-Kinekor The Grove & IMAX,ster-kinekor-grove-imax,,Lynnwood and Simon Vermooten Roads - Equestria,,Pretoria,,ZA,South Africa,EMEA,FALSE,FALSE,FALSE,-25.76687,28.32486
-Ster-Kinekor Capegate & IMAX,ster-kinekor-capegate-imax,,Corner Okavango & De Bron Roads - Cape Gate Centre,7570,Sandton,,ZA,South Africa,EMEA,FALSE,FALSE,FALSE,-33.85297,18.69747
+Ster-Kinekor Eastgate & IMAX,ster-kinekor-eastgate-imax,STERK,43 Bradford Road - Eastgate Shopping Centre - Ground Floor,2144,Bedfordview,,ZA,South Africa,EMEA,FALSE,FALSE,FALSE,-26.17972,28.11746
+Ster-Kinekor Blue Route Mall & IMAX,ster-kinekor-blue-route-mall-imax,STERK,"Blue Route Mall, 16 Tokai Road, Corner Vans & Tolkai Rad, Tokai",7945,Cape Town,,ZA,South Africa,EMEA,FALSE,FALSE,FALSE,-34.06380,18.45432
+Ster-Kinekor V&A Waterfront & IMAX,ster-kinekor-va-waterfront-imax,STERK,19 Dock Road,8001,Cape Town,,ZA,South Africa,EMEA,TRUE,FALSE,FALSE,-33.90420,18.41920
+Ster-Kinekor & IMAX,ster-kinekor-imax,STERK,"Mall of Africa, Magwa Crescent, Midrand",1682,Johannesburg,,ZA,South Africa,EMEA,FALSE,FALSE,FALSE,-26.01639,28.10614
+Ster-Kinekor The Zone @ Rosebank & IMAX,ster-kinekor-the-zone-rosebank-and-imax,STERK,"181 Oxford Service Rd, Rosebank",2196,Johannesburg,,ZA,South Africa,EMEA,TRUE,FALSE,FALSE,-26.14500,28.04360
+Ster-Kinekor Cradlestone Mall & IMAX,ster-kinekor-cradlestone-mall-imax,STERK,Corner Hendrik Potgieter & Furrow Road,157,Krugersdorp,,ZA,South Africa,EMEA,FALSE,FALSE,FALSE,-26.05961,27.83918
+Ster-Kinekor Baywest Mall & IMAX,ster-kinekor-baywest-mall-imax,STERK,Walker Drive Exit off N2 Highway,6017,Port Elizabeth,,ZA,South Africa,EMEA,FALSE,FALSE,FALSE,-33.95198,25.45948
+Ster-Kinekor The Grove & IMAX,ster-kinekor-grove-imax,STERK,Lynnwood and Simon Vermooten Roads - Equestria,,Pretoria,,ZA,South Africa,EMEA,FALSE,FALSE,FALSE,-25.76687,28.32486
+Ster-Kinekor Capegate & IMAX,ster-kinekor-capegate-imax,STERK,Corner Okavango & De Bron Roads - Cape Gate Centre,7570,Sandton,,ZA,South Africa,EMEA,FALSE,FALSE,FALSE,-33.85297,18.69747
 IMAX Theatre Showcase,imax-theatre-showcase,,Esteban Echeverria 3750,B1605DT,Buenos Aires,,AR,Argentina,LATAM,FALSE,FALSE,FALSE,-34.51457,-58.52276
 IMAX Parque del Conocimiento,imax-parque-del-conocimiento,,Av. Ulises López y Ruta 12 s/n.,3300,Posadas,,AR,Argentina,LATAM,FALSE,FALSE,FALSE,-27.39716,-55.96219
 The Movies IMAX @ Glória,movies-imax-glória,,Caya J.E.M. Arends 8,,Eagle Beach,,AW,Aruba,LATAM,TRUE,FALSE,FALSE,12.54310,-70.05734
@@ -1360,11 +1305,11 @@ UCI Kinoplex De Lux Shopping Recife & IMAX,uci-kinoplex-de-lux-shopping-recife-i
 UCI Ribeirao Shopping & IMAX,uci-ribeirao-shopping-imax,,Avenida Coronel Fernando Ferreira Leite 1540,14026-900,Ribeirão Preto,,BR,Brazil,LATAM,FALSE,FALSE,FALSE,-21.21163,-47.81606
 UCI New York City Center & IMAX,uci-new-york-city-center-imax,,Avenida Das Américas 5000 - Loja 301,22640-102,Rio de Janeiro,,BR,Brazil,LATAM,FALSE,FALSE,FALSE,-22.99885,-43.36056
 UCI Orient Shopping da Bahia & IMAX,uci-orient-shopping-da-bahia-imax,,"Av. Tancredo Neves, 148",41820-021,"Salvador, Bahia",,BR,Brazil,LATAM,FALSE,FALSE,FALSE,-12.97868,-38.46151
-Cinépolis Iguatemi & IMAX,cinépolis-imax-theatre,,"Shopping JK Iguatemi, Av. Pres. Juscelino Kubitschek, Itaim",04543-011,São Paulo,,BR,Brazil,LATAM,TRUE,FALSE,FALSE,-23.59058,-46.68973
+Cinépolis Iguatemi & IMAX,cinépolis-imax-theatre,CPLS,"Shopping JK Iguatemi, Av. Pres. Juscelino Kubitschek, Itaim",04543-011,São Paulo,,BR,Brazil,LATAM,TRUE,FALSE,FALSE,-23.59058,-46.68973
 Cinesystem IMAX Shopping Bourbon,cinesystem-imax-shopping-bourbon,,"Bourbon Shopping Centre, Rua Turiassu 2100 - Pavimento 3 - Pompéia",05005-900,São Paulo,,BR,Brazil,LATAM,FALSE,FALSE,FALSE,-23.52679,-46.68074
 UCI Analia Franco IMAX,uci-analia-franco-imax,,Avenida Regente Feijó 1759 - Quadra A - Loja 40 - Nível Lírio,03342-000,São Paulo,,BR,Brazil,LATAM,FALSE,FALSE,FALSE,-23.56265,-46.55944
 Fusion Superplex & IMAX,fusion-superplex-imax,,JKF & Gladstone Road,,Nassau,,BS,Bahamas,LATAM,TRUE,FALSE,FALSE,25.05292,-77.39778
-Cinepolis Plazamall Egana & IMAX,cine-hoyts-imax,CPLS,"Av. Larrain 5862, Ñuñoa",7580244,Santiago,,CL,Chile,LATAM,TRUE,FALSE,FALSE,-33.45339,-70.56937
+Cinépolis Plazamall Egana & IMAX,cinépolis-hoyts-imax,CPLS,"Av. Larrain 5862, Ñuñoa",7580244,Santiago,,CL,Chile,LATAM,TRUE,FALSE,FALSE,-33.45339,-70.56937
 Cinemark Mallplaza Vespucio & IMAX,cinemark-mallplaza-vespucio-imax,,"Av. Vicune Mackenna 7110, Local 158",763000,"Santiago, Region Metropolitana",,CL,Chile,LATAM,FALSE,FALSE,FALSE,-33.51760,-70.60030
 Cine Colombia Centro Comercial Santafe & IMAX,cine-colombia-centro-comercial-santafe-and-imax,,"Calle 185 #45-03, C.C. Santafé",110321,Bogota,Cundinamarca,CO,Colombia,LATAM,TRUE,FALSE,FALSE,4.76120,-74.04660
 Cine Colombia Centro Mayor & IMAX,cine-colombia-centro-mayor-and-imax,,Cl. 38A Sur #34D-50,111511,Bogota,Cundinamarca,CO,Colombia,LATAM,TRUE,FALSE,FALSE,4.59028,-74.12454
@@ -1372,7 +1317,7 @@ Multiplex Nuestro Bogota & IMAX,multiplex-nuestro-bogota-imax,,Avienda Carrera 8
 "IMAX, Plaza de las Americas",imax-plaza-de-las-americas,,Cra.71 D NO 6-94 Sur,,Bogotá,,CO,Colombia,LATAM,FALSE,FALSE,FALSE,4.61922,-74.13438
 Cine Colombia Chipichape & IMAX,cine-colombia-chipichape-and-imax,,"Avenida 6 A Norte # 37N-25, Cl. 38 Nte. #6N-35",,Cali,Valle del Cauca,CO,Colombia,LATAM,TRUE,FALSE,FALSE,3.47690,-76.52700
 Cine Colombia Viva Envigado & IMAX,cine-colombia-viva-envigado-imax,,Carrera 32B Sur #32B 2 139 Local 2017 ,,Envigado,,CO,Colombia,LATAM,FALSE,FALSE,FALSE,6.17777,-75.59160
-Cinépolis Premier Limonar & IMAX,cinépolis-premier-limonar-imax,,Calle 5 # 69-03 LOC 304,,Santiago de Cali,,CO,Colombia,LATAM,FALSE,FALSE,FALSE,3.47163,-76.48617
+Cinépolis Premier Limonar & IMAX,cinépolis-premier-limonar-imax,CPLS,Calle 5 # 69-03 LOC 304,,Santiago de Cali,,CO,Colombia,LATAM,FALSE,FALSE,FALSE,3.47163,-76.48617
 Nova Cinemas Ciudad del Este & IMAX,nova-cinemas-ciudad-del-este-imax,,"Centro Comercial Ciudad del Este, Ayarco Sur, Calle La Marina",11801,Curridabat,,CR,Costa Rica,LATAM,FALSE,FALSE,FALSE,9.90867,-84.01776
 Nova Cinemas IMAX,nova-cinemas-imax,,"Avienda 30, San Jose Province, San Rafael de Escazu",,San Jose,,CR,Costa Rica,LATAM,FALSE,FALSE,FALSE,9.93723,-84.14353
 Supercines & IMAX,supercines-imax,,"Av. Manuela Sáenz y Pio Baroja.,Sector Quindibana - El Tropezón, parroquia Huachi Chico",180150,"Canton Ambato, Provincia de Tungurahua",,EC,Ecuador,LATAM,FALSE,FALSE,FALSE,-1.26285,-78.63875
@@ -1384,37 +1329,37 @@ Supercines Sur & IMAX,supercines-sur-imax,,"Ave. 25 de Julio, Centro Comercial R
 Supercines Machala & IMAX,supercines-machala-imax,,s/n km2 vía a machala . Edificio Pase Shopping Machala ,70150,Machala,,EC,Ecuador,LATAM,FALSE,FALSE,FALSE,-3.28002,-79.93168
 Supercines 6 de Diciembre & IMAX,supercines-6-de-diciembre-imax,,Avenida 6 de diciembre No N-35-229 y pasaje Turquía City,170102,Quito,,EC,Ecuador,LATAM,FALSE,FALSE,FALSE,-0.18029,-78.47864
 Supercines Riocentro Quito & IMAX,supercines-riocentro-quito-imax,,Avenida 6 de Diciembre y Tomás de Berlanga,170137,"Quito, Pichincha",,EC,Ecuador,LATAM,TRUE,FALSE,FALSE,-0.16570,-78.47560
-Cinépolis Miraflores & IMAX,cinepolis-miraflores-imax,,"21 Aveinda 4-32 Zona 11, Centro Comercial Miraflores",1011,Guatemala City,,GT,Guatemala,LATAM,FALSE,FALSE,FALSE,14.62141,-90.55255
+Cinépolis Miraflores & IMAX,cinépolis-miraflores-imax,CPLS,"21 Aveinda 4-32 Zona 11, Centro Comercial Miraflores",1011,Guatemala City,,GT,Guatemala,LATAM,FALSE,FALSE,FALSE,14.62141,-90.55255
 "o	Domo IMAX, Descubre - Museo Interactivo de Ciencia y Tecnología",domo-imax-descubre-museo-interactive-ciencia-y-tecnología,,"Av. San Miguel S/N, Jardines del Parque",20270,Aguascalientes,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,21.85566,-102.28858
-Cinépolis Galerías Cuernavaca & IMAX,galerias-cuernavaca-imax,,Autopista México-Acapulco km 87.5 S/N Local 343. Col. Ricardo Flores Magón,62370,Cuernavaca,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,18.93546,-99.19339
-Cinépolis Las Misiones Cd. Juarez & IMAX,cinépolis-las-misiones-cd-juarez-imax,,"Teofile Borunda 8681 Int. Cine, Partido Iglesias",32618,"Cuidad Juarez, Chihuahua",,MX,Mexico,LATAM,FALSE,FALSE,FALSE,31.68482,-106.40920
-Cinépolis Universidad & IMAX,cinépolis-universidad-imax,,"Av. Universidad No. 1000, Col. Santa Cruz Atoyac",3310,Delegacion Benito Juarez,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,19.36723,-99.16672
-Cinépolis Perisur & IMAX,cinépolis-perisur-imax,,"Anillo Periferico Sur No.4690, Comercial Perisur",4500,Delegacion Coyoacan,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,19.30310,-99.18913
-Cinépolis Fórum Tlaquepaque & IMAX,cinepolis-forum-tlaquepaque-imax,CPLS,Blvd. Marcelino Garcia Barragan 2077,44840,Guadalajara,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,20.64871,-103.32000
-Cinépolis Galerías & IMAX,cinépolis-galerías-imax,,"Rafael Sanzio No. 150, Centro Comercial Galerias",45030,Guadalajara,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,20.67639,-103.43190
+Cinépolis Galerías Cuernavaca & IMAX,cinépolis-galerias-cuernavaca-imax,CPLS,Autopista México-Acapulco km 87.5 S/N Local 343. Col. Ricardo Flores Magón,62370,Cuernavaca,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,18.93546,-99.19339
+Cinépolis Las Misiones Cd. Juarez & IMAX,cinépolis-las-misiones-cd-juarez-imax,CPLS,"Teofile Borunda 8681 Int. Cine, Partido Iglesias",32618,"Cuidad Juarez, Chihuahua",,MX,Mexico,LATAM,FALSE,FALSE,FALSE,31.68482,-106.40920
+Cinépolis Universidad & IMAX,cinépolis-universidad-imax,CPLS,"Av. Universidad No. 1000, Col. Santa Cruz Atoyac",3310,Delegacion Benito Juarez,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,19.36723,-99.16672
+Cinépolis Perisur & IMAX,cinépolis-perisur-imax,CPLS,"Anillo Periferico Sur No.4690, Comercial Perisur",4500,Delegacion Coyoacan,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,19.30310,-99.18913
+Cinépolis Fórum Tlaquepaque & IMAX,cinépolis-forum-tlaquepaque-imax,CPLS,Blvd. Marcelino Garcia Barragan 2077,44840,Guadalajara,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,20.64871,-103.32000
+Cinépolis Galerías & IMAX,cinépolis-galerías-imax,CPLS,"Rafael Sanzio No. 150, Centro Comercial Galerias",45030,Guadalajara,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,20.67639,-103.43190
 "IMAX, Museo Sol del Nino",imax-sol-del-niño,,Alfonso Esquer Sández s/n-Zona Centro,21010,Mexicali BC,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,32.65249,-115.47270
 Cinemex Antara & IMAX,cinemex-antara-and-imax,,"Av. Ejército Nacional 843-B, Col. Granada Alcaldía Miguel Hidalgo",11520,Mexico City,Mexico City,MX,Mexico,LATAM,TRUE,FALSE,FALSE,19.43850,-99.20150
 Cinemex Encuentro Oceanía & IMAX,cinemex-encuentro-oceania-and-imax,,"Av. Del Peñón 355, Col. Moctezuma 2da Sección",15530,Mexico City,,MX,Mexico,LATAM,TRUE,FALSE,FALSE,19.43920,-99.09460
 Cinemex Parque Delta & IMAX,cmx-parque-delta-10-and-imax,,"Av. Cuauhtemoc 462 esq. Obrero Mundial, Col. Narvarte , Alcaldía Benito Juárez",3020,Mexico City,,MX,Mexico,LATAM,TRUE,FALSE,FALSE,19.40280,-99.15450
 Cinemex Santa Fe & IMAX,cinemex-santa-fe-15-and-imax,,"Av. Vasco de Quiroga No. 38000, Santa Fe, Alcaldía Cuajimalpa",5348,Mexico City,Del Cuajimalpa,MX,Mexico,LATAM,TRUE,FALSE,FALSE,19.36190,-99.27130
 Cinemex Tezontle & IMAX,cmx-tezontle-10-and-imax,,"Avienda Canal del Tezontle No. 1512, Colonia  Dr. Alfonso Ortiz Tirado",9020,Mexico City,,MX,Mexico,LATAM,TRUE,FALSE,FALSE,19.38390,-99.06850
-Cinépolis Fórum Buenavista & IMAX,cinépolis-fórum-buenavista-imax,,"Eje 1 Norte Mosqueta, No. 259, Int. Cine Col. Buenavista Delegación Cuauhtémoc",6350,Mexico City,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,19.44697,-99.15209
-Cinépolis Galerias Monterrey & IMAX,cinepolis-galerias-monterrey-imax,,"Av. Insurgentes #2500 Int. 510, Col. Vista Hermosa C.P.",64620,Monterrey,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,25.68148,-100.35550
+Cinépolis Fórum Buenavista & IMAX,cinépolis-fórum-buenavista-imax,CPLS,"Eje 1 Norte Mosqueta, No. 259, Int. Cine Col. Buenavista Delegación Cuauhtémoc",6350,Mexico City,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,19.44697,-99.15209
+Cinépolis Galerias Monterrey & IMAX,cinépolis-galerias-monterrey-imax,CPLS,"Av. Insurgentes #2500 Int. 510, Col. Vista Hermosa C.P.",64620,Monterrey,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,25.68148,-100.35550
 Mega Pantalla IMAX Papalote Monterrey,mega-pantalla-imax-papalote-monterrey,,"Av. Fundidora S/N Interior Papalote, Parque Fundidora Col. Obrera",64010,Monterrey,,MX,Mexico,LATAM,TRUE,FALSE,FALSE,25.67730,-100.28406
-Cinépolis Valle Oriente & IMAX,cinépolis-valle-oriente-imax,,"Av. Lazaro Cardenas #1000-1, Colonia Valle del Mirador",64750,"Monterrey, Nuevo Leon",,MX,Mexico,LATAM,FALSE,FALSE,FALSE,25.63874,-100.31370
-Cinepolis Plaza Satélite & IMAX,cinepolis-plaza-satélite-imax,CPLS,"Circuito Centro Comercial 2251, Cd. Satélite",53100,Naucalpan de Juárez,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,19.51059,-99.23529
+Cinépolis Valle Oriente & IMAX,cinépolis-valle-oriente-imax,CPLS,"Av. Lazaro Cardenas #1000-1, Colonia Valle del Mirador",64750,"Monterrey, Nuevo Leon",,MX,Mexico,LATAM,FALSE,FALSE,FALSE,25.63874,-100.31370
+Cinépolis Plaza Satélite & IMAX,cinépolis-plaza-satélite-imax,CPLS,"Circuito Centro Comercial 2251, Cd. Satélite",53100,Naucalpan de Juárez,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,19.51059,-99.23529
 Cinemex Downtown Puebla & IMAX,cinemex-downtown-puebla-and-imax,,"Blvd. América 304, Lomas de Angelópolis, San Antonio Cacalotepec, 72830 San Bernardino Tlaxcalancingo",72830,Puebla,,MX,Mexico,LATAM,TRUE,FALSE,FALSE,18.99690,-98.27890
-Cinépolis Angelópolis Puebla & IMAX,cinépolis-angelópolis-puebla-imax,,"Boulevard del Niño Poblano 2510, Col. Concepción la Cruz Centro Comercial Angelópolis",72450,Puebla,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,19.03194,-98.23312
-Cinépolis Puerto Cancún & IMAX,cinepolis-puerto-cancun-imax,CPLS,"Av. Bonampak Lote 10, interior 1, Benito Juárez",77500,Quintana Roo,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,21.15919,-86.80832
+Cinépolis Angelópolis Puebla & IMAX,cinépolis-angelópolis-puebla-imax,CPLS,"Boulevard del Niño Poblano 2510, Col. Concepción la Cruz Centro Comercial Angelópolis",72450,Puebla,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,19.03194,-98.23312
+Cinépolis Puerto Cancún & IMAX,cinépolis-puerto-cancun-imax,CPLS,"Av. Bonampak Lote 10, interior 1, Benito Juárez",77500,Quintana Roo,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,21.15919,-86.80832
 Cinemex Peninsula Tijuana & IMAX,cinemex-peninsula-tijuana-and-imax,,Chapultepec Alamar,22110,Tijuana,Baja California,MX,Mexico,LATAM,TRUE,FALSE,FALSE,32.51300,-116.96660
-Cinépolis Plaza Río Tijuana & IMAX,cinepolis-plaza-rio-tijuana-and-imax,CPLS,"P.º de los Héroes 98, Zona Urbana Rio Tijuana",22010,Tijuana,Baja California,MX,Mexico,LATAM,TRUE,FALSE,FALSE,32.52640,-117.01830
+Cinépolis Plaza Río Tijuana & IMAX,cinépolis-plaza-rio-tijuana-and-imax,CPLS,"P.º de los Héroes 98, Zona Urbana Rio Tijuana",22010,Tijuana,Baja California,MX,Mexico,LATAM,TRUE,FALSE,FALSE,32.52640,-117.01830
 "Domo IMAX, Centro Cultural Tijuana",domo-imax-centro-cultural-tijuana,,"Paseo de los Héroes #9350, Zona Urbana Rio",C.P. 22010,Tijuana B.C.,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,32.53040,-117.02317
 Cinedot IMAX Toluca,cinedot-imax-toluca,,"Av. Miguel Hidalgo 201, Col. Santa Clara",50090,Toluca,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,19.29036,-99.65246
-Cinépolis Galerías Metepec & IMAX,cinépolis-galerías-metepec-imax,,Vialidad Toluca - Metepec No. 126 Nte. Loc. 500 Col. La Purisima,52140,Toluca,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,19.25824,-99.62127
-Cinépolis Plaza Las Americas - Veracruz,cinépolis-plaza-las-americas-veracruz,,"Av. Las Americas, S/N 3er. Nivel, Col Ylang Ylang",C.P. 94290,Veracruz,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,19.18627,-96.12281
+Cinépolis Galerías Metepec & IMAX,cinépolis-galerías-metepec-imax,CPLS,Vialidad Toluca - Metepec No. 126 Nte. Loc. 500 Col. La Purisima,52140,Toluca,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,19.25824,-99.62127
+Cinépolis Plaza Las Americas Veracruz,cinépolis-plaza-las-americas-veracruz,CPLS,"Av. Las Americas, S/N 3er. Nivel, Col Ylang Ylang",C.P. 94290,Veracruz,,MX,Mexico,LATAM,FALSE,FALSE,FALSE,19.18627,-96.12281
 Panama Canal IMAX Theater,panama-canal-imax-theater,,"Esclusas de Miraflores, Ave. Gaillard 58",801,Ciudad Panama,,PA,Panama,LATAM,FALSE,FALSE,FALSE,9.02965,-79.47486
 Panama City Altaplaza & IMAX,panama-city-altaplaza-imax,,"PacificLocal C-301 Corregimiento, San Francisco Via Israel",,Panama City,,PA,Panama,LATAM,FALSE,FALSE,FALSE,8.98505,-79.51003
-Cinepolis Larcomar & IMAX,cinepolis-larcomar-imax,CPLS,Parque Salazar,15074,"Miraflores, Lima",,PE,Peru,LATAM,TRUE,FALSE,FALSE,-12.13140,-77.03010
+Cinépolis Larcomar & IMAX,cinépolis-larcomar-imax,CPLS,Parque Salazar,15074,"Miraflores, Lima",,PE,Peru,LATAM,TRUE,FALSE,FALSE,-12.13140,-77.03010
 Plaza Carolina Cinema & IMAX,plaza-carolina-cinema-imax,,"Mall Paza Carolina, Carr 3, Ave.  Fragoso, Sabana Abajo",983,Carolina,,PR,Puerto Rico,LATAM,FALSE,FALSE,FALSE,18.39336,-65.97472
 Montehiedra Cinemas & IMAX,montehiedra-cinemas-imax,,"Montehiedra Towne Center, Ave. Los Romero",926,San Juan,,PR,Puerto Rico,LATAM,FALSE,FALSE,FALSE,18.33833,-66.06864
 Cine Libertad & IMAX,cine-libertad-and-imax,,"4 Calle Ote. &, 6a Avenida Sur.",,San Salvador,,SV,El Salvador,LATAM,TRUE,FALSE,FALSE,13.69700,-89.18910
@@ -1516,7 +1461,7 @@ AMC Center Valley 16 & IMAX,amc-center-valley-16-imax,AMC,2805 Center Valley Par
 Megaplex 14 & IMAX at Legacy Crossing,megaplex-14-imax-legacy-crossing,MEGA,I-15 & Parrish Lane,84014,Centerville,UT,US,United States of America,NA,FALSE,FALSE,FALSE,40.92159,-111.88910
 "Airbus IMAX, Steven F. Udvar-Hazy Center",airbus-imax-steven-f-udvar-hazy-center,,14390 Air and Space Museum Parkway,20151,Chantilly,VA,US,United States of America,NA,TRUE,FALSE,FALSE,38.91088,-77.44326
 AMC Northlake 14 & IMAX,amc-northlake-14-imax,AMC,7325 Northlake Mall Drive,28216,Charlotte,NC,US,United States of America,NA,FALSE,FALSE,FALSE,35.35335,-80.85007
-Charlotte IMAX Dome Theatre at Discovery Place,charlotte-imax-dome-theatre-discovery-place,,168 W 6th St,28202,Charlotte,NC,US,United States of America,NA,TRUE,FALSE,FALSE,35.22900,-80.84077
+Charlotte IMAX Dome Theatre at Discovery Place,charlotte-imax-dome-theatre-discovery-place,,168 W 6th St,28202,Charlotte,NC,US,United States of America,NA,TRUE,TRUE,FALSE,35.22900,-80.84077
 Regal Stonecrest At Piper Glen & IMAX,regal-stonecrest-piper-glen-imax,REGL,7824 Rea Road - Stonecrest at Piper Glen Shopping Center,28277,Charlotte,NC,US,United States of America,NA,TRUE,FALSE,FALSE,35.06193,-80.81444
 Regal Stonefield & IMAX,regal-stonefield-imax,REGL,1954 Swanson Drive,22901,Charlottesville,VA,US,United States of America,NA,FALSE,FALSE,FALSE,38.06324,-78.49301
 AMC Chattanooga 18 & IMAX,amc-chattanooga-18-imax,AMC,5080 South Terrace,37412,Chattanooga,TN,US,United States of America,NA,FALSE,FALSE,FALSE,35.00252,-85.22458
@@ -1556,7 +1501,7 @@ AMC Orchard 12 & IMAX,amc-orchard-12-imax,AMC,14653 Orchard Parkway,80023,Denver
 AMC Westminster Promenade 24 & IMAX,amc-westminster-promenade-24,AMC,10655 Westminster Blvd.,80020,Denver,CO,US,United States of America,NA,TRUE,FALSE,FALSE,39.88933,-105.07060
 Regal UA Colorado Center & IMAX,regal-ua-colorado-center-imax,REGL,2000 South Colorado Boulevard at I-25,80222,Denver,CO,US,United States of America,NA,FALSE,FALSE,TRUE,39.67996,-104.94050
 AMC Destin Commons 14 & IMAX,amc-destin-commons-14,AMC,4000 Legendary Drive,32541,Destin,FL,US,United States of America,NA,FALSE,FALSE,FALSE,30.39357,-86.42620
-"IMAX Dome Theatre, Michigan Science Center",imax-dome-theatre-michigan-science-center,,5020 John R. Street,48202-4027,Detroit,MI,US,United States of America,NA,FALSE,FALSE,FALSE,42.35810,-83.06218
+"IMAX Dome Theatre, Michigan Science Center",imax-dome-theatre-michigan-science-center,,5020 John R. Street,48202-4027,Detroit,MI,US,United States of America,NA,FALSE,TRUE,FALSE,42.35810,-83.06218
 Regal Dickson City & IMAX,regal-dickson-city-imax,REGL,3909 Commerce Blvd,18519,Dickson City,PA,US,United States of America,NA,FALSE,FALSE,FALSE,41.47069,-75.63301
 AMC South Bay Center 12 & IMAX,amc-south-bay-center-12-imax,AMC,25 District Avenue,2125,Dorchester,MA,US,United States of America,NA,FALSE,FALSE,FALSE,42.32515,-71.06305
 Regal Arbor Place 18 & IMAX,regal-arbor-place-18-imax,REGL,6600 Douglas Boulevard,30135,Douglasville,GA,US,United States of America,NA,FALSE,FALSE,FALSE,33.73026,-84.74454
@@ -1636,7 +1581,7 @@ AMC Castleton Square 14 & IMAX,amc-castleton-square-14-imax,AMC,6020 E 82nd Stre
 AMC Showplace Indianapolis 17 & IMAX,amc-showplace-indianapolis-17-imax,AMC,4325 South Meridian Street,46217,Indianapolis,IN,US,United States of America,NA,FALSE,FALSE,FALSE,39.70270,-86.15810
 AMC Showplace Traders Point 12 & IMAX,amc-showplace-traders-point-12-imax,AMC,5920 W. 86th Street,46278,Indianapolis,IN,US,United States of America,NA,FALSE,FALSE,FALSE,39.91086,-86.26515
 "IMAX, Indiana State Museum",imax-indiana-state-museum,VZ,650 West Washington Street,46204,Indianapolis,IN,US,United States of America,NA,FALSE,FALSE,TRUE,39.76744,-86.16852
-Cinepolis Luxury Cinemas Inglewood & IMAX,cinepolis-luxury-cinemas-inglewood-imax,CPLS,"1233 District Dr, Suite 100",90305,Inglewood,CA,US,United States of America,NA,TRUE,FALSE,FALSE,33.94630,-118.34320
+Cinepolis Luxury Cinemas Inglewood & IMAX,cinépolis-luxury-cinemas-inglewood-imax,CPLS,"1233 District Dr, Suite 100",90305,Inglewood,CA,US,United States of America,NA,TRUE,FALSE,FALSE,33.94630,-118.34320
 Regal Irvine Spectrum & IMAX,regal-edwards-irvine-spectrum-imax,REGL,500 Spectrum Centre Drive,92618,Irvine,CA,US,United States of America,NA,TRUE,FALSE,TRUE,33.65156,-117.74680
 Regal Issaquah Highlands & IMAX,regal-issaquah-highlands-imax,REGL,940 NE Park Drive,98029,Issaquah,WA,US,United States of America,NA,FALSE,FALSE,FALSE,47.54314,-122.01560
 AMC Regency 24 & IMAX,amc-regency-24-imax,AMC,9451 Regency Square Blvd.,32225,Jacksonville,FL,US,United States of America,NA,FALSE,FALSE,FALSE,30.32630,-81.54985
@@ -1764,7 +1709,8 @@ Apple Cinemas Saco & IMAX,apple-cinemas-saco-imax,APPL,779 Portland Road,4072,Sa
 Esquire IMAX Theatre,esquire-imax,VZ,1211 K Street,95814,Sacramento,CA,US,United States of America,NA,FALSE,FALSE,TRUE,38.57855,-121.49090
 Regal Delta Shores & IMAX,regal-delta-shores-imax,REGL,8136 Delta Shores Circle South,95832,Sacramento,CA,US,United States of America,NA,FALSE,FALSE,FALSE,38.45938,-121.48361
 "ATK IMAX, Clark Planetarium",atk-imax-clark-planetarium,,110 South 400 West,84101,Salt Lake City,UT,US,United States of America,NA,FALSE,FALSE,FALSE,40.76678,-111.90270
-AMC Rivercenter 11 & IMAX,amc-rivercenter-11-imax,AMC,849 E. Commerce,78205,San Antonio,TX,US,United States of America,NA,FALSE,FALSE,TRUE,29.42261,-98.48410
+AMC Rivercenter (10) & IMAX,amc-rivercenter-10-imax,AMC,849 E. Commerce,78205,San Antonio,TX,US,United States of America,NA,FALSE,FALSE,FALSE,29.42477,-98.48481
+AMC Rivercenter (11) & IMAX,amc-rivercenter-11-imax,AMC,849 E. Commerce,78205,San Antonio,TX,US,United States of America,NA,FALSE,FALSE,TRUE,29.42455,-98.48487
 Santikos Palladium IMAX,santikos-palladium-imax,STKO,The Rim - IH-10 - Exit La Cantera,78257,San Antonio,TX,US,United States of America,NA,FALSE,FALSE,FALSE,29.60894,-98.60363
 MetroLux 10 & IMAX,metrolux-10-imax,MTRO,101 W. Avenida Vista Hermosa ,92672,San Clemente,CA,US,United States of America,NA,TRUE,FALSE,FALSE,33.43990,-117.62890
 AMC Mission Valley 20 & IMAX,amc-mission-valley-20-imax,AMC,1640 Camino Del Rio North,92108,San Diego,CA,US,United States of America,NA,TRUE,FALSE,FALSE,32.76770,-117.14890
@@ -1774,7 +1720,7 @@ AMC Metreon 16 & IMAX,amc-loews-metreon-16-imax,AMC,"135 Fourth Street, Suite #3
 Apple Cinemas Van Ness & IMAX,apple-cinemas-van-ness-and-imax,APPL,1000 Van Ness Avenue,94104,San Francisco,CA,US,United States of America,NA,FALSE,FALSE,FALSE,37.78510,-122.42400
 AMC Eastridge 15 & IMAX,amc-eastridge-15-imax,AMC,2190 Eastridge Loop,95122,San Jose,CA,US,United States of America,NA,TRUE,FALSE,FALSE,37.32622,-121.81350
 AMC Saratoga 14 & IMAX,amc-saratoga-14-imax,AMC,700 El Paseo De Saratoga,95130,San Jose,CA,US,United States of America,NA,TRUE,FALSE,FALSE,37.28995,-121.99190
-"IMAX Dome Theater, The Tech Interactive",imax-dome-theater-tech-interactive,VZ,201 South Market Street,95113,San Jose,CA,US,United States of America,NA,TRUE,FALSE,FALSE,37.33191,-121.89015
+"IMAX Dome Theater, The Tech Interactive",imax-dome-theater-tech-interactive,VZ,201 South Market Street,95113,San Jose,CA,US,United States of America,NA,TRUE,TRUE,FALSE,37.33191,-121.89015
 "Megaplex 17 & IMAX, Jordan Commons",megaplex-17-imax-jordan-commons,MEGA,9400 South State Street,84070,Sandy,UT,US,United States of America,NA,FALSE,FALSE,FALSE,40.58175,-111.89070
 AMC Mercado 20 & IMAX,amc-mercado-20-imax,AMC,3111 Mission College Blvd.,95054,Santa Clara,CA,US,United States of America,NA,TRUE,FALSE,FALSE,37.38879,-121.98620
 Regal Edwards Valencia & IMAX,regal-edwards-valencia-imax,REGL,24435 Town Center Drive,91355,Santa Clarita,CA,US,United States of America,NA,FALSE,FALSE,FALSE,34.41784,-118.56170
@@ -1788,7 +1734,7 @@ Regal Thornton Place & IMAX,regal-thornton-place-imax,REGL,301 NE Thornton Place
 NCG Peachtree City & IMAX,ncg-peachtree-city-and-imax,NCG,55 Fischer Crossings Blvd,30277,Sharpsburg,GA,US,United States of America,NA,TRUE,FALSE,FALSE,33.39650,-84.61630
 AMC Metropark 10 & IMAX,amc-metropark-10-imax,AMC,17943 I-45 South,77385,Shenandoah,Texas,US,United States of America,NA,TRUE,FALSE,FALSE,30.19445,-95.45119
 Regal Sherman Oaks & IMAX,regal-sherman-oaks-and-imax,REGL,"15301 Ventura Blvd. Bldg A, 3rd Floor, Suite 300",91403,Sherman Oaks,CA,US,United States of America,NA,TRUE,FALSE,FALSE,34.15400,-118.46630
-The Goodman IMAX Dome,the-goodman-imax-dome,,820 Clyde Fant Parkway,71101,Shreveport,LA,US,United States of America,NA,FALSE,FALSE,FALSE,32.51395,-93.74196
+The Goodman IMAX Dome,the-goodman-imax-dome,,820 Clyde Fant Parkway,71101,Shreveport,LA,US,United States of America,NA,FALSE,TRUE,FALSE,32.51395,-93.74196
 Regal Majestic & IMAX,regal-majestic-imax,REGL,900 Ellsworth Drive,20910,Silver Spring,MD,US,United States of America,NA,TRUE,FALSE,FALSE,38.99704,-77.02542
 Regal Simi Valley Civic Center & IMAX,regal-simi-valley-civic-center-imax,REGL,2751 Tapo Canyon Road,93063,Simi Valley,CA,US,United States of America,NA,TRUE,FALSE,FALSE,34.28556,-118.71790
 Regal Simpsonville & IMAX,regal-simpsonville-imax,REGL,,29681,Simpsonville,SC,US,United States of America,NA,TRUE,FALSE,FALSE,34.72719,-82.25764
